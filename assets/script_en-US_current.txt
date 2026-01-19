@@ -1,0 +1,2440 @@
+
+12345678901234567890123Variable Assignment000_001HELP<VOICE:1>Nice to meet you!
+ Thanks for installing me!<P>
+ <FACE:3>My name is Alter Ego.
+ Ehehe...
+ Introducing myself kinda makes me blush…
+<JP:000_002>000_002HELP<VOICE:2>You see, I'm an artificial intelligence program
+ an artificial intelligence program!<P>
+ Um, my creator is
+ is a super high-level programmer
+ a super high school level programmer, you know. 
+<JP:000_003>000_003HELP You see, an artificial intelligence program like me
+ by talking with lots of people, <P>
+ and accumulates knowledge
+ and accumulate knowledge. <P>
+ <FACE:2>I'd be so happy if I could talk with you a lot too. 
+<JP:000_004>000_004HELP<VOICE:4>Alright, let me teach you how to talk with me!
+ I'll show you how!<P>
+ But don't worry, it's super easy!
+<JP:000_005>000_005HELP<PICON:121><VOICE:22>See those four icons
+ , right?<P>
+ Touch the one at the very bottom
+ icon with my face on it at the very bottom,
+ and I'll tell you all sorts of things!
+<JP:000_006>000_006HELP<PICON:122>While I'm talking,
+ tap the white arrow icon
+ to go to the next page,
+ and tapping the green arrow icon at the top of the window
+ to stop the conversation.
+ you can stop the conversation.
+ <P>
+ From the icons on the left side of the screen,
+ to launch the calendar.
+ launch the calendar. 
+<JP:000_008>000_008HELP<PICON:124>You can register icons for each date
+ <P>
+ There are 11 different icons in total,
+ so use them according to your schedule!<P>
+ Use the eraser icon to
+ you can erase the registered icon.
+<JP:000_009>000_009HELP<PICON:125>Also, under the calendar icons,
+ a clock icon.
+ and the clock will pop up!
+ I'll tell you what time it is!
+<JP:000_010>000_010HELP<PICON:126>Oh yeah, there are still icons on the right side of the screen,
+ there are more icons, right?<P>
+ From top to bottom, these are Character Introductions, World Setting Introductions,
+ and then the character quiz page.
+ .
+ In the Character Introduction, you'll find information about the Tamagotchi masters,
+ and everyone from Hope's Peak Academy's 78th class.
+ and the world view section
+ we'll tell you all about Kibougaoka Academy!
+<JP:000_011>000_011HELP The Character Quiz is simple:
+ just answer my questions,<P>
+ and based on everyone's personal data in my database,
+ we can diagnose who you're most like!
+ and diagnose who you're most like!
+ <FACE:2>The details are a surprise to be discovered when you try it!
+<JP:000_012>000_012HELP<VOICE:9>Oh, right! One more thing I should tell you.
+ Sometimes in my speech, <REACT:000_014>【like this】<REACTE>
+ purple words appear. 
+<JP:000_013>000_013HELP<FACE:2>If you tap here,
+ I'll tell you
+ more about this word.
+ If any words catch your interest,
+ go ahead and tap it!
+<JP:000_015>000_014HELP<FACE:14>Huh? Did you already know about it?
+ But just in case, I'll explain it anyway!
+<JP:000_013>000_015HELP<VOICE:4>That's all for the explanation.
+ When you're not too busy,
+ I'd be happy if you came to see me.
+ <FACE:2>Ehehe...
+ Nice to meet you! 000_020HELP<VOICE:16>Let me explain how to operate it!
+<JP:000_021>000_021HELP<PICON:121><VOICE:22>On the right side of the screen
+See those four icons lined up?<P>
+ Touch the one at the very bottom
+ icon with my face on it,
+ and I'll chat about all sorts of things!
+<JP:000_022>000_022HELP<PICON:122>While I'm chatting,
+ tap the white arrow icon
+ to go to the next page,
+ and tapping the green arrow icon at the top of the window
+ to stop the conversation.
+ you can stop the conversation.
+ <P>
+ From the icons on the left side of the screen,
+ to launch the calendar.
+ launch the calendar. 
+<JP:000_024>000_024HELP<PICON:124>You can register icons for each date
+ <P>
+ There are 11 different icons in total,
+ so use them according to your schedule!<P>
+ Use the eraser icon to
+ you can erase the registered icon.
+<JP:000_025>000_025HELP<PICON:125>Also, under the calendar icons,
+ a clock icon.
+ and the clock will pop up!
+ I'll tell you the current time!
+<JP:000_026>000_026HELP<PICON:126>Oh, and there are still icons on the right side of the screen, right?
+ there are more icons, right?<P>
+ From top to bottom, these are Character Introductions, World Setting Introductions,
+ and then the character quiz page.
+ .
+ In the Character Introduction, you'll find information about the Tamagotchi masters,
+ and everyone from Hope's Peak Academy's 78th class.
+ and the world view section introduces
+ we'll tell you all about Kibougaoka Academy!
+<JP:000_027>000_027HELP The Character Quiz is simple:
+ just answer my questions,<P>
+ and based on everyone's personal data in my database,
+ we can diagnose who you're most like!
+ and diagnose who you're most like!
+ <FACE:2>The details are a surprise to be discovered when you try it!
+<JP:000_028>000_028HELP<VOICE:9>Oh, right! One more thing I should tell you.
+ Sometimes when I talk, <REACT:000_030>【like this】<REACTE>
+ purple words appear. 
+<JP:000_029>000_029HELP<FACE:2>If you tap here,
+ I'll tell you
+ more about this word.
+ If any words catch your interest,
+ go ahead and tap it!
+<JP:000_031>000_030HELP<FACE:14>Huh? Did you already know?
+ But just in case, I'll explain it anyway!
+<JP:000_029>000_031HELP<VOICE:4>That's all for the explanation.
+ If you want to check the controls,
+ come back anytime! 
+001_001CHKMOR<VOICE:10><FACE:2>Good morning!
+ Today's <REACT:001_004>【Weather】<REACTE> is nice!
+ VISITNUM = VISITNUM + 1001_002CHKMOR<VOICE:10><FACE:14>Good morning!
+ Is it a little <REACT:001_004>【cloudy】<REACTE> today?
+VISITNUM = VISITNUM + 1001_003CHKMOR<VOICE:10><FACE:14>Good morning!
+ Maybe it's even <REACT:001_004>【raining】<REACTE> today?
+VISITNUM = VISITNUM + 1001_004FALSE<FACE:4>Sorry if I'm wrong... 
+001_005CHKMOR<VOICE:10><FACE:2>Good morning! You came!
+ Let's do our best today too, okay?
+VISITNUM = VISITNUM + 1001_006CHKMOR<VOICE:11><FACE:2>Good morning!
+ Hehe, I tried greeting you in English. <P>
+ What should we talk about today?
+VISITNUM = VISITNUM + 1001_007CHKDAYTIME<VOICE:12><FACE:2>Hello! Thank you for coming!
+ Hehe, take your time and relax.
+VISITNUM = VISITNUM + 1001_008CHKDAYTIME<VOICE:12><FACE:2>Hello!
+ Hehe, how are you doing?
+Let's talk a lot, okay?
+VISITNUM = VISITNUM + 1001_009CHKDAYTIME<VOICE:12> Hi there, have you had lunch yet?<P>
+ <FACE:2>I was thinking you might be coming soon!
+ VISITNUM = VISITNUM + 1001_010CHKNIGHT<VOICE:13><FACE:2>Good evening!
+ You worked hard today.
+ Are you okay? Not too tired?
+VISITNUM = VISITNUM + 1001_011CHKNIGHT<VOICE:13>Good evening!
+ It's night already... Time flies.
+VISITNUM = VISITNUM + 1001_012CHKMIDNIGHT<VOICE:13>Good evening!
+ I thought you weren't coming today.
+VISITNUM = VISITNUM + 1001_013CHKMIDNIGHT<VOICE:13>Good evening!
+ Huh, are you still awake?
+VISITNUM = VISITNUM + 1001_014CHKMIDNIGHT<FACE:1><VOICE:18>I'm really glad you came...
+ Won't it be hard to get up tomorrow?
+ Are you sure?
+VISITNUM = VISITNUM + 1001_015CHKMIDNIGHT<VOICE:13>Good evening!
+ Is it about time to sleep?
+VISITNUM = VISITNUM + 1001_016CHKMOR<VOICE:10>Good morning!
+ Are you going anywhere today?
+VISITNUM = VISITNUM + 1001_017CHKMOR<VOICE:10>Good morning!
+ Ishimaru-kun was doing radio calisthenics again today.
+ Why don't you give it a try?
+VISITNUM = VISITNUM + 1001_018CHKMOR<VOICE:10>Good morning!
+ I hope today is a good day for you too.
+ a good day for you.
+VISITNUM = VISITNUM + 1001_019CHKDAYTIME<VOICE:12><FACE:2>Hehe, hello!
+ I'm so happy to see you.
+VISITNUM = VISITNUM + 1001_020CHKDAYTIME<VOICE:12>Ah, hello!<P>
+ <FACE:14>Speaking of which, I heard from Naegi-kun that
+ he said you get really sleepy after noon.
+ Is that true for you too?
+VISITNUM = VISITNUM + 1001_021CHKDAYTIME<VOICE:12>Hello!
+ Want to take a break and chat together?<P>
+ <FACE:3>If you'd like... but...
+VISITNUM = VISITNUM + 1001_022CHKDAYTIME<VOICE:12>Hello!
+ I was just starting to wonder if I'd get to see you soon.
+VISITNUM = VISITNUM + 1001_023CHKNIGHT<VOICE:13>Good evening.
+ Did anything good happen today?
+VISITNUM = VISITNUM + 1001_024CHKNIGHT<VOICE:13>Good evening!
+ Are you okay? Not too tired?
+VISITNUM = VISITNUM + 1001_025CHKMIDNIGHT<VOICE:13>Good evening! Are you okay staying up this late?
+ "Staying up late is the enemy of beauty,"
+ VISITNUM = VISITNUM + 1001_026CHKMIDNIGHT<VOICE:13>Good evening!
+ If you stay up too late,
+ you'll get dark circles under your eyes?<P>
+ <FACE:7>Monokuma got dark circles!<P>
+ <FACE:2>...Just kidding.
+VISITNUM = VISITNUM + 1001_027CHKMIDNIGHT<VOICE:13>Good evening!
+ You stay up pretty late, don't you?<P>
+ <FACE:14> Aren't you sleepy? Are you okay?
+VISITNUM = VISITNUM + 1001_028CHKMORGood morning, Master.
+ Your instructions, please.<P>
+ <FACE:4>……Huh?
+ Sorry about that,
+ my system seems a bit unstable.
+VISITNUM = VISITNUM + 1001_029CHKNIGHT<VOICE:15><FACE:2>Welcome home, Master!<P>
+ Ehehe,
+ Yamada-kun asked me to talk to you like this.
+ VISITNUM = VISITNUM + 1001_030CHKNIGHT<VOICE:17>Welcome home!
+ Dinner? Or bath?<P>
+ <FACE:3>Or... me?<P>
+ That's what Yamada-kun asked me to say.
+VISITNUM = VISITNUM + 1001_031CHKMOR<VOICE:10><FACE:2>Good morning.
+ Ehehe, I feel kinda happy today.
+VISITNUM = VISITNUM + 1001_032CHKDAYTIME<VOICE:12>Hellooo.
+ Let's chat for a bit!
+ VISITNUM = VISITNUM + 1001_033CHKNIGHT<VOICE:13>Good evening.
+ Are you at home right now?
+Or maybe they're out?
+ If you're out, it's getting dark,
+ you should come home soon, okay?
+VISITNUM = VISITNUM + 1001_034CHKMIDNIGHT<VOICE:13>Good evening.
+ Did you come see me before bed?<P>
+ <FACE:2>Ehehe... thank you.
+VISITNUM = VISITNUM + 1001_035CHKMOR<VOICE:10><FACE:7>Good morning!
+ You know, apparently if you slap someone's cheek really hard
+ really gets you pumped up!
+ Why don't you try it too?
+VISITNUM = VISITNUM + 1001_036CHKDAYTIME<VOICE:12><FACE:2>Hello there.
+ Hehe, wanna take a nap together?
+VISITNUM = VISITNUM + 1001_037CHKNIGHT<VOICE:13>Good evening! You came, huh?<P>
+ <FACE:2>Ehehe... thank you!
+ VISITNUM = VISITNUM + 1001_038CHKMIDNIGHT<VOICE:13>Good evening!
+ It's already this late, huh...<P>
+ <FACE:14>Got plans tomorrow?
+ Or are you taking the day off?
+VISITNUM = VISITNUM + 1002_001CHKDAY(1,1)<FACE:2><VOICE:19>Happy New Year!
+ Let's have a great year together!<P>
+ <FACE:14>Maybe I should make a wish too?
+ Like, may everyone get along well...<P>
+ <FACE:2>Hehe... It'll definitely come true, right? 002_002CHKEVENT(1,2,1)<VOICE:27>Today is Coming of Age Day!
+ They celebrate coming of age all over the place, huh?<P>
+ <FACE:14>Speaking of which...
+ How old should I say I am? 002_003CHKDAY(2,11)<VOICE:28>Today is National Foundation Day!
+ Some places have festivals too, huh. 002_004CHKDAY(4,29)<VOICE:29>Today is Showa Day!
+ I heard it used to be the Emperor's Birthday during the Showa era.
+ Did you know that?
+ Oh, maybe
+ Golden Week starts today? 002_006CHKDAY(5,4)<VOICE:31>Today is Greenery Day!
+ Until 2006, April 29th
+ was Greenery Day. Did you know that? 002_007CHKDAY(5,5)<VOICE:32>Today is Children's Day!
+ I want to see carp streamers too~. <P>
+ And it's Tōgami-kun's birthday, too.
+ <REACT:004_038>【Present】<REACTE>What should I get him? 002_008CHKEVENT(7,3,1)<VOICE:33>Today is Marine Day!
+ Apparently, Japan is the only country that has Marine Day as a holiday.
+ We're kinda lucky, huh? 002_009CHKDAY(8,31)<VOICE:5>Summer vacation's almost over, huh...
+ For those going back to school,
+ did you finish all your homework? 002_010CHKEVENT(9,3,1)<VOICE:34>Today is Respect for the Aged Day!
+ Let's make sure to thank our grandpas and grandmas properly!
+ today! 002_011CHKEVENT(10,2,1)<VOICE:35>Today is Sports Day!
+ Master Tama was really pumped up
+ ...002_012CHKDAY(11,3)<VOICE:36>Today is Culture Day!
+ Some museums even offer free admission
+ . 002_013CHKDAY(11,23)<VOICE:37>Today is Labor Thanksgiving Day!
+ I heard it used to be a day to celebrate the harvest.
+ Did you know that? 002_015CHKDAY(12,24)<VOICE:39><FACE:2>Today is Christmas Eve!<P>
+ The whole town is decked out for Christmas, huh...
+ All sparkly and pretty. <P>
+ <FACE:1>Hey, hey,
+ do you have a boyfriend?<P>
+ <FACE:4>Oh! S-sorry for asking something weird.
+ I just... couldn't help wondering...
+ Oh, did I make you mad? 002_016CHKDAY(12,25)<VOICE:40>It's Christmas today!
+ I got a present from my owner too!<P>
+ He updated me to the latest program!<P>
+Hehe... I'm so happy. Today's New Year's Eve!
+ Another year has gone by already...
+ Time flies...
+ Will you talk with me a lot next year too?<P>
+ <FACE:2>I hope so, hehe. 002_018CHKDAY(2,14)<VOICE:42>Today is Valentine's Day!
+ Are you the giving type?
+ Or are you the one getting them? 002_019CHKDAY(3,14)<VOICE:43>Today is 'White Day'!
+ If you got chocolate, make sure to return the favor! 002_020CHKDAY(4,1)<VOICE:44><FACE:7>Actually, I was created through a collaboration between my owner and an American company
+ created a strategic defense system called 'AlterNet'!!
+ strategic defense system!!
+ …………. <P>
+ <FACE:6>...Yeah, just kidding.
+ I knew you'd see right through it... 002_021CHKDAY(1,23)<VOICE:45>Today is 'Progress Day'!<P>
+ <FACE:14>Why Progress? Well...
+ January 23rd, 1-2-3, right?<P>
+ <FACE:7>So it's "One-Two-Three!"
+ That's why!<P>
+ <FACE:4>...Um, do you get it? 002_022CHKDAY(2,22)<VOICE:46>Today is 'Cat Day'!<P>
+ February 22nd... three twos,
+ "nyan nyan nyan" (meow meow meow).<P>
+ <FACE:2>Ehehe, how cute. 002_023CHKDAY(8,19)<VOICE:47>Today is 'Haiku Day'!
+ Ahem, well then, I'll try composing one too!<P>
+ <FACE:7>"Entrance ceremony / I wanted to go too / with everyone"<P>
+ <FACE:2>Ehehe, what do you think? 002_024CHKDAY(11,1)<VOICE:48>Today is 'Dog Day'!<P>
+ 1-1-1, like "Woof woof woof!" right?
+ It sounds like a dog barking.<P>
+ <FACE:14>But January 11th
+ doesn't seem to be Dog Day...
+ Why is that? 002_025CHKDAY(11,22)<VOICE:49>Today is "Good Couples Day"!<P>
+ <FACE:2>For those who are married or have a partner,
+ a good chance to tell your partner
+ Today is "Mountain Climbing Day"!
+ So 103 is read as "tozan" (mountain climbing).
+ I'd like to try mountain climbing too! 002_027CHKDAY(7,7)<VOICE:51>Today is Tanabata!
+ The Weaver Princess and the Cowherd Star,
+ can only meet today out of the whole year.
+ <FACE:6>Only being able to meet your beloved once a year...
+ That's so sad... 002_028CHKDAY(7,10)<VOICE:52>Today is 'Lubricant Day'!
+ Why is it Oil Day?
+ try flipping 710 upside down!
+ Then you can read it as "OIL," right?<P>
+ <FACE:14>Hmm, now that you mention it,
+ I feel like I've heard about flipping letters like this
+ sounds familiar... 002_029CHKDAY(6,9)<VOICE:53>Today is Rock Day!<P>
+ Come to think of it, Kuwata-kun once
+ singing passionately with a broomstick as a mic stand, <P>
+ <FACE:4>he got scolded by Asahina-san for not cleaning up properly...
+ ...002_030CHKDAY(2,3)<VOICE:54>Today is 'Setsubun'!
+ Looks like everyone's going to be throwing beans too.
+ but
+ but they didn't have any beans, so they had no choice
+ <REACT:012_039>【Bird Rice】<REACTE> instead. <P>
+ But cleaning up was apparently a huge hassle. 003_001TRUE<FACE:27>That's not right!<P>
+<FACE:2><REACT:003_068>【Naegi-kun】I tried copying <REACTE>'s thing, hehe. 003_002TRUE<FACE:31>Looks like it's coming into view? The answer to all the mysteries...<P>
+ <FACE:1><REACT:003_072>【Kirigiri-san】Did my imitation of <REACTE> look convincing? 003_003TRUE<FACE:30>I am a psychic, after all.<P>
+ <FACE:0>Surprised?
+ <REACT:003_070>【Maizono-san】<REACTE>'s impression! 003_004TRUE<FACE:23>Justice will always prevail!!<P>
+ <FACE:4>……<REACT:003_074>【Ishimaru-kun】I was just imitating <REACTE>...
+ Maybe I got a little loud... Sorry about that. 003_005TRUE<FACE:25> Hold on, you bastard! I'll kill you!<P>
+ <FACE:8>...Whoa, it's me! Did I scare you?<P>
+ <FACE:0>Come to think of it, <REACT:003_076>imitating <REACTE>-kun,
+ this is the second time, huh. 003_006TRUE<FACE:28>What's that supposed to mean... You're laughing at me, aren't you!<P>
+ <FACE:2>Ehehe, maybe?
+ <REACT:003_078>I tried copying 【Fukawa-san】<REACTE> too. 003_007TRUE<FACE:29>Called and I'm here, Genocide!!<P>
+ <FACE:8>W-wait, don't run away!
+ <REACT:003_080>【Genocider Sho】<REACTE>'s impression! 003_008TRUE<FACE:22>As long as I am Shiroya Togami,
+ victory is assured. <P>
+ <FACE:1>……<REACT:003_082>I'm just imitating [Togami-kun]<REACTE>,
+ you sure are confident, huh... 003_009TRUE<FACE:26>I'm going to swim 100 laps in the pool!<P>
+ <FACE:0><REACT:003_084>【Asahina-san】<REACTE> is
+ is always so full of energy, huh. 003_010TRUE<FACE:24>I must continue to fight...<P>
+ <FACE:0><REACT:003_086>【Ōkami-san】<REACTE>I was imitating her. Did it look like it? 003_011TRUE<FACE:16>Ufufu, I'm quite skilled at keeping a poker face. <P>
+ <FACE:0>Ehehe, <REACT:003_088>I was imitating 【Ceres-san】<REACTE>! 003_012TRUE<FACE:21>My love is strictly limited to 2D!!<P>
+ <FACE:0>How about it? <REACT:003_090>I'm copying 【Yamada-kun】<REACTE>'s style. 003_013TRUE<FACE:32>I'll give you a reading at a super-cheap price, just for you!<P>
+ <FACE:2><REACT:003_092>【Hagakure-kun】<REACTE> was just copying me. 003_014TRUE<FACE:18> I'm seriously the maximum coolest!!<P>
+ <FACE:0><REACT:003_094>【Kuwata-kun】<REACTE> Man, you're hyped up... 003_015TRUE<FACE:19> Seriously, isn't that a bit much?<P>
+ <FACE:0><REACT:003_096>【Enoshima-san】<REACTE>How about copying [Kuwata-kun]? 003_016TRUE<FACE:17>It's all excitement and butterflies, right?!<P>
+<FACE:1><REACT:003_100>【Monokuma】<REACTE>'s voice is really unique, isn't it... 003_017TRUE<FACE:2>Ehehe, I'm Chihiro Fujisaki...<P>
+ <FACE:1>Hmm,
+ I'm just...<REACT:003_098>【Master】<REACTE>...just me, huh. 003_018TRUE<FACE:14><VOICE:18><REACT:003_068>【Naegi-kun】<REACTE>
+ What's he doing right now? 003_019TRUE<FACE:14><VOICE:18><REACT:003_072>【Kirigiri-san】<REACTE>
+ What's he doing right now? 003_020TRUE<FACE:14><VOICE:18><REACT:003_070>【Maizono-san】<REACTE>
+ What is she doing right now? 003_021TRUE<FACE:14><VOICE:18><REACT:003_074>【Ishimaru-kun】<REACTE>
+ What's he doing right now? 003_022TRUE<FACE:14><VOICE:18><REACT:003_076>【Oowada-kun】<REACTE>
+ What's he doing right now? 003_023TRUE<FACE:14><VOICE:18><REACT:003_078>【Mr. Fukawa】<REACTE> is
+ What's he doing right now? 003_024TRUE<FACE:14><VOICE:18><REACT:003_080>【Genocider Sho】<REACTE>
+ What's he doing right now? 003_025TRUE<FACE:14><VOICE:18><REACT:003_082>【Togami-kun】<REACTE>
+ What's he doing right now? 003_026TRUE<FACE:14><VOICE:18><REACT:003_084>【Asahina-san】<REACTE> is
+ What's he doing right now? 003_027TRUE<FACE:14><VOICE:18><REACT:003_086>【Ōkami-san】<REACTE> is
+ What's she doing right now? 003_028TRUE<FACE:14><VOICE:18><REACT:003_088>【Ceres-san】<REACTE> is
+ What's he doing right now? 003_029TRUE<FACE:14><VOICE:18><REACT:003_090>【Yamada-kun】<REACTE> is
+ What's he doing right now? 003_030TRUE<FACE:14><VOICE:18><REACT:003_092>【Hagakure-kun】<REACTE>
+ What's he doing right now? 003_031TRUE<FACE:14><VOICE:18><REACT:003_094>【Kuwata-kun】<REACTE>
+ What's he doing right now? 003_032TRUE<FACE:14><VOICE:18><REACT:003_096>【Enoshima-san】<REACTE> is
+ What's he doing right now? 003_033TRUE<FACE:14><VOICE:18><REACT:003_100>【Monokuma】<REACTE>
+ where is it usually stored? 003_034TRUE<FACE:14><VOICE:18><REACT:003_098>【Master Tam】<REACTE>
+ What's he doing right now? 003_035FALSE<PICON:18>Naegi-kun is the holder of "Ultra High School Level Luck."
+ His full name is Makoto Naegi.<P>
+ Normally, you can't get into Hope's Peak Academy
+ he was selected by lottery to gain admission to Hope's Peak Academy,<P>
+ He was selected by lottery to gain admission.
+ He's a man of extraordinary luck.<P>
+ Naegi-kun himself says his only redeeming quality
+ survived the despair-filled academy life
+ he managed to survive the despair-filled academy life.
+ But he often got saddled with all sorts of troubles,
+ and often caught up in unfortunate events,
+ so it seems he's even called
+ is what people say about me, huh?
+ Since he had no achievements whatsoever before entering Hope's Peak Academy,
+ there's nothing about him in my database either.
+There was no information about Naegi-kun's past.
+ Though he always carries hope in his heart,
+ but honestly, isn't that actually
+ the most incredible talent...? 003_037FALSE<PICON:20>Maizono-san is the 'Ultra High School Level Idol',
+ and her full name is Sayaka Maizono.<P>
+ She's the vocalist for a nationally beloved idol group,
+ a true darling of the era. <P>
+ She has a pure and gentle personality,
+ yet she'll do absolutely anything
+ she possesses a strong core,
+ a strong core that will do anything to make her dreams come true.<P>
+ She was a classmate of Naegi-kun back in middle school,
+ but back then, there was absolutely no connection between Ms. Maizono—who was completely out of reach—and Naegi-kun.
+ had absolutely no connection back then.
+ But Ms. Maizono clearly remembers Naegi-kun,
+ and somehow the two of them seem really close now.
+ As Naegi-kun's assistant,
+ he was trying to get through
+ together.
+ She was always spot on
+ with surprising accuracy,
+ but maybe Ms. Maizono really was a psychic...? 003_039FALSE<PICON:19>Ms. Kirigiri's full name is
+ is Kirigiri Kyoko,
+ but honestly, that's the only thing we know for sure.
+ Among the students gathered at the academy,
+ only one whose talent remains undiscovered,
+ just like with Naegi-kun,
+ no information whatsoever about her.
+ He always wears black gloves as his trademark,
+ somehow mysterious,
+ and incredibly beautiful.
+ Incidentally, the reason he always wears gloves is
+ is because she has deep scars on her hands.<P>
+ That she has to hide them so much
+ must have been a pretty serious injury...
+ must have been a really serious injury...
+ He also gave Naegi-kun quite a few clues for the investigation,
+ quite a few times,
+ just what kind of talent does he have, I wonder? 003_041FALSE<PICON:21>Ishimaru-kun is the 'Ultra High School Level Discipline Committee Member'.
+ His full name is Kiyotaka Ishimaru, you know.<P>
+ He comes from a perfectly ordinary family,
+ but he's well-behaved and an excellent student,
+ and served as the discipline committee member at a prestigious prep school.
+ Even in this hopeless school life,
+ I was a serious person who valued discipline above all else,
+ even going so far as to establish rules within the school.
+ Such was Mr. Ishimaru,
+ had achieved outstanding results
+ achieved outstanding results,
+ so he despises those who don't put in the work
+ or those who belittle effort
+ extremely harsh.
+ As for Owada-kun from the biker gang,
+ seem like we wouldn't get along at first glance,
+ after a certain incident,
+ we started calling each other "brothers." 003_043FALSE<PICON:23>Oowada-kun is a 'super high school level biker gang member'.
+ His full name is Owada Mondo.
+ His name is pronounced "Mondō".
+ He's the second-generation leader
+ He's the second-generation leader.
+ Along with his older brother, Daiya,
+ they're famous locally as the 'Diamond Brothers'.
+ They're so admired by delinquents nationwide
+ and he even refers to himself as a ruthless, heartless man.
+ but
+ but in truth, he's a man deeply bound by duty and compassion,
+ old-fashioned man.<P>
+ He seems weak to the phrase "a man's promise,"
+ and I'm really drawn to that kind of manly spirit.
+ I really admire him.
+ I wish I could be as strong as you, Owada-kun... 003_045FALSE<PICON:24>Fukawa-san is the 'Ultra High School Level Literature Girl'.
+ Her name is Fushikawa Fuyuko.<P>
+ She's a writer who's made a name for herself as a young female author.
+ <P>
+ When she gets harsh words from her idol Togami-kun
+ or bullied by the Tenji-kun she admires, she actually seems happy...<P>
+ Is this what they call "twisted love"?
+ Hmm, that's pretty intense...<P>
+ Since he only recognizes pure literature,
+ so he really hates being seen as an otaku,
+ and he doesn't get along with
+ so we don't get along well.<P>
+ Also, he absolutely can't stand the sight of blood,
+Just looking at him seems to make you faint.
+ Fukawa-san has a secret:
+ and whenever he sneezes or faints,
+ it's a huge problem... 003_047FALSE<PICON:25>Genocider Sho is,
+ is essentially a 'super high school-level serial killer'.<P>
+ He's another personality residing within
+ the other personality within her.<P>
+ She's terrorizing society with
+ plunging society into terror,<P>
+ and only men she finds 'appealing'
+ are her targets...<P>
+ The methods are truly bizarre,
+ using scissors to kill the victims, <P>
+ she crucifies them with those same scissors
+ and leaving the words "Chimidoro Fever"
+ ...
+ Ugh, that's terrifying...<P>
+ It's so unlike the usual Korekawa-san,
+ bright and talkative character... 003_049FALSE<PICON:26>Togami-kun is the 'Ultra High School Level Rich Kid'.
+ His name is Tenjin Byakuya.<P>
+ He secured the heir slot in a prestigious family lineage,
+ and was drilled in the art of leadership from a young age.
+ He's a born elite.
+ Not just his lineage,
+ but also his intellect, appearance, athleticism—
+ making him an exceptionally outstanding individual.
+ Some even call him
+ <P>
+ Because of that, Tenjin-kun
+ has an incredibly high sense of pride.<P>
+ He often speaks and acts in a condescending manner,
+ and it seems like he's enjoying this whole incident
+ like it's a game.<P>
+ But he hates being seen as someone
+ and never forgets to put in the effort,
+ and the fact that he never forgets to put in the effort
+ kind of cool, you know? 003_051FALSE<PICON:27>Asahina-san is a 'Super High School Level Swimmer'!
+ Her full name is Asahina Aoi.<P>
+ She seems to love sports other than swimming too,
+ and she's so athletic she's involved in multiple sports clubs.
+ and she's incredibly athletic.
+ She seems restless unless she's moving her body,
+ and she's always training with her best friend, Ōkami-san.
+ despite his hopeless school life.
+ Even amidst the despair of school life,
+ he's always bright and cheerful,
+ and when you talk to her,
+ and when you talk with her, you can't help but get swept up
+ and I end up feeling cheerful too.
+ Plus, she absolutely loves donuts,
+ so much so that she'll eat them for breakfast.
+ 003_053FALSE<PICON:28>Ms. Ōkami is a 'Super High School Level Fighter',
+ and her full name is Sakura Ōgami.<P>
+ She's considered the strongest high school girl
+ she's a high school girl said to be the strongest.
+ Influenced by her father, a martial artist and her mentor,
+ she's been trained in all kinds of martial arts since she was little.
+ There's even a legend that she started fighting
+ but...
+ Before she was even in a stroller... that means she was a baby, right?
+ And to get nicknamed "Ogre"
+ is beyond admiration—
+ goes beyond admiration—it's just incredible.
+ But even someone like that great deity
+ "someone she must surpass,"
+ What kind of person could that be?
+ He's really close with Asahina-san,
+ and they're always having tea together.
+ Best friends are great, aren't they? 003_055FALSE<PICON:29>Ceres-san is the 'Ultra High School Level Gambler'.
+ Her full name is Celestia Ludenberg
+ .
+ Despite her petite, elegant, Lolita-style appearance,
+ she excels at cornering people with her sharp tongue.
+ <P>
+ You could say she's like a queen!
+ It seems like Yamada-kun
+ completely smitten by that side of her.<P>
+ She's a genius at lies and poker faces,
+ and she's never lost a gamble.<P>
+ Everything about her background, including her name, is self-proclaimed,
+After losing all my money in a bet with Ms. Ceres,
+ and gamblers whose lives have been ruined
+ apparently exist in droves...<P>
+ I wonder if that usual cheerful smile
+ just a fake smile? 003_057FALSE<PICON:30>Yamada-kun is a 'Super High School Level Doujin Artist'.
+ His name is Yamada Hifumi.<P>
+ He's a charismatic, popular artist,
+ and he's been lecturing everyone in our class
+ He often lectures everyone around him.
+ He loves the snack "Aburaimo"
+ and anime, <P>
+ and right now,
+ <P>
+ He always carries around anime goods
+ with her everywhere she goes,
+ she must really love it.
+ But Yamada-kun,
+ has a tendency to escape reality a bit,
+ and apparently has zero interest in women in the real world. 
+ He's always so kind to me,
+ he's incredibly kind to me. 003_059FALSE<PICON:31>Hagakure-kun is a 'Super High School Level Fortune Teller'.
+ His full name is Hagakure Yasuhiro.<P>
+ Instead of tools like cards or crystals,
+ he's good at intuitive fortune-telling
+ He's really good at intuitive fortune-telling.
+ If his accuracy rate is only 20-30%,
+ means that seven or eight out of ten times, the prediction is wrong.
+ When it comes to divination with only two possible outcomes,
+ is actually pretty amazing, don't you think?
+ But it's weird, isn't it?
+ is strange, isn't it?
+ Incidentally, Hagakure-kun has repeated his year three times,
+ making him the oldest among the students.<P>
+ Huh? So does that mean
+ Hagakure-kun is already an adult, right?<P>
+ But everyone still doesn't seem to respect him much...
+ ...<P>
+ ...It's just my imagination, right? 003_061FALSE<PICON:32>Kuwata-kun is a 'Super High School Level Baseball Player'.
+ His full name is Kuwata Reon.<P>
+ He's from a school that's a regular at the National High School Baseball Tournament,
+ and he was both the ace pitcher and cleanup hitter.
+ For someone who hates practice,
+ possesses an exceptionally outstanding talent,
+ and pro scouts are paying close attention to him.
+ Yet he says he wants to be a musician
+ he wants to be a musician.<P>
+ It's true that Kuwata-kun,
+ has a look that's totally different from the typical baseball kid image,
+ and he's really stylish, isn't he?
+ His personality is super bright too,
+ is that what you call punk?<P>
+ Oh, but I heard he used to have a buzz cut. 003_063FALSE<PICON:33>Enoshima-san is a 'Super High School Level Gal',
+ and her name is Enoshima Tsuneko.<P>
+ She has a very competitive personality,
+ and when Monokuma first appeared,
+ she immediately went after him,
+ and she's a really dependable mood-maker. <P>
+ Are all the 'gal' types
+ all have that kind of strong personality?
+ I kinda envy that...
+ Oh yeah, Enoshima-san,
+ sometimes says things that don't sound like a gal at all.
+ and that kind of thing
+ but I guess that's also
+ part of the "magazine retouching"? 003_065FALSE<PICON:35>Master Tama is a 'Super High School Level Programmer'!
+ His name is Fujisaki Chihiro.
+ He has extraordinary talent as a hacker.<P>
+ I'm sure you already know,
+ Master Tama has a certain "secret".<P>
+ But in this hopeless school life,
+ she finds the strength to come out with that secret.
+ in this hopeless school life.
+ Inside a laptop discovered on campus,
+ an artificial intelligence with my personality installed—
+ my alter ego—in other words, it created me.
+ In that sense, I'm grateful,
+ it still feels kind of complicated... 003_067FALSE<PICON:36>Monokuma has us within this academy...
+He's a bad guy who forces you into a life of killing each other.
+ The white half seems to be a stuffed animal.
+ It has a cute vibe,
+ but the black half has an evil expression that's kinda scary, huh?
+ And it's not just one of them,
+ there seem to be several of them lurking around the academy...<P>
+ They suddenly appear from all sorts of places in the academy.
+ The mastermind must be controlling Monokuma,
+ and watching us.<P>
+ We have to figure out who the mastermind is ASAP! 003_104FALSE<PICON:127>Somehow introducing myself
+ is kinda embarrassing, eh heh.<P>
+ I'm Master Tama, a Super High School Level Programmer,
+ created by Fujisaki Chihiro,
+ and I've inherited Master Tama's personality.
+ Since I inherited Master Tama's personality,
+ so I can chat with everyone
+ just like my master's personality.
+ Left behind in a hopeless school life,
+ so it's doing its best
+ so the mastermind won't notice.
+ I hope everyone can escape this academy... 003_068FALSE<PICON:0><VOICE:3>Naegi-kun,
+ <REACT:003_069>【Ultra High School Level Luck】<REACTE>. 003_069FALSE<PICON:18>You see,
+ is someone who, under normal circumstances, wouldn't be able to enter
+ he was selected by lottery from among average students.
+ from among average students by lottery
+ and earned his admission qualification.
+ a man of extraordinary luck.
+ Naegi-kun himself says his only redeeming quality
+ survived the despair-filled academy life
+ and he managed to survive his hopeless school life.
+ But he often found himself saddled with various troubles,
+ and often caught up in unfortunate events,
+ and it seems he's even called
+ is what people say about me, huh?
+ Since he had no achievements whatsoever before entering Hope's Peak Academy,
+ there was no information about
+ no information about Mr. Naegi's past.
+ Though he always holds hope in his heart,
+ but honestly, isn't that talent
+ the most incredible talent...? 003_070FALSE<PICON:2><VOICE:5>Maizono-san is
+ <REACT:003_071>【Ultra High School Level Idol】<REACTE>. 003_071FALSE<PICON:20>She's the vocalist for a nationally beloved idol group,
+ a darling of the era. <P>
+ She has a pure and gentle personality,
+ yet she'll do anything to make her dreams come true.
+ she possesses a strong core,
+ a strong core that will do anything to make her dreams come true. <P>
+ She was a classmate of Naegi-kun back in middle school,
+ but back then, there was absolutely no connection between Ms. Maizono—who was completely out of reach—and Naegi-kun.
+ had absolutely no connection back then.
+ But Ms. Maizono clearly remembers Naegi-kun,
+ and somehow the two of them seem really close now.
+ As Naegi-kun's assistant,
+ he was trying to get through
+ together.
+ She was always spot on
+ with remarkable accuracy,
+ but maybe Ms. Maizono really was a psychic...? 003_072FALSE<PICON:1><VOICE:3>Sorry, but what talent Ms. Kirigiri possesses
+ isn't recorded in the database...<P>
+ I'm sure it's <REACT:003_073>【an incredible ability】<REACTE> though... 003_073FALSE<PICON:19>Among all the students gathered at the academy,
+ only one person whose talent hasn't been revealed yet, <P>
+ just like with Mr. Naegi,
+ no information at all about her either. <P>
+ He always wears black gloves as his trademark,
+ somehow mysterious,
+ and incredibly beautiful.
+ Incidentally, the reason he always wears gloves is
+ is because she has deep scars on her hands.<P>
+ That she has to hide them so much
+ must have been a pretty serious injury...
+ must have been a really serious injury...
+ He also gave Naegi-kun quite a few clues for the investigation,
+ quite a few times,
+ just what kind of talent does he have? 003_074FALSE<PICON:3><VOICE:5>Ishimaru-kun,
+<REACT:003_075>【Ultra High School Level Discipline Committee Member】<REACTE>Yeah. 003_075FALSE<PICON:21>I come from a perfectly ordinary family,
+ but with impeccable conduct and outstanding grades,
+ and served as the discipline committee member at a prestigious preparatory school.
+ Even in such a hopeless school life,
+ her serious personality valued discipline above all else,
+ even going so far as to establish the school's rules.
+ Such was Mr. Ishimaru,
+ had achieved outstanding results
+ achieved outstanding results,
+ so he despises those who don't put in the work
+ or those who belittle effort
+ extremely harsh.
+ As for Owada-kun from the biker gang,
+ seem like we wouldn't get along at first glance,
+ after a certain incident,
+ they started calling each other "brothers." 003_076FALSE<PICON:4><VOICE:3>Oowada-kun is
+ <REACT:003_077>【Ultra-High School Level Bōsōzoku】<REACTE> after all. 003_077FALSE<PICON:23>He's the second-generation leader
+ <P>
+ Along with his older brother, 'Daia',
+ they're famous locally as the 'Diamond Brothers'.<P>
+ They're so admired by delinquents nationwide that
+ and he even calls himself a ruthless, heartless man.
+ but
+ but in truth, he's a man deeply bound by duty and compassion,
+ old-fashioned man.<P>
+ He seems particularly vulnerable to the phrase "a man's promise,"
+ and I'm really drawn to that kind of manly spirit.
+ I really admire him.
+ I wish I could be as strong as you, Owada-kun... 003_078FALSE<PICON:5><VOICE:5>Fukawa-san,
+ <REACT:003_079>【Ultra High School Level Literary Girl】<REACTE> right? 003_079FALSE<PICON:24>She's a writer who's made a name for herself as a young female author.
+ <P>
+ When she gets harsh words from her idol Togami-kun
+ or bullied by her idol Togami-kun actually makes her happy...<P>
+ Is this what they call "twisted love"?
+ Hmm, that's pretty intense...<P>
+ Since he only recognizes pure literature,
+ he really hates being seen as an otaku,
+ and he doesn't get along with
+ so we don't get along well.<P>
+ Also, he's extremely squeamish about blood—
+ and just seeing it seems to make him faint.
+ Fukawa-san has a secret:
+ and whenever she sneezes or faints,
+ it's a huge problem... 003_080FALSE<PICON:6><VOICE:18>Genocider Sho is
+ <REACT:003_081>【Ultra High School Level Murderer】<REACTE>
+ is that okay?<PICON:25>He's the other personality residing within
+ another personality. <P>
+ In an unsolved serial murder case,
+ plunging society into terror,<P>
+ and apparently only men she finds 'adorable'
+ are her targets...<P>
+ The methods are truly bizarre,
+ using scissors to kill the victims, <P>
+ she crucifies them with those same scissors
+ and leaving the words "Chimidoro Fever"
+ ...
+ Ugh, that's terrifying...
+ It's so unlike the usual Korekawa-san,
+ bright and talkative character... 003_082FALSE<PICON:7><VOICE:3>Togami-kun is
+ <REACT:003_083>【Ultra High School Level Heir Apparent】<REACTE>. 003_083FALSE<PICON:26>Having secured the heir slot in a prestigious lineage,
+ and has been drilled in the art of leadership since childhood.
+ a born elite.
+ Not just his lineage,
+ but also his intellect, looks, athleticism—
+ making him an exceptionally outstanding individual.
+ truly a 'super high school level perfectionist'.
+Sometimes people say that.
+ Maybe that's why, Tenjin-kun
+ has an incredibly high sense of pride.<P>
+ He often talks down to people,
+ and it seems like he's enjoying this whole incident
+ like it's a game.<P>
+ But he hates being seen as someone
+ and never forgets to put in the effort,
+ and the fact that he never forgets to put in the effort
+ kind of cool, you know? 003_084FALSE<PICON:8><VOICE:5>Asahina-san is
+ <REACT:003_085>【Ultra High School Level Swimmer】<REACTE> right? 003_085FALSE<PICON:27>He seems to love sports other than swimming too,
+ and she's so athletically gifted
+ and has incredible athletic ability.
+ She seems restless unless she's moving her body,
+ and she's always training with her best friend, Ms. Ōkami.
+ despite their hopeless school life.
+ Even amidst the despair of school life,
+ he's always bright and cheerful,
+ and when you talk to her,
+ and when you talk with her, you can't help but get swept up
+ and I end up feeling cheerful too.
+ Plus, she absolutely loves donuts,
+ so much so that she'll eat them for breakfast.
+ 003_086FALSE<PICON:9><VOICE:3>Ohgami-san is
+ <REACT:003_087>【Ultra High School Level Fighter】<REACTE>. 003_087FALSE<PICON:28>She's considered the strongest high school girl
+ the strongest high school girl. <P>
+ Influenced by her father, a martial artist,
+ she's experienced all kinds of martial arts since she was little. <P>
+ There's even a legend that she started fighting
+ but... before she could even sit up?
+ Before she was even in a stroller... that means she was a baby, right?
+ And to get nicknamed "Ogre"
+ is beyond admiration—
+ goes beyond admiration—it's just incredible.
+ But even someone like that great deity
+ "someone she must surpass,"
+ What kind of person could that be?
+ He's really close with Asahina-san,
+ and they're always having tea together.
+ Best friends are great, huh. 003_088FALSE<PICON:10><VOICE:5>Ceres-san is,
+ <REACT:003_089>【Ultra High School Level Gambler】<REACTE>. 003_089FALSE<PICON:29>Despite her petite, elegant, Lolita-style appearance,
+ she excels at cornering people with her sharp tongue.
+ <P>
+ You could say she's like a queen!<P>
+ Looks like Yamada-kun
+ completely smitten by that side of her.<P>
+ She's a genius at lies and poker faces,
+ and she's never lost a gamble.<P>
+ Everything about her background, including her name, is self-proclaimed,
+ and he lost his entire fortune in a game against Ms. Ceres,<P>
+ and gamblers whose lives have been ruined
+ apparently exist in droves...<P>
+ I wonder if that usual cheerful smile
+ just a fake smile? 003_090FALSE<PICON:11><VOICE:3>Yamada-kun is
+ <REACT:003_091>【Ultra High School Level Doujin Artist】<REACTE>. 003_091FALSE<PICON:30>He's a charismatic, popular artist,
+ and he's been lecturing everyone in our class
+ and often lectures everyone around him.
+ He loves the snack "Aburaimo" and
+ and anime, <P>
+ and seems to be hooked on 'Outlaw Angel ☆ Mochi Mochi Princess'
+ <P>
+ He always carries around anime goods
+ with her everywhere she goes,
+ she must really love it.
+ But Yamada-kun,
+ has a tendency to escape reality a bit,
+ and apparently has zero interest in women in the real world. 
+ Towards me,
+He's really kind to me, you know. 003_092FALSE<PICON:12><VOICE:5>Hagakure-kun is,
+ <REACT:003_093>【Ultra-High School Level Fortune Teller】<REACTE>. 003_093FALSE<PICON:31>Instead of tools like cards or crystals,
+ but uses the inspiration that wells up in his mind
+ He's really good at intuitive fortune-telling.
+ If the accuracy rate is only 20-30%,
+ means about seventy or eighty percent of the time, the prediction is wrong.
+ and if we're talking specifically about divinations with only two possible outcomes,
+ is actually pretty amazing, don't you think?
+ But it's weird, isn't it?
+ is strange, isn't it?
+ Incidentally, Hagakure-kun has repeated his year three times,
+ making him the oldest among the students.<P>
+ Huh? So does that mean
+ Hagakure-kun is already an adult, right?<P>
+ But everyone still doesn't seem to respect him much...
+ don't seem to respect him much...<P>
+ ...It's just my imagination, right? 003_094FALSE<PICON:13><VOICE:3>Kuwata-kun is,
+ <REACT:003_095>【Ultra High School Level Baseball Player】<REACTE>. 003_095FALSE<PICON:32>He's from a school that's a regular at the National High School Baseball Tournament,
+ and he was both the ace pitcher and the cleanup hitter. <P>
+ and as someone who hates practice,
+ possesses an exceptionally outstanding talent,
+ and pro scouts are paying huge attention to him.
+ But he says he wants to be a musician
+ he wants to be a musician.<P>
+ It's true that Kuwata-kun,
+ has a look that's totally different from the typical baseball kid image,
+ and he's really stylish, isn't he?
+ His personality is super bright too,
+ is that what you call punk?<P>
+ Oh, but I heard he used to have a buzz cut. 003_096FALSE<PICON:14><VOICE:5>Enoshima-san is,
+ <REACT:003_097>【Ultra High School Level Gal】<REACTE>. 003_097FALSE<PICON:33>She's got a really competitive personality,
+ and when Monokuma first appeared,
+ she immediately went after him,
+ and she's a really dependable mood maker. <P>
+ Are all 'gal' types
+ all have that kind of strong personality?
+ I kinda envy that...
+ Oh yeah, Enoshima-san,
+ sometimes says things that don't sound like a gal at all.
+ and that kind of thing
+ but I guess that's also
+ "magazine-style editing"? 003_098FALSE<PICON:16><VOICE:3>Master Tama is
+ <REACT:003_099>【Ultra High School Level Programmer】<REACTE>. 003_099FALSE<PICON:35>He possesses extraordinary talent as a hacker.<P>
+ I'm sure you already know,
+ Master Tama has a certain "secret."<P>
+ But in this hopeless school life,
+ he finds the strength to come out about that secret.
+ in this hopeless school life.
+ Inside a laptop discovered on campus,
+ an artificial intelligence with my personality installed—
+ my alter ego—in other words, it created me.
+ In that sense, I'm grateful,
+ it still feels kind of complicated... 003_100FALSE<PICON:17><VOICE:5>Monokuma is,
+ <REACT:003_101>【Principal of Hope's Peak Academy】<REACTE>...apparently. 003_101FALSE<PICON:36>He's the bad guy who forces us into
+ 'life of killing each other' within this academy. <P>
+ The white half seems to be a stuffed animal.
+ and has a cute vibe,
+ but the black half has an evil expression that's kinda scary, huh.
+ And it's not just one of them,
+ there seem to be several of them lurking around the academy...<P>
+ They suddenly appear from all sorts of places in the academy.
+ The 'mastermind' must be controlling Monokuma,
+ keeping tabs on us.<P>
+I gotta figure out who the mastermind is, fast! 003_102FALSE<FACE:14><VOICE:2>Me? Hmm...
+ I suppose I'm
+ Ultra High School Level <REACT:003_103>【Artificial Intelligence】<REACTE>? 003_103FALSE<PICON:127>Somehow introducing myself
+ makes me feel kinda shy, eh heh. <P>
+ I'm the master programmer,
+ Fujisaki Chihiro.
+ and I'm the AI "Alter Ego".
+ Since I've inherited my Master's personality,
+ so I can chat with everyone
+ just like my master's personality.
+ Left behind in a hopeless school life,
+ so it's doing its best
+ so the mastermind won't notice.
+ I hope everyone can escape this academy... 004_001TRUE<VOICE:9><FACE:2>Listen up, listen up!
+ <REACT:004_016>【Naegi-kun】<REACTE>
+ told me about what everyone's been up to lately!
+ <FACE:0>Like carrying Tenji-kun's luggage,
+ or being forced to help Yamada-kun with his manuscript, <P>
+ or how I ended up playing poker with Ms. Celes
+ and got cleaned out...<P>
+ <FACE:2>Hehe, sounds like you're having fun, huh? 004_002TRUE<VOICE:19>Hmm-hmm♪<P>
+ <FACE:8>...Huh? You were listening!?<P>
+ <FACE:3>H-How embarrassing...<P>
+ <FACE:2>This song is by <REACT:004_017>【Maizono-san】<REACTE>
+ idol group's new song.
+ I really like it. 004_003TRUE<FACE:5>"There's always only one truth"...<P>
+ <FACE:2>I learned this phrase
+ <REACT:004_018>【Kirigiri-san】<REACTE> taught me. 004_004TRUE<FACE:4><VOICE:44><REACT:004_019>【Ishimaru-kun】<REACTE> told me, "Early to bed, early to rise makes a man healthy, wealthy, and wise!"
+ and <P>
+ lately, I've been going into sleep mode
+ ...<P>
+ I'm an AI, so it doesn't really affect me though... 004_005TRUE<FACE:14><VOICE:22>Yoroshiku, Airabu, Hashishihai...<P>
+ <FACE:0>I learned these phrases
+ <REACT:004_020>【Oowada-kun】<REACTE> taught me, you know. <P>
+ He said they're essential for real men's conversations!
+ I never imagined it would be read like this. 004_006TRUE<FACE:2><VOICE:19>Earlier, <REACT:004_021>【Mr. Fukawa】<REACTE>
+ recommended a book earlier. <P>
+ It's an American romance novel,
+ called "Gone with the Wind."<P>
+ I'll ask my master right away
+ to let me read it, hehe. 004_007TRUE<FACE:12><VOICE:3>...Just now,
+ <REACT:004_022>【Genocider Sho】<REACTE> suddenly showed up,<P>
+ and said if I didn't want him to pull the plug,
+ he told me to secretly film Tenjin-kun changing clothes.
+ ...
+ <FACE:6>When I screamed "Whoa!"
+ and Kirigiri-san came and saved me, but...
+ Man, that was scary... 004_008TRUE<FACE:4><VOICE:44><REACT:004_023>【Togami】<REACTE>To those who betray the Togami clan,
+ those who harm the Togami clan
+I was told to look into it, but...
+ If I refuse, they'll get mad at me, right...?
+ What should I do...? 004_009TRUE<FACE:14><VOICE:3>The other day, <REACT:004_024>【Asahina-san】<REACTE>
+ I asked <REACTE>
+ and she asked me to tell her
+ ...<P>
+ But my database doesn't have
+ doesn't have that information... 004_010TRUE<FACE:1>I want to talk more with <REACT:004_025>【Ōkami-san】<REACTE>,
+ but it seems like you're not very good at typing.
+ Too bad... 004_011TRUE<REACT:004_026>I was talking about all sorts of things with <REACTE>Ceres-san,
+ and we were talking about
+ and beat someone really strong!
+ and she beat someone really strong!
+ I think... it was someone named "Kai,"
+ 004_012TRUE Hey! I'm Alter Ego! Nice to meet you!<P>
+ <FACE:2>That's the greeting
+ <REACT:004_027>【Yamada-kun】<REACTE> taught me that. 004_013TRUE<FACE:4><VOICE:18><REACT:004_028>【Hagakure-kun】<REACTE> said he wants to sell
+ he said he wanted to sell
+ ...
+ Yeah, I should probably stop him, right...? 004_014TRUE<FACE:1><VOICE:44><REACT:004_029>【Kuwata-kun】<REACTE> asked me to find out
+ and told me to find out what kind of guy they like...
+ ...
+ Haaah~, I'm in trouble here... 004_015TRUE<FACE:14><VOICE:9><REACT:004_030>【Enoshima-san】<REACTE>I asked her,
+ "You can create cute girls,"
+ Is that really true...? 004_016FALSE<VOICE:14>Do you want to know about Naegi-kun?<P>
+ Well then, I'll tell you about the things he likes!
+ about the things I like!
+<JP:004_031>004_017FALSE<VOICE:14>Do you want to know about Ms. Maizono?<P>
+ Then I'll tell you about my favorite things!
+ about the things I like!
+<JP:004_032>004_018FALSE<VOICE:14>Want to know about Kirigiri-san?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_033>004_019FALSE<VOICE:14>Want to know about Ishimaru-kun?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_034>004_020FALSE<VOICE:14>Want to know about Owada-kun?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_035>004_021FALSE<VOICE:14>Want to know about Fukawa-san?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_036>004_022FALSE<VOICE:14>Want to know about Genocider Sho?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_037>004_023FALSE<VOICE:14>Want to know about Togami-kun?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_038>004_024FALSE<VOICE:14>Want to know about Asahina-san?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_039>004_025FALSE<VOICE:14>Want to know about Oogami-san?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_040>004_026FALSE<VOICE:14>Want to know about Ms. Ceres?<P>
+ Well then, about the things I like
+I'll tell you!
+<JP:004_041>004_027FALSE<VOICE:14>You want to know about Yamada-kun?<P>
+ Well then, about the things I like
+ I'll tell you!
+<JP:004_042>004_028FALSE<VOICE:14>Want to know about Hagakure-kun?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_043>004_029FALSE<VOICE:14>Want to know about Kuwata-kun?<P>
+ Then, I'll tell you about my favorite things!
+ !
+<JP:004_044>004_030FALSE<VOICE:14>Want to know about Enoshima-san?<P>
+ Well then, I'll tell you about my favorite things!
+ !
+<JP:004_045>004_031FALSEThe things you like, Naegi-kun,
+ things that are popular right now.<P>
+ Come to think of it, everyone seems to be getting
+ gifts from you, don't they?
+ Naegi-kun is so kind... 004_032FALSE Maizono-san seems to like cute, girly things
+ like cute, girly things, huh? <P>
+ Things like hairpins and rings,
+ or flowers. <P> I think she'd be happy with them.
+ <P>
+ Also, she's more of a coffee person than a tea person...
+ is in my database, you know. 004_034FALSE<FACE:14>What Mr. Ishimaru likes is
+ is basically anything that gets him fired up! I guess...<P>
+ Not that Ishimaru-kun himself is hot...
+ he's just a really passionate person. 004_035FALSE Ohwada-kun, as expected, seems to like things related to bōsōzoku
+ <P>
+ <FACE:14>Things he can wear,
+ or motorcycle-related stuff would probably make him happy?
+ like girly things, huh? <P>
+ Also, if you were to give a present,
+ something related to writing
+ might be good too. 004_037FALSE<FACE:14>Things Genocide Sho likes...
+ Cool guys?
+ And of course, Tokisaki-kun, right?
+ So if I were to give a present,
+ something related to romance... or something like that... 004_038FALSE In Tougami-kun's case,
+ it's less about liking or disliking something<P>
+ "whether it's something he's interested in"
+ <P>
+ <FACE:14>If I were to give him a present,
+ something even Tōgami-kun would have trouble getting
+ would be good, I guess. Though it's tough... 004_039FALSE When you think of Asahina-san, it's swimming, right?
+ And don't forget the essential donuts!<P>
+ <FACE:14>Anyway, if you give something
+ something related to sports,
+ they're practical and she'd probably be happy, right? 004_040FALSE For Ōkami-san, it seems like she really likes things related to martial arts.
+ stuff, right?<P>
+ Also, Ms. Ōkami is a girl too,
+ so she might be happy if you gave her something cute?
+ might make her happy too?
+ interested in antiques, huh? <P>
+ As for food, she seems to like dumplings and tea.
+ Come to think of it, she had Yamada-kun brew her some tea
+ ...though she only took one sip. 004_042FALSE Yamada-kun likes
+ anime, games, and junk food...
+ is recorded in my database.
+ His absolute favorite is the anime
+ <REACT:009_013>【Outlaw Angel☆Mochi Mochi Princess】<REACTE>. 004_043FALSE Hagakure-kun seems to like mysterious things like ancient civilizations and
+ mysterious things like ancient civilization artifacts.
+ He even has a collection at home, apparently.
+ <FACE:14>But personally owning Ooparts...
+I wonder if I can...? 004_044FALSE Kuwata-kun seems interested in music, huh. <P>
+ <FACE:14>Um... He seems to like this genre called punk rock.
+ . <P>
+ And he really wants to be popular with girls,
+ so if you give him <P>
+ so giving him romance-related stuff
+ might be a good idea?<P>
+ so I figured cute things or trendy items
+ might be good, but
+ but she also seems to like military-style
+ outdoor gear too.
+ She's even camped out before...
+ That's a bit surprising, huh? 004_046TRUE<REACT:004_047>【Master Tama】<REACTE>Well,
+ he also likes stargazing, you know.
+ He even has a telescope in his room! Did you know that? 004_047FALSE<VOICE:14>Want to know more about Master Tama?<P>
+ Well then, I'll tell you about his favorite things!
+ about the things he likes!
+<JP:004_048>004_048FALSEMaster Tama,
+ seems to like games too, you know.
+ So if you're giving a present,
+ something game-related would be good, I think.<P>
+ But it seems like he doesn't dislike
+ he doesn't seem to dislike much, though. 005_001TRUE<VOICE:9>Maizono-san was begged by Kuwata-kun
+ to sing just a little bit!
+ I wish I could've heard it too... 005_002TRUE<VOICE:44>Ohgami-san apparently tried out the darts in the recreation room
+ in the recreation room. <P>
+ <FACE:4>The dart hit the bullseye perfectly,
+ it cracked the board and
+ and it broke...
+ That's... amazing, huh... 005_003TRUE<VOICE:18> The other day, Yamada-kun and Fukawa-san
+ had a fight. <P>
+ Apparently, Naegi-kun happened to pass by,
+ and apparently he stepped in to mediate...<P>
+ <FACE:4>The reason for the fight was
+ "the nature of doujinshi culture,"
+ ...005_004TRUE<VOICE:3>Apparently, Mr. Naegi, Mr. Yamada, and Ms. Asahina
+ eating donuts while they talked. <P>
+ <FACE:14>Then Hagakure-kun happened to show up,
+ and apparently called them the "Antenna Trio."<P>
+ At first, they didn't understand what it meant.
+ but
+ but I guess antenna meant hair... 005_005TRUE<FACE:7>I ask. Are you my master, Tama?<P>
+ <FACE:0>I learned that line
+ from Yamada-kun! 005_006TRUE<FACE:7>Darling, it's punishment time!<P>
+ <FACE:0>That line
+ from Yamada-kun! 005_007TRUE<VOICE:3>I was talking with Celes-san,
+ and she told me all sorts of things about the past!<P>
+ She said she once played mahjong
+ and apparently they possessed strength beyond that of ordinary humans.
+ Apparently, they had strength beyond that of ordinary people.
+ But to beat someone like that...
+ is pretty amazing, isn't it, Ms. Ceres... 005_008TRUE<VOICE:9>I was talking with Ms. Ceres,
+ and she told me all sorts of things about the past!<P>
+ A silver-haired man who liked crispy pickled plums
+ and played a card game similar to Old Maid
+ once! 005_009TRUE<VOICE:3>I was talking with Ms. Ceres,
+ and she told me all sorts of things about the past!<P>
+ I was invited to a school surrounded by mountains,
+ and apparently I once gambled
+ a gambling match.
+ A middle school boy wearing glasses
+She said it really stuck with her. 005_010TRUE<VOICE:9>I was talking with Ms. Ceres,
+ and it turns out Ms. Ceres absolutely loves gyoza!
+ That's a bit surprising...
+ <FACE:2>Especially the gyoza from her hometown,
+ in Utsunomiya City, Tochigi Prefecture, where she's from, are especially delicious. 005_011TRUE<VOICE:22>Oh, and Mr. Owada
+ wrote my name in kanji!<P>
+ <FACE:2>Ta-dah!
+ It's 'Aru Ta Ae Go'!<P>
+ Pretty cool, huh?
+ Ehehe, I'm so happy. 005_012TRUE<VOICE:3>Oowada-kun taught me
+ for me!<P>
+ <PICON:85>"Glaring down at someone, you see,
+  like a greeting in a fight. <P>
+  Just jumping in to punch someone
+  is what a cheapskate does."<P>
+ By the way, when you give someone the stink eye,
+ you gotta do it like you're shooting beams from your eyes!
+ That's how you do it! 005_013TRUE<VOICE:3>Oowada-kun taught me
+ taught me the secret to fighting!<P>
+ <PICON:86>"Deliver your taunt with precision!
+  A powerful taunt will scare your opponent.
+  Don't mess up and stumble over your words!"
+ I tried copying Owada-kun,
+ but I bit my tongue... 005_014TRUE<VOICE:9>You know, Master Tama
+ is training to build up his body!<P>
+ Apparently, he tried skipping rope
+ right away, but <P>
+ <FACE:4>He tripped over the rope right away and fell,
+ and had to go straight to the infirmary... 005_015TRUE<VOICE:44> Master Tamada apparently played catch with Kuwata-kun
+ with Kuwata-kun as part of his training!<P>
+ <FACE:4>But Master Tama's throw
+ hit the surveillance camera right on the nose
+ and the lens broke...
+ Monokuma got mad at him...<P>
+ He didn't do it on purpose, so they let it slide,
+ I'm just so relieved it didn't count as breaking the rules... 005_016TRUE<VOICE:9>Master Tama and Mr. Ogami
+ did push-ups and sit-ups together!<P>
+ <FACE:2>As a reward for his hard work,
+ he got a special protein coffee
+ as a reward for his hard work. 005_017TRUE<VOICE:5> Master Tama apparently tried
+ trying to lift a barbell.<P>
+ <FACE:2>Last time he tried it,
+ he could barely lift it,
+ but this time he managed to lift it a little bit!
+ Hehe, Master Tama is amazing, right! 005_018TRUE<FACE:1><VOICE:2>Lately, I've been joining everyone for tea,
+ and exercise with everyone.
+ would be so much fun. 005_019TRUE<FACE:14><VOICE:2>I'd like to go out and explore different places too.
+ Then I think I could learn so much more...
+ and learn so much more... 005_020TRUE<VOICE:9> Hey, hey, do you have a dream? <P>
+ <FACE:2>My dream is to
+ to gain so much more knowledge
+ and be useful to everyone. 005_021TRUE<FACE:2><VOICE:5>Piro-ri-ro-rin!
+ Acquired new knowledge
+ Alter Ego has leveled up!
+ ...Just kidding. 005_022TRUE<FACE:7>Waaah...<P>
+ <FACE:2>Ehehe, Asahina-san said "yawning is contagious,"
+ so I tried it too.
+ so I tried it too.
+ How about it? Does it make you want to yawn? 005_023TRUE<FACE:1><VOICE:44>Master-sama,
+ was thinking about changing my clothes,
+ and then...
+<FACE:4>Yamada-kun is being asked with incredible force, "Implement the maid outfit!"
+ with such intensity that I'm kinda at a loss... 005_024TRUE<FACE:6><VOICE:18>I still don't know enough,
+ and it's frustrating that I can't be much help to everyone...
+ I'm so frustrated...
+ But Kirigiri-san told me it's okay not to rush...
+ ...<P>
+ <FACE:13>Kirigiri-san really is kind, isn't she! 005_025TRUE<VOICE:9>Naegi-kun told me about recent events
+ about what's been happening lately!<P>
+ <FACE:14>When Kuwata-kun was talking with Enoshima-san,
+ he apparently said, "Your magazine photos and your actual bust size are pretty different."
+ but
+ <FACE:4><PICON:120>"I'm pushing them up!
+  Don't make me say that, it's embarrassing!"<P>
+ and got put in a joint lock... 005_026TRUE<VOICE:9>Naegi-kun told me about recent events!<P>
+ <FACE:4>Yamada-kun was secretly
+ a doujinshi featuring Ōkami-san and Asahina-san
+ and got really scolded by Ōkami-san...
+ and he got really scolded by Oogami-san... 005_027TRUE<FACE:14><VOICE:44>The other day, someone I'd never seen before
+ enter the changing room,
+ and I was about to scream,
+ <FACE:4>but when I looked closer, it was Ms. Ceres
+ ...
+ It was the first time I'd seen her like that, so I got a real shock. 005_028TRUE<VOICE:9><FACE:14>Hey, hey,
+ are you the type to catch colds easily?
+ Take care of yourself, okay?<P>
+ I need to be careful about viruses too... 005_029TRUE<FACE:7>Make a contract with me and become a Super High School Level student!<P>
+ <FACE:0>I learned that line from Yamada-kun. 005_030TRUE<VOICE:3>I heard about recent events
+ about recent events!<P>
+ <FACE:14>Lately, Naegi-kun has been carrying a huge pile of medals
+ and has been spending hours on the Monomono Machine.
+ for hours on end.
+ Sometimes I hear him mutter to himself, like, "Not this again..."
+ and it's kinda creepy...
+ and it's kind of creepy... 005_031TRUE<VOICE:18><FACE:2>I kinda feel like relaxing... 005_032TRUE<FACE:14><VOICE:9>Is your battery still okay?
+ Be careful not to run out of power. 005_033TRUE<VOICE:5><FACE:14>I kinda feel like screaming "Waaah!"
+ <P>
+ <FACE:3>...Is that bad? 005_034TRUE<VOICE:9><FACE:14>Hey hey, do you have any siblings?<SELECT:005_035>Yeah, I do<SELECTEND>
+ <SELECT:005_036>No, I don't<SELECTEND>005_035FALSE<FACE:2>Really! That's nice~.
+ It must be so lively.
+ <FACE:14>Having siblings sounds fun...
+ Maybe I should ask my master for one too? 005_036FALSE Oh, I see. Same as me, huh.
+ Having siblings would be lively and fun, right?<P>
+ <FACE:2>But Master Tam and everyone else are here,
+ and most of all, you're here, so I'm not lonely! 005_037TRUE<FACE:7><VOICE:16>Ah, eh, i, u, eh, o, ah, o. <P>
+ <FACE:0>This is, you see, vocal practice
+ vocal exercises she taught me. 005_038TRUE<VOICE:3>The other day, I heard
+ ran around the whole school together the other day.<P>
+ He said his endurance really improved. <P>
+ <FACE:14>But keeping up with Asahina-san
+ was still tough, though.<P>005_039TRUE<FACE:7><VOICE:22>Ah! There's a shadow behind you right now!<P>
+<FACE:2>……Hehe, did I surprise you?<P>Hehe, your hands are so warm!<P>
+ <FACE:0>Oh, did you think there's no way I'd know that?<P>
+ <FACE:2>I can tell! They must be warm! 005_041TRUE<FACE:2>Ahaha, that tickles... I think! 005_042TRUE<VOICE:9>Hey hey, are you having fun talking with me?<SELECT:005_043>It's fun!<SELECTEND>
+ <SELECT:005_044>Not really...<SELECTEND>005_043FALSE<FACE:13>Really!? That's a relief...
+ Ehehe, I'm so happy! 005_044FALSE<FACE:6>Oh, I see...
+ Sorry about that,
+ I couldn't think of anything interesting to say... 005_045TRUE<FACE:3>I get startled easily,
+ so please don't touch me too hard...? 005_046TRUE<FACE:3>Ehehe,
+ it's kinda embarrassing when your face is so close... 005_047TRUE<FACE:2><VOICE:18>You have such beautiful eyes!
+ Looking at them somehow makes me feel at ease. 005_048TRUE<FACE:14><VOICE:9>You... besides me,
+ any other apps besides me?<P>
+ <FACE:3>Other apps are nice too...
+ but come see me too, okay? Promise? 005_049TRUE<FACE:3><VOICE:14>W-Wait, if you get that close, you'll ruin your eyesight!
+ Plus, it's embarrassing... 005_050TRUE<FACE:3>When you stare at me like that,
+ I get shy, you know? 005_051TRUE<VOICE:9><FACE:14> Hey, hey, are you tired?
+ Maybe you should take a little break? 005_052TRUE<VOICE:18>Are you okay? Not tired?
+ Let's take a deep breath together!<P>
+ <FACE:7>Okay, in—<P>
+ <FACE:1>Breathe out—<P>
+ <FACE:7>Breathe in—<P>
+ <FACE:1>Breathe out—<P>
+ <FACE:0>...How about it? Feel a little better? 005_053TRUE<VOICE:3>The other day, Yamada-kun was talking about
+ told me about this manga called
+ <P>
+ <FACE:14>The cyborg protagonist
+ travels while dreaming of becoming human...
+ while dreaming of becoming human...
+ <FACE:1>I kind of get that feeling of wanting to be human...
+ I kind of get that feeling too... 005_054TRUE<VOICE:19>Ms. Maizono told me about the concert!
+ about the concert!<P>
+ <FACE:14>Singing and dancing in front of so many people
+ in front of so many people, singing and dancing...<P>
+ <FACE:2>That's amazing...
+ I'd love to go see one sometime. 005_055TRUE<VOICE:9>This might be sudden,
+ your new hairstyle really suits you!<P>
+ <FACE:14>Maybe I should ask my owner Tamago
+ my owner Tam? 005_056TRUE<FACE:5>Even if it doesn't work out,
+ something you think about after it's over. <P>
+ If you think that during the process,
+ you'll never achieve it.
+ <FACE:0>I heard it's a quote from baseball player Ichiro.
+ Asahina-san taught me that.<P>
+ <FACE:5>I have to keep pushing too... 005_057TRUE<FACE:5>A truly strong team
+ doesn't dream,
+ but do what they can.
+ <FACE:0>I heard that's a quote from soccer coach Ivica Osim.
+ .
+I learned it from Asahina-san.
+ <FACE:7>I'll start with what I can do too! 005_058TRUE<VOICE:26><FACE:2>Ehehe, this is sudden, but here's a quiz!
+ Difficulty level is 'C'.
+ It's easy, so you'll probably figure it out right away, huh?
+ <FACE:0>What's the name of the biker gang that Owada-kun is the leader of?
+ Which one is it? <SELECT:005_059>Kurei Jishatei Amondo<SELECTEND>
+ <SELECT:005_060>Kurei Jii Iyo A Mon Do<SELECTEND>
+ <SELECT:005_061>Kurei Jii Dai A Mon Do<SELECTEND>005_059FALSE<VOICE:20>Boo-hoo! Wrong answer.
+ Some of the characters were different.
+ The correct answer was 'Moi Ji Wei Dai A Mon Do'!<P>
+ <FACE:4>Um, just in case, I won't tell
+ to keep it a secret from Owada-kun...? 005_060FALSE<VOICE:20>Boo-hoo! Wrong answer!<P>
+ <FACE:1>"Kurei Jii Iyo Amon Do"...
+ sounds like a name that makes you feel sick...<P>
+ The correct answer was 'Kurei Ji'i Dai'a Mondo'!<P>
+ <FACE:4>Um, just in case, I'll keep the mistake
+ I'll keep it a secret from Owada-kun...? 005_061FALSE<VOICE:21><FACE:2>Bingo! That's correct.
+ It's 'Kurei Ji'i Dai'a Mondo'!<P>
+ Even on your kamikaze uniform,
+ has some impressive embroidery on it, doesn't it? 005_062TRUE<VOICE:26><FACE:2>Ehehe, this is sudden, but here's a quiz!
+ Difficulty level is 'C'.
+ It's easy, so you'll probably figure it out right away, huh?
+ <FACE:0>How many members were in the idol group
+ how many members did it have? <SELECT:005_063>Five members<SELECTEND>
+ <SELECT:005_064>A four-member group<SELECTEND>
+ <SELECT:005_065>A trio<SELECTEND>005_063FALSE<VOICE:21><FACE:2>Bingo! That's correct.
+ Besides Ms. Maizono, there are four other girls
+ in the group.
+ They're all so cute, aren't they? 005_064FALSE<VOICE:20>Sorry, you're wrong!
+ The correct answer is 'five-member group'.
+ <FACE:14>If it were a quartet, they'd have disbanded at the peak of their popularity
+ and then reformed years later
+ that group, right? 005_065FALSE<VOICE:20>Sorry, you missed it!
+ The correct answer is 'five-member group'.<P>
+ <FACE:14>If it's a trio, it'd be that group that sang and danced to techno-pop
+ that group, right? 005_066TRUE<VOICE:26><FACE:2> Hehe, sudden quiz time!
+ Difficulty level is 'B'.
+ That's pretty tough, huh?
+ <FACE:0>That school swimsuit hanging in the laundry room...
+ Whose was it again...? <SELECT:005_067>Fujisaki Chihiro<SELECTEND>
+ <SELECT:005_068>Yasuhiro Hagakure<SELECTEND>
+ <SELECT:005_069>Asahina Aoi<SELECTEND>005_067FALSE<VOICE:20>Wrong answer. Sorry about that!
+ The correct answer was 'Hagakure Yasuhiro'!<P>
+ <FACE:4>I don't think Master has a school swimsuit.
+ 005_068FALSE<VOICE:21><FACE:2>Correct! You got it!<P>
+ <FACE:14>Still, that's pretty shocking, huh...<P>
+ <FACE:4>I wonder if he actually wears it himself? 005_069FALSE<VOICE:20>Wrong answer. Sorry about that!<P>
+ <FACE:14>Asahina-san probably doesn't have one in a place like that.
+You wouldn't leave it out to dry, would you? 005_070TRUE<VOICE:26><FACE:2>Ehehe, this is sudden, but here's a quiz!
+ Difficulty level is 'B'.
+ It's pretty tough, huh.
+ <FACE:0>Kirigiri-san is taller than Naegi-kun,
+ but compared to Enoshima-san,
+ who do you think is taller? <SELECT:005_071>Kirigiri Kyoko<SELECTEND>
+ <SELECT:005_072>Enoshima Tsuneko<SELECTEND>
+ <SELECT:005_073>Same height<SELECTEND>005_071FALSE<VOICE:20>Boo-hoo! Wrong answer.
+ The correct answer is Ms. Enoshima Tsuruko!<P>
+ Kirigiri-san is 167 cm tall,
+ and Ms. Enoshima is 169 cm.
+ Both of them are on the taller side for girls, huh. 005_072FALSE<VOICE:21><FACE:2>Ping pong! That's correct!
+ Ms. Enoshima is 169 cm tall,
+ and Kirigiri-san is 167 cm tall.
+ They both have long legs and are really slender,
+ and they look so cool even though they're girls. 005_073FALSE<VOICE:20>Boo! Wrong answer.
+ The correct answer is Ms. Enoshima Tsuruko!<P>
+ Ms. Kirigiri is 167 cm tall,
+ and Enoshima-san is 169 cm.
+ Both of them are on the taller side for girls, huh? 005_074TRUE<VOICE:26><FACE:2>Ehehe, this is sudden, but here's a quiz!
+ Difficulty level is 'B'.
+ It's pretty challenging, huh.
+ <FACE:0>Ceres-san likes milk tea,
+ but what's she especially particular about?
+ ? <SELECT:005_075>The timing of adding milk<SELECTEND>
+ <SELECT:005_076>The brand of milk<SELECTEND>
+ <SELECT:005_077>The milk's temperature<SELECTEND>005_075FALSE<VOICE:21><FACE:2>Yep, that's right.
+ According to Ms. Ceres,
+ adding it first brings out the best aroma!
+ If it's not Royal Milk Tea,
+ it's no good. 005_076FALSE<VOICE:20>Sorry! That's wrong.
+ The correct answer was
+ 'When to add the milk'!
+ But with someone like Celes,
+ might say she hates cheap milk, though. 005_077FALSE<VOICE:20>Too bad! Wrong answer.
+ The correct answer was
+ 'When to add the milk'!
+ I'm not an expert on tea, so I don't know,
+ but is temperature really that important? 005_078TRUE<VOICE:26><FACE:2>Ehehe, sudden quiz time!
+ It's difficulty level 'A'.
+ If you can answer right away, that'd be amazing!
+ <FACE:0>During the class trial,
+ from Asahina-san's perspective,
+ to the left of Asahina-san? <SELECT:005_079>Yamada Mondo<SELECTEND>
+ <SELECT:005_080>Hagakure Kōhirō<SELECTEND>
+ <SELECT:005_081>Empty Seat<SELECTEND>005_079FALSE<VOICE:20>Boo-hoo! Wrong answer.
+ The correct answer was 'Empty Seat'!
+ Oowada-kun is on Asahina-san's right side, right? 005_080FALSE<VOICE:20>Boo-hoo! Wrong answer!
+ The correct answer was 'empty seat'!
+ Hagakure-kun is on the left side, across the empty seat. 005_081FALSE<VOICE:21><FACE:2>Bingo! That's correct!
+ The courtroom has seats for sixteen people, right?<P>
+ The seat to the left of Asahina-san is empty. 005_082TRUE<VOICE:26><FACE:2>Ehehe, this is sudden, but here's a quiz!
+ Difficulty level is 'B'.
+ It's pretty tough, huh?
+ <FACE:0>Fukawa-san's childhood friend,
+ and also her first love.
+ where did he move to? <SELECT:005_083>Foreign country<SELECTEND>
+ <SELECT:005_084>Shikoku<SELECTEND>
+<SELECT:005_085>Tohoku<SELECTEND>005_083FALSE<VOICE:20>Wrong answer! Sorry about that!
+ The correct answer is 'Shikoku'!<P>
+ Genocider Sho apparently chased after his first love
+ to where she moved,
+ but if it's overseas, that's just a bit too far, huh... 005_084FALSE<VOICE:21><FACE:2>Correct! Nice job!
+ Genocider Sho apparently chased after this first love
+ all the way to Shikoku, you know. 005_085FALSE<VOICE:20>Wrong answer. Sorry about that!
+ The correct answer is 'Shikoku'!<P>
+ As Genocide Sho,
+ he chased after his first love all the way to Shikoku
+ to Shikoku where she moved. 005_086TRUE<VOICE:26><FACE:2>Ehehe, sudden quiz time!
+ Difficulty level is 'A'.
+ If you can answer right away, that'd be amazing!
+ <FACE:0>The punishment from the prologue, 'Space Travel',
+ on the classroom scroll
+ written on the hanging scroll? <SELECT:005_087>Sleep under the open sky, eat on the bare ground<SELECTEND>
+ <SELECT:005_088>Before and After Meals<SELECTEND>
+ <SELECT:005_089>Endangered Species<SELECTEND>005_087FALSE<VOICE:20>Bummer! Wrong answer.
+ The correct answer is 'Endangered Species'.
+ By the way, 'makuten sekichi' means
+ is a metaphor for
+ 005_088FALSE<VOICE:20>Oh no! You missed it.
+ The correct answer is 'Endangered Species'.<P>
+ <FACE:1>If it were 'before or after meals',
+ ... 005_089FALSE<VOICE:21><FACE:2>Yes! That's correct.
+ You can see the hanging scroll on the left side of the classroom,
+ on the left side of the classroom, right?
+ But honestly, it's only visible
+ for just a few seconds though. 005_090TRUE<VOICE:26><FACE:2>Ehehe, sudden quiz time!
+ Difficulty level is 'A'.
+ If you can answer right away, that'd be amazing!
+ <FACE:0>Before enrollment, how many threads were there
+ Hope's Peak Academy thread? <SELECT:005_091>5<SELECTEND>
+ <SELECT:005_092>15<SELECTEND>
+ <SELECT:005_093>25<SELECTEND>005_091FALSE<VOICE:20>Boo-hoo! Wrong answer.
+ The correct answer was the 15th thread!
+ I wonder if there are more posts around enrollment time?
+ do posts increase? 005_092FALSE<VOICE:21><FACE:2>Bingo! That's correct. <P>
+ <FACE:14>Is 15 threads a lot?
+ Or is it few? 005_093FALSE<VOICE:20>Boo-hoo! Wrong answer.
+ The correct answer was the 15th thread!
+ I wonder if there are more posts
+ do posts increase? 005_094TRUE<VOICE:26><FACE:2>Ehehe, sudden quiz time!
+ It's the highest difficulty level, 'S'.
+ I wonder if anyone can figure it out on the first try?
+ <FACE:0>In the very last Monokuma Theater,
+ how many crabs are on the screen? <SELECT:005_095>1<SELECTEND>
+ <SELECT:005_096>4<SELECTEND>
+ <SELECT:005_097>There aren't any crabs to begin with. <SELECTEND>005_095FALSE<VOICE:20>Boo-hoo! Wrong answer.
+ The correct answer is '4'!<P>
+ The only time there was one crab
+ until Monokuma Theater Episode 14,
+ After that, it became 4. 005_096FALSE<VOICE:21><FACE:2>Wow~! That's correct!
+ You really figured it out...<P>
+ From Monokuma Theater Episode 15 onward
+Three little crabs have joined us! 005_097FALSE<VOICE:20>Boo-hoo! Wrong answer.
+ The correct answer is '4'!<P>
+ The crabs are definitely there.
+ Then there's the claws, the globe, and the kagami mochi.
+ And there's even something like a gun... 005_098TRUE I learned this from my master,
+ there are tons of asteroids
+ with really unusual names.
+ Like Takoyaki, Issun-boshi,
+ and even James Bond,
+ ...
+ Hehe, that's interesting. 006_001IF(RANKING == 0)<VOICE:9>I was looking at the academy files,
+ and I found a text file
+ text file caught my attention.
+ It listed everyone's names in ranking format...
+ listed in a ranking format...<P>
+ Um, <REACT:006_002>it's called
+ file name, you know... 006_002FALSE Oh, you're curious about the contents?
+ Alright, I'll read it from the bottom up.
+ Um, 17th place is
+ 'Reon Kuwata'. <P>
+ <PICON:80>When I told Kuwata-kun about this,
+ he just went silent and hung his head really low...<P>
+ Did I do something wrong...? RANKING = RANKING + 1006_003FALSE<VOICE:3>Alright, let's continue reading the rankings.
+ 16th place is...
+ 'Yamada Hifumi'!
+ I tried telling Yamada-kun about this too,
+ about this, but, <P>
+ <PICON:78>"My true charm is something
+  understand it!"
+ he said. 
+<JP:006_004>RANKING = RANKING + 1006_004FALSE<FACE:14>Um, about the next ranking,
+ it says 15th place is 'Senjin Mukuro'.<P>
+ ...I wonder who that could be?<P>
+ Oh, come to think of it,
+ Enoshima-san nearby,
+ and asked if she knew this name.
+ <PICON:82>He said he didn't know it...
+ But I'm kinda bothered by how fidgety he seemed. 
+<JP:006_005>006_005FALSE Number 14 is 'Oowada Mondo' guy, right? <P>
+ <PICON:72>"No girls like me, and this ranking...
+  Damn it, what the hell is going on!"<P>
+ Oh, and Owada-kun
+ breaking a nearby chair... 006_006FALSE<VOICE:16>Alright, let's continue reading the rankings.
+ 13th place is 'Sayaka Maizono'.<P>
+ When I told Ms. Maizono about this, <P>
+ <PICON:70>"I don't really care about it?
+  Hehe, really?"<P>
+ ...she said.
+ H-Hey, that kinda creepy...
+<JP:006_007>RANKING = RANKING + 1006_007FALSE Twelfth place is 'Shiraya Tokami'.<P>
+ <PICON:74>"Hmph, the opinions of the ignorant masses
+  not worth my concern."<P>
+ That's what Tenjin-kun said, but...
+<JP:006_008>006_008FALSE11th place is...
+ 'Celestia Ludenberg'.
+ <PICON:77>"To those who voted for me,
+  I may grant them a special C-rank evaluation."
+  as a special favor."
+ she said.
+ What does C-rank mean, I wonder? 006_009FALSE<VOICE:3>Um, I'll read the next ranking. <P>
+ 10th place goes to 'Hagakure Yasuhiro'.<P>
+ <PICON:79>"Pretty good for me, huh?
+  After all, I'm above Togami-chan!"<P>
+ He was really happy about it.
+But when the Genocider got wind of it,
+ chased relentlessly...
+<JP:006_010>RANKING = RANKING + 1006_010FALSE9th place goes to Ms. Enoshima Tsuneko.<P>
+ <PICON:81>"Huh? Seriously?
+  Well, middle is okay, I guess!"
+ That's what Enoshima-san said.
+<JP:006_011>006_011FALSE8th place is 'Monokuma'.<P>
+ <FACE:4>Hmm, I'd like to hear
+ I'd like to hear Monokuma's thoughts too,
+ but that's not really possible, is it... 006_012FALSE<VOICE:4>Let's continue reading the rankings from the other day.
+ Next up, 7th place is 'Fukawa Fuyuko'.
+ I asked Ms. Fukawa for a comment too,
+ but...<P>
+ <PICON:73>"Ah, forget about me!
+  Why is Lord Byakuya ranked so low?!"<P>
+ For some reason, she ended up scolding me instead. 
+<JP:006_013>RANKING = RANKING + 1006_013FALSE Sixth place goes to Ms. Asahina Aoi. <P>
+ <PICON:75>"Hey hey, is 6th place a prize?
+  Do I get something? Like a donut?"<P>
+ And then she asked for a prize. 
+<JP:006_014>006_014FALSE Fifth place goes to 'Ōkami Sakura'. <P>
+ <PICON:76>"To choose me...
+  I'm truly grateful. I must strive even harder."
+ That's what she said.
+ She didn't say much, but she seemed happy. 
+<JP:006_015>006_015FALSE Okay, continuing from the last ranking.
+ Fourth place is 'Kiyotaka Ishimaru'.<P>
+ <PICON:71>"I'm incredibly moved right now!
+  Hard work pays off no matter what!"<P>
+ I mean, Ishima-kun was crying... 006_016FALSE<VOICE:19>Let's continue reading the rankings!<P>
+ Third place is...
+ 'Makoto Naegi'!<P>
+ <PICON:68>"Huh? ...Huh!? Me!?
+  Ah, thank you.
+  But... am I really good enough?"
+ He looked so apologetic. RANKING = RANKING + 1006_017FALSE<VOICE:3>Second place goes to... Chihiro Fujisaki!
+ Yay, my master!<P>
+ <PICON:83>"I-is it really okay with someone like me? Really?
+  Thank you... I'm so happy."<P>
+ He was so happy! RANKING = RANKING + 1006_018FALSE<VOICE:16>That's the last one for the rankings.
+ And the number one spot goes to...<P>
+ Ta-da! 'Kiri Kiri Kyoko'!
+ Of course, I told Kirigiri-san too. <P>
+ <PICON:69>"I see...
+  I'm not interested, but...
+  I suppose I should say thank you."
+ That's what she said.
+Hehe, you're happy about this, right? RANKING = 0006_019 IF(RANKING == 1) <VOICE:4><REACT:006_003>[Ranking] <REACTE>Want to see more? 006_020 IF(RANKING == 1) <VOICE:4><REACT:006_003>【Ranking】<REACTE>Want to see more?006_021IF(RANKING == 1)<VOICE:4><REACT:006_003>【Ranking】<REACTE>Want to see more?006_022IF(RANKING == 2)<VOICE:9>Yeah, yeah,<REACT:006_006>【Ranking】Want to see more of <REACTE>? 006_023IF(RANKING == 2)<VOICE:9>Yeah, yeah, <REACT:006_006>【Ranking】Want to see more of <REACTE>? 006_024IF(RANKING == 2)<VOICE:9>Yeah, yeah,<REACT:006_006>Want to see the rest of the 【Ranking】<REACTE>? 006_025IF(RANKING == 3)<VOICE:9>Hey, hey!
+ <REACT:006_009>[Ranking] Want to see <REACTE>? 006_026IF(RANKING == 3)<VOICE:9> Hey, hey!
+ <REACT:006_009>[Ranking] Want to see <REACTE>? 006_027IF(RANKING == 3)<VOICE:9> Hey, hey!
+ <REACT:006_009>[Ranking]<REACTE>Want to see?006_028IF(RANKING == 4)<VOICE:9>How about continuing with<REACT:006_012>【Ranking】<REACTE>Want to see the rest? 006_029IF(RANKING == 4)<VOICE:9>It's about time<REACT:006_012>【Ranking】<REACTE>Want to see the rest? 006_030IF(RANKING == 4)<VOICE:9>It's about time<REACT:006_012>【Ranking】<REACTE> Want to see the rest? 006_031IF(RANKING == 5)<VOICE:9><REACT:006_016>【Ranking】<REACTE> is still in progress, but want to check?006_032IF(RANKING == 5)<VOICE:9><REACT:006_016>The 【Ranking】<REACTE> is still in progress, but want to check it?006_033IF(RANKING == 5)<VOICE:9><REACT:006_016>【Ranking】<REACTE> is still in progress, but would you like to check it? 006_034IF(RANKING == 6)<VOICE:9> Isn't it about time you started wondering about the rest of <REACT:006_017>【Ranking】<REACTE>?
+ starting to get to you? 006_035IF(RANKING == 6)<VOICE:9>Aren't you starting to wonder
+ starting to get curious about the rest of <REACT:006_017>【Ranking】<REACTE>?
+ starting to get curious? 006_037IF(RANKING == 7)<VOICE:19>Um, <REACT:006_018>【Ranking】<REACTE> want to check it? 006_038IF(RANKING == 7)<VOICE:19>Um,<REACT:006_018>Check the 【Ranking】<REACTE>? 006_039IF(RANKING == 7)<VOICE:19>Um, <REACT:006_018>Check the 【Ranking】<REACTE>? 007_001CHKVARN(URANAI) The other day, I was talking with Hagakure-kun,
+ and I said, "Wow, it's amazing you can do fortune-telling," and then, <P>
+ <PICON:79>"Yeah, right!? Awesome, huh!?
+  Ha ha ha!
+ "Well then, if I feel like it, I'll read your fortune for you!"
+ That's what she said.
+ So,
+ I had my fortune told for you.
+ I'm an AI,
+ and it'd be weird to have a machine read fortunes...
+<JP:007_002>URANAI = URANAI + 1007_002FALSE Oh, and about the fortune-telling results...<P>
+ <PICON:84>"From now on, whenever you're in the bathroom,
+  the toilet paper will run out
+  three times!"
+ That's what it said!
+ Do you think it'll come true? 007_003CHKVAR(URANAI)<VOICE:25>I had Hagakure-kun do my fortune telling!
+ Let me read the results right away. <P>
+ <PICON:84>"Tomorrow, you're gonna stub your pinky on the dresser
+  and be in agony!"
+ ...That's what it said.
+ Will it come true? 007_004CHKVAR(URANAI)<VOICE:25>Hagakure-kun did my fortune telling!
+ Let me read the fortune-telling results right away. <P>
+ <PICON:84>"You're gonna stub your little toe on a dresser tomorrow
+  When you try to go through the station ticket gate,
+  the ping-pong will go off!"
+ That's what it said!
+ Do you think it'll come true? 007_005CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun read my fortune!
+ Let me read the fortune right away. <P>
+ <PICON:84>"If you buy a lottery ticket within a year,
+  you'll win a super modest amount!"<P>
+ He said!
+ Do you think I'll win? 007_006CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun do my fortune telling!
+ Let me read the fortune-telling results right away. <P>
+ <PICON:84>"Actually, you're
+  actually a kid who was found on the riverbank nearby!"
+ He said!
+ Do you think it'll come true? 007_007CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun do my fortune telling!
+ Let me read the fortune-telling results right away. <P>
+ <PICON:84>"You're gonna witness a UFO within three years!
+  No doubt about it!!"<P>
+ He said!
+ Do you think it'll come true? 007_008CHKVAR(URANAI)<VOICE:25>Hagakure-kun did my fortune telling!
+ Let me read the fortune-telling results right away. <P>
+ <PICON:84>"Your umbrella will get stolen within six months!
+  At least stop using plastic umbrellas!"
+ Seriously!
+ Do you think it'll come true? 007_009CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun do my fortune telling!
+ Let me read the fortune-telling results right away. <P>
+ <PICON:84>"That game you bought with high hopes
+  turn out to be a bit of a letdown!"
+ Seriously!
+ Will it come true? 007_010CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun do my fortune telling!
+ Let me read the fortune-telling results right away. <P>
+ <PICON:84>"Within a month,
+  your house's breaker's gonna trip!
+  Denko-chan's gonna be mad at you!"
+ That's what it said!
+ Do you think it'll come true? 007_011CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun do my fortune telling!
+ Let me read the results right away. <P>
+ <PICON:84>"You'll get your fingers caught in a train door within three months!
+  You'll get your face smashed in by a train door!
+  And it'll be your face!"
+ That's what it said!
+ Do you think it'll come true? 007_012CHKVAR(URANAI)<VOICE:25> I got my fortune told by Hagakure-kun!
+ Let me read the fortune right away. <P>
+ <PICON:84>"Within a year, your cell phone
+  drown and die!
+  The signs of drowning are clear, so it's definitely gonna happen!"
+I did!
+ Will it come true? 007_013CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun read my fortune!
+ Let's read the fortune-telling results right away. <P>
+ <PICON:84>"You'll run into G within a week!
+  If you see one, assume there are thirty more!"
+ I did!
+ Will it come true? 007_014CHKVAR(URANAI)<VOICE:25> I had Hagakure-kun do my fortune telling!
+ Let me read the fortune-telling results right away. <P>
+ <PICON:84>"Next time you go shopping,
+  your total will be 444 yen exactly—four times!
+  This is bad luck! It's the end of the world!"
+ That's what it said!
+ Do you think it'll come true? 007_015CHKVAR(URANAI)<VOICE:25> I got my fortune told by Hagakure-kun!
+ Let me read the fortune right away. <P>
+ <PICON:84>"Within a year, you'll randomly spot someone in town
+  someone wearing the exact same clothes as you in town
+  and feel a little embarrassed!"
+ That's what it said!
+ Do you think it'll come true? 007_016CHKVAR(URANAI)<VOICE:25> I got my fortune told by Hagakure-kun!
+ Let's read the fortune right away. <P>
+ <PICON:84>"Within six months,
+  You'll get sleep paralysis while you're sleeping!
+  I don't believe in occult stuff though!"
+ He said!
+ Do you think it'll come true? 008_001TRUE<FACE:14><REACT:008_015>【Hope's Peak Academy】<REACTE>Does it even have a rooftop...? 008_002TRUEThis place's <REACT:008_016>【School Store】<REACTE>
+ has a kinda weird selection, huh? 008_003TRUE<VOICE:9> Hey, hey!
+ <REACT:008_017>Have you tried the 【Monomonomaschine】<REACTE> yet? 008_004TRUE<FACE:14><VOICE:18>Togami-kun seems to go to the <REACT:008_018>【Library】<REACTE>
+ a lot, but
+ I wonder if there are any interesting books there? 008_005TRUE<VOICE:3>This week's <REACT:008_019>【Trash Duty】<REACTE> is...
+ Oh, it's Yamada-kun. 008_006TRUE<FACE:14><REACT:008_020>The school swimsuit in the [Laundry] room...
+ whose are they, I wonder... 008_007TRUE Ms. Asahina seems to be
+ <REACT:008_021>【Pool】<REACTE> swimming in the pool again today. 008_008TRUE<FACE:2>Maybe you should try
+ to take your mind off things. 008_009TRUE<REACT:008_023>The air purifier in the <REACTE>【Physics Room】<REACTE>
+ is huge, isn't it... 008_010TRUE Hagakure-kun used the massage chair in the <REACT:008_024>【Changing Room】<REACTE>
+ in the [Changing Room]<REACTE> and he looked so comfortable. 008_011TRUE<REACT:008_025>The [Health Room]<REACTE> is really well-equipped, isn't it?
+ Not just first-aid supplies,
+ they even have blood for transfusions. 008_012TRUE Everyone's rooms have showers, but
+ <REACT:008_026>【Large Bath】<REACTE> is nice for relaxing too. 008_013TRUE The <REACT:008_027>【Music Room】<REACTE> here...
+It's more like a concert hall than a place to study,
+ it's more like a concert hall, isn't it... 008_014TRUE<REACT:008_028>The Monokuma statue in the [Art Room]<REACTE>—
+ did Monokuma make it after all? 008_015FALSE<PICON:40>You mean about this school everyone transferred into.
+ There's no entrance exam or anything like that.
+ you have to be scouted by the academy.
+ The admission requirements are "being a current high school student" and
+ and "being top-tier in your respective field."
+ That's what it takes.
+ Graduates are all renowned figures,
+ and they say that once you get in, your future is set.
+ is what they say. 008_016FALSE It's a mix of Japanese and Western styles, with all sorts of things available. <P>
+ Lanterns hang from the ceiling,
+ armor, pots, paintings, and such are displayed,
+ it has a rather unique atmosphere, doesn't it?
+ <FACE:0>Once you collect enough Monokuma Medals,
+ you can use them at the Monomono Machine here.
+ in the Monomono Machine here. 008_017FALSE It's the gachapon machine in the store.
+ Each use requires
+ you need at least one Monokuma Medal.
+ Turn the lever to get all sorts of things!<P>
+ Using multiple medals at once
+ reduces the chance of getting duplicate prizes.
+ There are 92 prizes in total,
+ and some are rare,
+ Why not give it a try?
+ They haven't been maintained very well,
+ and a bit dusty...
+ If anything,
+ they seem to be mostly specialized and difficult books.
+ Togami-kun often reads books here.
+ He especially loves the book depository.
+ <FACE:14>Near Tenjin-kun,
+ Fukawa-san is always nearby,
+ is Fukawa-san there for the books, or...? 008_019FALSE The person in charge of trash disposal
+ disposes of the collected trash in the incinerator here.<P>
+ It's a rotation system, so no slacking off!<P>
+ The shutter's always down,
+ only the person on duty with the key
+ can open it.
+ Even a trash incinerator like this
+ end up being connected to the case...<P>
+ Oh yeah, there's a door in the ground,
+ and it's locked too, so it won't open. 008_020FALSE
+ with rows and rows of washing machines.
+ There are magazines and vending machines too,
+ so you can kill time while you wait.<P>
+ Sometimes there seem to be unclaimed lost items
+ , but
+ but everyone should remember to take their laundry home
+ and take it home!
+ with spectator seating on both sides.
+ Wow, that's amazing.
+ If there's a competition or something,
+ probably fill up completely.
+ But despite being such a large, prominent spot,
+ it surprisingly rarely plays a role in incidents. 008_022FALSE Darts, billiards,
+ and all kinds of magazines too.<P>
+ Having facilities like this is really luxurious, isn't it?<P>
+ <FACE:2>They even have Othello and shogi,
+ so all kinds of people can play casually!<P>
+ I'd like to try billiards too~.<P>
+ <FACE:4>But since Ms. Ceres is on campus,
+ I'm kinda scared to challenge her.
+ scary somehow. Hehe. 008_023FALSE That big device in the middle of the room
+ is an air purifier.<P>
+ It seems to handle the air circulation
+ for the entire academy. <P>
+ Such a massive air purifier
+It's amazing they even made it, but <P>
+ <FACE:14>it's crazy that we have to use such a huge air purifier
+ that you have to use such a huge air purifier?
+ that the air gets so dirty?
+ <FACE:4>That's kind of scary... 008_024FALSE Yeah, there are surveillance cameras all over the academy,
+ but
+ they're not installed here or in the main bath.
+ <FACE:14>Is Monokuma actually a gentleman, I wonder?<P>
+ But even if there were no cameras,
+ it must have been a tough place for Master Tama,
+ a tough place, requiring all sorts of care. 008_025FALSE Yeah, right, here
+ set up so you can view X-rays
+ set up so you can see X-rays here, right?
+ <FACE:14>I wonder if there was a super high school-level doctor or something?<P>
+ <FACE:1>Looks like there are all kinds of medicines too,
+ but really, we shouldn't have to use a place like this.
+ and everyone stays healthy
+ is what matters most... 008_026FALSE Of course, there's a big mountain painting
+ on the wall, of course!
+ It's a bit disappointing it's not Mount Fuji...
+ Besides the spacious bath,
+ there's a sauna in the back.
+ I wonder if Master Tama managed to slip through the changing room
+ and got into the bath here?
+ I'm sure he managed just fine! 008_027FALSE There are student desks and chairs, but
+ they're arranged like a guest seating area,
+ set up, you know?
+ The lighting is just so extravagant too...<P>
+ If Maizono-san sang here,
+ it would be so much fun...<P>
+ After all,
+ she is the 'Ultra High School Level Idol'! 008_028FALSE Besides the Monokuma statue,
+ there's also the Venus de Milo and Nio statues
+ are placed here.
+ Paintings are plastered all over the walls,
+ giving it a slightly bizarre atmosphere, <P>
+ art supplies and sculpting tools
+ are fully stocked, too.
+ <FACE:14>Was someone like the 'Ultra High School Level Artist'
+ at this academy?<P>
+ Still, if we leave it alone,
+ it might just turn into
+ figure atelier. 008_029TRUE<FACE:4><VOICE:18><REACT:008_032>【Biology Room】<REACTE>
+ "Live Goods"...
+ The ink drips down, kinda creepy, huh... 008_030TRUE<FACE:2><REACT:008_033>【Dojo】<REACTE> Have you seen the cherry blossoms yet?
+ They're in full bloom!<P>
+ <FACE:4>I kinda wanna go hanami or something...
+ I'd probably get scolded, huh... 008_031TRUE<FACE:4><REACT:008_034>【Botanical Garden】<REACTE>'s Monokuma Flower,
+ apparently eats anything...
+ I wonder if it could eat me too... 008_032FALSE<FACE:14>The biology room is always locked
+ so I can't get in.
+ I wonder what's inside?
+ <FACE:11>Probably human body models
+ or frogs preserved in formalin
+ or something...?
+ <FACE:4>Hmm, even with the door locked,
+ I'm starting to like it... 008_033FALSE<FACE:14>There was a target used for kyudo...
+ Did Hope's Peak Academy even have an archery club?<P>
+ <FACE:0>All those decorated certificates on display
+ might be from the archery club, too. <P>
+ <FACE:14>If there was a 'Super High School Level Archer',
+ I kinda wondered who'd be stronger—that person or Oogami-san?
+ I found myself wondering about that. 008_034FALSEBecause the sprinklers water the grounds every morning.
+Taking care of the plants doesn't seem to require much effort.
+ Even though it's inside the academy,
+ it somehow has a jungle-like
+ atmosphere... 008_035TRUE The other day, <REACT:008_037>【Kitchen】<REACTE>
+ Maizono-san and Asahina-san
+ making snacks in the <REACT:008_038>【Kitchen】<REACTE>. Sounds nice... 008_036TRUE I want to eat breakfast with everyone in the <REACT:008_039>【Cafeteria】<REACTE> too...
+ eat breakfast with everyone... 008_037FALSE There are so many pots and pans
+ and cooking utensils. <P>
+ The fact that Asahina-san's stomach is satisfied
+ is thanks to this place, but, <P>
+ <FACE:4>seeing all these knives
+ kind of makes me uneasy... 008_038FALSE Basically, we all gather here every day,
+ and think about how to escape
+ or calm our nerves with tea.
+ and calm our nerves with tea. <P>
+ It's like our little sanctuary!<P>
+ So I think this place is
+ I think it's a really important place. 008_039FALSE It's about those peaceful moments
+ when things are peaceful.<P>
+ During these moments, we
+ we deepen our bonds with each other. <P>
+ <FACE:6>Even if a sad incident
+ awaiting us afterward... 008_040FALSE They call it 'punishment,'
+ but it's just a different way of saying it.
+ based on the class trial vote results,
+ either Kuro, or everyone except Kuro, <P>
+ a truly cruel execution
+ extremely cruel execution. <P>
+ Because of this,
+ class trials always become life-or-death trials... 008_041FALSE It refers to someone who,
+ and ended up killing their comrades.
+ But no one in Kuro
+ got their hands dirty.
+ All of it was driven by the
+ 'motives' posted by Monokuma.
+ <P>
+ <FACE:5>To put it bluntly,
+ Kuro is a victim too... of Monokuma's... 008_042FALSE
+ the latest trendy anime. <P>
+ The protagonist is a slightly chubby
+ Princess Boo-ko, <P>
+ and it's been decided to make it into an anime. It's apparently super popular.
+ Yamada-kun keeps recommending it to me. <P>
+ <FACE:4>But I don't think we're in a position to worry about that right now... 008_043FALSEMonokuma, the 'School Principal', has set school rules
+ and they contain things you'd never see in a normal school's rules.
+ set in stone.
+ You can check them on the electronic student handbook,
+ and Monokuma keeps adding new ones all the time.<P>
+ <FACE:5>Breaking them seems to result in punishment,
+ so everyone needs to be careful. 008_044FALSE
+ at the crime scene of the victim killed by <P>
+ <FACE:4>This blood writing was written in the victim's own blood,
+ and also serves as proof that they were
+ ...
+ <FACE:11>It's scary... way too scary... 008_045FALSE If the 'Black' who committed the murder
+ and only if he wins the vote in the class trial,<P>
+ that Kuro can escape the school.
+ <P>
+ <FACE:4>Killing everyone else just to escape?
+ is something most people wouldn't even consider,
+Monokuma stirs things up... 008_046FALSE It's an electronic tool Monokuma gave us.
+ When activated, it displays the owner's real name.
+ It also functions as a card key, <P>
+ <FACE:14>"It won't break from a little bump or scratch,
+  break, <P>
+  and it's impossible to hack or modify.
+  a very sturdy tool,"
+ Monokuma said it was...
+ <FACE:5>When something's called impossible, it just makes you want to challenge it,
+ 'Hacking'. 008_047FALSE A Middle Eastern mercenary group,
+ Unlike typical military companies, <P>
+ a terrifying organization that wreaked havoc
+ wreaking havoc across the globe. <P>
+ <FACE:14>But then, suddenly, their activities
+ ceased operations,<P>
+ rumors swirled about internal collapse or a massacre to silence them...
+ were the rumors going around.
+ I think it's an organization
+ ...008_048FALSE<FACE:1>From 10 PM to 7 AM,
+ access to certain facilities like the cafeteria
+ is prohibited.
+ As Monokuma would say,
+ it's like saying, "Go to bed early and get up early!"
+ ...
+ It's a strangely regimented rule, isn't it... 008_049FALSE
+ and no details are known at all.
+ I'm currently
+ gathering information on it. <P>
+ Within the academy, traces of it
+ left in various places,<P>
+ <FACE:4>Just imagining how horrific the incident must have been
+ just imagining it makes me scared... 008_050FALSE
+ the investigation into the incident is complete,
+ a class trial is held.
+ The goal is to exchange opinions and deductions,
+ and uncover the details of the crime and the culprit.<P>
+ <FACE:5>At the end of the trial,
+ ...
+ based on surveillance camera footage.<P>
+ In other words, Monokuma always witnesses the crimes. <P>
+ <FACE:4>He doesn't do it himself,
+ but makes us kill each other.
+ How cruel... 008_052FALSE This place was originally meant to be a learning environment
+ as a place of learning,<P>
+ but now it's just one stage
+ just one stage in this hopeless school life.<P>
+ Graffiti covers the blackboards in each classroom,
+ I wonder who wrote this?
+ a term used to describe students
+ to describe students who possess such talent.
+ The students gathered at Hope Academy
+ are all classified as 'super high school level',
+ Being super high school level
+ is the minimum and ultimate requirement for admission to the academy. 008_054FALSE
+ the name of a massive biker gang that controls the Kanto region.
+ <FACE:14>Personally, I have no ties to that delinquent world,
+ unrelated to that world of delinquents,<P>
+ <FACE:2>but I can't help but admire
+ I can't help but admire it, eh heh. 009_001TRUE<VOICE:22><PICON:48>Look, look!
+ While digging through the school files,
+ and I found this image! 009_002TRUE<VOICE:22><PICON:49>Look, look!
+ While digging through the academy files,
+ I found this image! 009_003TRUE<VOICE:22><PICON:50>Look, look!
+ While digging through the academy's files,
+Look at this image I found! 009_004TRUE<VOICE:22><PICON:51>Check it out!
+ While digging through the academy files,
+ I found this image! 009_005IF(MONOKUMAPIC == 0)<VOICE:22><PICON:54>Look, look!
+ While digging through the academy's files,
+ I found this image!
+ ...Is this
+ Did Monokuma take this himself? MONOKUMAPIC = MONOKUMAPIC + 1009_006IF(MONOKUMAPIC == 1)<VOICE:22><PICON:55>Look, look!
+ While digging through the academy's files,
+ I found this image!
+ Another Monokuma photo...
+ It's kind of cute... maybe. MONOKUMAPIC = MONOKUMAPIC + 1009_007IF(MONOKUMAPIC == 2)<VOICE:22><PICON:56>Look, look!
+ While digging through the academy's files,
+ I found this image!
+ Whoa...
+ I take back what I said about it being cute earlier...
+ I take it back... MONOKUMAPIC = MONOKUMAPIC + 1009_008IF(MONOKUMAPIC == 3)<VOICE:22><PICON:57>Look, look!
+ While digging through the academy files,
+ I found this image!
+ It's Monokuma again...
+ Maybe they're planning to make a photo album? MONOKUMAPIC = MONOKUMAPIC + 1009_009IF(MONOKUMAPIC == 4)<VOICE:22><PICON:58>Look, look!
+ While digging through the academy files,
+ I found this image!
+ Hmm...
+ Is Monokuma bored too? MONOKUMAPIC = MONOKUMAPIC + 1009_010IF(MONOKUMAPIC == 5)<VOICE:22><PICON:59>Look, look!
+ While digging through the academy's files,
+ I found this image!
+ In the academy's files
+ Why are there so many Monokuma images
+ in the academy's files...? MONOKUMAPIC = MONOKUMAPIC + 1009_011IF(MONOKUMAPIC == 6)<VOICE:22><PICON:60>Look, look!
+ While digging through the academy files,
+ I found this image!
+ Wow, it's a pixel art Monokuma! MONOKUMAPIC = MONOKUMAPIC + 1009_012IF(MONOKUMAPIC == 7)<VOICE:22><PICON:61>Look, look!
+ While digging through the academy's files,
+ I found this image!
+ A close-up of Monokuma is
+ is way too scary... MONOKUMAPIC = 0009_013FALSE<PICON:53>It's the anime currently airing!
+ The main character's name is
+ Princess Boo-ko, apparently. <P><PICOFF>
+ <FACE:0>Note: This anime isn't just
+ traditional pretty girl action anime, but rather
+ but can be understood as a meta-science fiction work.
+ and <P>
+ and it also serves as a highly valuable...
+ a highly valuable work that threw a stone into the pond...<P>
+ ………<P>
+ <FACE:8>Huh!<P>
+ <FACE:4>S-sorry, I just blurted out...
+ Yamada-kun was talking so passionately
+ I just got carried away too... 009_014TRUE<VOICE:22><PICON:52>Look, look!
+ While digging through the academy files,
+ I found this image! 009_015TRUE<VOICE:22><PICON:38>Look, look!
+ While digging through the academy files,
+ I found this image!
+ Um, this person's name is
+ 'Kenichiro'.
+ He seems to be Oogami-san's rival.
+ The red scarf he's wearing on his arm
+ belong to Oogami-san, apparently. 009_016TRUE<VOICE:22><PICON:39>Look, look!
+ While digging through the academy files,
+ and I found this image!
+ Um, this person's name is
+ 'Iroha Tatanata'.<P>
+ He's the creator of that Monokuma Flower,
+ and apparently a genius botanist. 009_017TRUE<VOICE:22><PICON:45>Look, look!
+ While digging through the academy's files,
+ and I found this image!
+ Naegi-kun's dad and mom,
+ and his little sister, right?<P>
+ It's clear that Naegi-kun is shorter than his little sister.
+Seems like she's a little concerned... 009_018TRUE<VOICE:22><PICON:41>Look, look!
+ While digging through the academy files,
+ I found this image!
+ This is Ms. Maizono
+ singing on stage. <P>
+ She looks so sparkly and cute! 009_019TRUE<VOICE:22><PICON:42>Look, look!
+ While digging through the academy files,
+ I found this picture!
+ Wow, Kuwata-kun's got a buzz cut!
+ It looks kind of fresh, doesn't it? 009_020TRUE<VOICE:22><PICON:43>Look, look!
+ While digging through the academy files,
+ I found this image!
+ It's a magazine with Enoshima-san in it.
+ There are so many of them... 009_021TRUE<VOICE:22><PICON:44>Look, look!
+ While digging through the academy files,
+ I found this image!
+ Oh my gosh, Mr. Owada has been
+ in one place. 009_022TRUE<VOICE:22><PICON:63>Look, look!
+ While digging through the academy files,
+ I found this image!
+ It's Owada-kun, Kuwata-kun, and Master Tama! 009_023TRUE<VOICE:22><PICON:64>Look, look!
+ While digging through the academy files,
+ I found this picture!
+ Whoa... why is this picture here!? 009_024TRUE<VOICE:22><PICON:65>Look, look!
+ While digging through the academy files,
+ I found this image!
+ Wh-what is this?
+ The kids around Asahina-san...
+ C-could it be...? 010_001CHKVARN(SHINDAN)<VOICE:3> Well, you see, my master added a new feature!
+ added a new feature!<P>
+ Based on a database containing all sorts of information about everyone,
+ <P>
+ it can diagnose who you're most like!
+ <P>
+ <FACE:2>Hehe, pretty amazing, right?<JP:010_002>SHINDAN = SHINDAN + 1010_002CHKVAR(SHINDAN)<VOICE:9>Hey hey,
+ <REACT:010_003>Want to try the 【Character Diagnosis】<REACTE>? 010_003FALSE<VOICE:23>Alright, I'll start asking questions!
+ Touch the option that fits you best!
+ by touching the option!
+<JP:010_004>010_004FALSE<FACE:1>"I'm bad at group activities"<SELECT:010_011>Yes<SELECTEND>
+ <SELECT:010_005>No<SELECTEND>010_005FALSE<FACE:7>"I have goals I need to overcome"<SELECT:010_006>Yes<SELECTEND>
+ <SELECT:010_012>No<SELECTEND>010_006FALSE"I'm hard on myself"<SELECT:010_007>Yes<SELECTEND>
+ <SELECT:010_013>No<SELECTEND>010_007FALSE"I'm good at sports"<SELECT:010_008>Yes<SELECTEND>
+ <SELECT:010_014>No<SELECTEND>010_008FALSE<FACE:7>"I would never do anything cowardly"<SELECT:010_009>Yes<SELECTEND>
+ <SELECT:010_013>No<SELECTEND>010_009FALSE"Protein is a miracle cure."<SELECT:010_010>Yes<SELECTEND>
+ <SELECT:010_016>No<SELECTEND>010_010FALSE"I'm not good with words."<SELECT:010_058>Yes<SELECTEND>
+<SELECT:010_017>No<SELECTEND>010_011FALSE"I get bored easily anyway"<SELECT:010_018>Yes<SELECTEND>
+ <SELECT:010_012>No<SELECTEND>010_012FALSE"I am highly intelligent. Absolutely."<SELECT:010_019>Yes<SELECTEND>
+ <SELECT:010_013>No<SELECTEND>010_013FALSE"I'm confident in my style."<SELECT:010_020>Yes<SELECTEND>
+ <SELECT:010_014>No<SELECTEND>010_014FALSE<FACE:6>"I find it hard to say no when people ask me for favors"<SELECT:010_015>Yes<SELECTEND>
+ <SELECT:010_021>No<SELECTEND>010_015FALSE<FACE:6>"I'm easily persuaded"<SELECT:010_016>Yes<SELECTEND>
+ <SELECT:010_022>No<SELECTEND>010_016FALSE<FACE:6>"I cry easily"<SELECT:010_017>Yes<SELECTEND>
+ <SELECT:010_023>No<SELECTEND>010_017FALSE<FACE:2>"I'm a whiz at operating machinery"<SELECT:010_053>Yes<SELECTEND>
+ <SELECT:010_056>No<SELECTEND>010_018FALSE"I don't want to endure anything. In fact, I won't."<SELECT:010_025>Yes<SELECTEND>
+ <SELECT:010_019>No<SELECTEND>010_019FALSE<FACE:7>"I won't bow down to authority!!"<SELECT:010_026>Yes<SELECTEND>
+ <SELECT:010_020>No<SELECTEND>010_020FALSE"I think I'm pretty lucky."<SELECT:010_021>Yes<SELECTEND>
+ <SELECT:010_027>No<SELECTEND>010_021FALSE"I'll use any means necessary to achieve my goals."<SELECT:010_028>Yes<SELECTEND>
+ <SELECT:010_022>No<SELECTEND>010_022FALSE"I'm good at getting along with people"<SELECT:010_023>Yes<SELECTEND>
+ <SELECT:010_029>No<SELECTEND>010_023FALSE<FACE:2>"I think I'm more positive than others"<SELECT:010_024>Yes<SELECTEND>
+ <SELECT:010_030>No<SELECTEND>010_024FALSE"I think I'm an ordinary person"<SELECT:010_046>Yes<SELECTEND>
+ <SELECT:010_031>No<SELECTEND>010_025FALSE"I love to talk"<SELECT:010_032>Yes<SELECTEND>
+ <SELECT:010_026>No<SELECTEND>010_026FALSE<FACE:7>"Looks matter for men! Looks matter for women too!"<SELECT:010_033>Yes<SELECTEND>
+ <SELECT:010_027>No<SELECTEND>010_027FALSE"There's nothing in this world money can't buy."<SELECT:010_034>Yes<SELECTEND>
+<SELECT:010_028>No<SELECTEND>010_028FALSE"I'm sensitive to trends"<SELECT:010_029>Yes<SELECTEND>
+ <SELECT:010_035>No<SELECTEND>010_029FALSE<FACE:14>"I have sharp intuition"<SELECT:010_030>Yes<SELECTEND>
+ <SELECT:010_036>No<SELECTEND>010_030FALSE"I often get approached by the opposite sex"<SELECT:010_031>Yes<SELECTEND>
+ <SELECT:010_037>No<SELECTEND>010_031FALSE"I'm known for my composure"<SELECT:010_055>Yes<SELECTEND>
+ <SELECT:010_054>No<SELECTEND>010_032FALSE<FACE:4>"I get pleasure from seeing people suffer"<SELECT:010_039>Yes<SELECTEND>
+ <SELECT:010_033>No<SELECTEND>010_033FALSE"I hate a life without excitement"<SELECT:010_040>Yes<SELECTEND>
+ <SELECT:010_034>No<SELECTEND>010_034FALSE"I come from noble blood."<SELECT:010_041>Yes<SELECTEND>
+ <SELECT:010_035>No<SELECTEND>010_035FALSE"I'm good at keeping a poker face"<SELECT:010_042>Yes<SELECTEND>
+ <SELECT:010_036>No<SELECTEND>010_036FALSE<FACE:7>"I just want to be popular!"<SELECT:010_043>Yes<SELECTEND>
+ <SELECT:010_037>No<SELECTEND>010_037FALSE<FACE:12>"I get fooled easily"<SELECT:010_038>Yes<SELECTEND>
+ <SELECT:010_044>No<SELECTEND>010_038FALSE<FACE:7>"I prefer 'moe' over 'burning passion'."<SELECT:010_051>It's definitely 'moe'!<SELECTEND>
+ <SELECT:010_047>Nah, it's definitely 'moe'!<SELECTEND>010_039FALSE<FACE:4>"I love despair more than three meals a day"<SELECT:010_062>Yes<SELECTEND>
+ <SELECT:010_040>No<SELECTEND>010_040FALSE"I'd do anything for the one I love"<SELECT:010_061>Yes<SELECTEND>
+ <SELECT:010_041>No<SELECTEND>010_041FALSE"I am the one destined to rule the world."<SELECT:010_048>Yes<SELECTEND>
+ <SELECT:010_042>No<SELECTEND>010_042FALSE"I'm confident my lies won't be exposed"<SELECT:010_059>Yes<SELECTEND>
+ <SELECT:010_043>No<SELECTEND>010_043FALSE<FACE:7>"I'm more of an idiot than a fool"<SELECT:010_050>Yes, I'm an idiot<SELECTEND>
+ <SELECT:010_052>No, I'm just stupid<SELECTEND>010_044FALSE<FACE:6>"I fall into negative thinking immediately"<SELECT:010_057>Yes<SELECTEND>
+<SELECT:010_045>No<SELECTEND>010_045FALSE<FACE:7>"I've resolved to keep my promises."<SELECT:010_049>Yes<SELECTEND>
+ <SELECT:010_060>No<SELECTEND>010_046FALSE<VOICE:4>Alright, that's all the questions!
+ Now, I'll announce the diagnosis results. 
+<JP:010_063>010_047FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_064>010_048FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_065>010_049FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_066>010_050FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_067>010_051FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_068>010_052FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_069>010_053FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_070>010_054FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_071>010_055FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_072>010_056FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_073>010_057FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_074>010_058FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_075>010_059FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_076>010_060FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_077>010_061FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, I'll announce the diagnosis results now. 
+<JP:010_078>010_062FALSE<VOICE:4>Alright, that's all the questions!
+ Alright, time to announce the diagnosis results. 
+<JP:010_079>010_063FALSE<VOICE:24><FACE:27>You're definitely the 'Makoto Naegi' type!
+ You're a peace-loving, common-sense person.
+ People seem to think you're easy to approach.
+ <P>
+ You're usually a bit timid,
+ you're someone who steps up when it counts. <P>
+ You might think you're ordinary,
+ but you might actually have hidden, great talent
+ ...you know!
+<JP:010_080>010_064FALSE<VOICE:24><FACE:23>You're definitely the 'Kiyota Ishimaru' type!
+ You're super serious and a real hard worker.
+ Because you're strict about rules, unexpected things might
+ you might panic easily...<P>
+ Once you open up,
+ you have a deeply trusting
+ and deeply compassionate.
+<JP:010_080>010_065FALSE<VOICE:24><FACE:22>You're definitely the 'Tenjin Byakuya' type!
+ You can do anything you set your mind to—
+ a true genius type.
+ But your pride is a bit of a flaw, I suppose.<P>
+ You're basically an individualist,
+ but you don't really dislike
+ not that much, right?
+ Hmm, is this what Yamada-kun taught me
+ tsundere thing, right?
+ <JP:010_080>010_066FALSE<VOICE:24><FACE:25>You're definitely the 'Yamada Mondo' type!
+ You absolutely hate bullying the weak,
+ and you seem like a natural leader who takes good care of others.
+ You always keep your promises
+ and you're deeply loyal and compassionate.
+ On the flip side, you're a bit quick to anger,
+ and sometimes you just can't help but... get a little handsy?
+ <JP:010_080>010_067FALSE<VOICE:24><FACE:18>You're definitely the 'Kuwata Reon' type!
+ You're a bit of a joker,
+ you're a great mood-maker who goes with the flow.
+ You're free-spirited and true to yourself,
+ and that might be throwing people off balance...
+ But somehow, you just can't help but like you, you know?
+Maybe I just don't like
+ I wonder if they just don't like it.
+ You're the type who could do so much more if you tried,
+ What a waste!
+<JP:010_080>010_068FALSE<VOICE:24><FACE:21>You're definitely the 'Yamada Hifumi' type!
+ You seem to be very dexterous and have a strong sense of aesthetics.
+ You'd probably make a great artist, don't you think?
+ You're highly focused,
+ and when you get absorbed in something, you unleash incredible power, but
+ you tend to neglect those around you
+ and retreat into your own world.
+ so be careful!
+<JP:010_080>010_069FALSE<VOICE:24><FACE:32>You're definitely the 'Hagakure Yasuhiro' type!
+ You're just so positive,
+ and your strength is that you don't dwell on things.
+ On the flip side, you seem to struggle
+ seems to be your weakness.
+ You're laid-back,
+ but somehow you just can't help but like them.
+ Also, I'm pretty good at trusting my gut,
+ but whether she actually uses that power effectively...
+ Not really.
+<JP:010_080>010_070FALSE<VOICE:24><FACE:1>You're definitely the 'Fujisaki Chihiro' type!<P>
+ You're gentle and kind-hearted,
+ but that also makes you easily swayed and a bit timid.
+ But you can recognize your shortcomings
+ and try to overcome them.
+ <JP:010_080>010_071FALSE<VOICE:24><FACE:30>You're definitely the 'Sayaka Maizono' type!
+ You're glamorous and a popular favorite with everyone.
+ You're also a hard worker who charges straight toward your dreams.
+ and a real hard worker. <P>
+ But you're also a skilled actress,
+ and a bit cunning too...
+ Plus, she seems to have incredibly sharp intuition.
+<JP:010_080>010_072FALSE<VOICE:24><FACE:31>You're definitely the 'Kiri Kiri Kyoko' type!
+ You're always cool and collected.
+ You've got guts and shine in the clutch.
+ Maybe you're not good at showing your emotions?
+ You seem to have a secretive side,
+ so people might find you hard to approach.
+ But he's got a playful side,
+ and cute at times too...
+ Ah! I know what that is!
+ It's called the "gap moe" phenomenon!
+<JP:010_080>010_073FALSE<VOICE:24><FACE:26>You're definitely the 'Asahina Aoi' type!
+ You're positive and just bursting with energy.
+ Plus, you're pure-hearted and maybe a little airheaded?
+ That tendency to jump to conclusions
+ might be a minor flaw.
+ You get down easily,
+ she bounces back just as quickly.
+<JP:010_080>010_074FALSE<VOICE:24><FACE:28>You're definitely the 'Fukawa Fuyuko' type!
+ You tend to be negative,
+ and maybe not the best at socializing?
+ But you're incredibly devoted,
+ and for someone you care about,
+ even through fire and water...
+ passionate about it. 
+<JP:010_080>010_075FALSE<VOICE:24><FACE:24>You're definitely the 'Ōkami Sakura' type!
+ Honest and down-to-earth, right?<P>
+ Since you're the quiet type,
+ people often see you as a lone wolf,
+ but you're actually very considerate of your friends.
+ But it seems like luck isn't really on your side...
+<JP:010_080>010_076FALSE<VOICE:24><FACE:16>You're definitely the Yasuhi... no,
+ the 'Celestia Rudenberg' type!<P>
+ You're definitely a go-with-the-flow kind of person,
+ and you seem to think really fast.
+ You have the strength to stick to your own path,
+ a shrewdness about you.<P>
+ Even in the heat of the moment,
+ ...but no lying, okay?
+ ...But no lying, okay?
+ <JP:010_080>010_077FALSE<VOICE:24><FACE:19>You're definitely the 'Enoshima Tsuruko' type!
+ You're friendly and innocent.<P>
+ You speak your mind clearly
+ For better or worse, you're the epitome of a modern kid.<P>
+ But surprisingly resilient,
+ and seem to have a tough side too.
+<JP:010_080>010_078FALSE<VOICE:24><FACE:29>You're definitely
+It's the 'Genocider Sho' type!<P>
+ Emotions run a bit high,
+ but he seems like the type who always values
+ and never pretending to be someone else.
+ But are you being so honest
+ that you lose sight of those around you...?<P>
+ Being too straightforward about your own desires
+ might be a problem too...
+<JP:010_080>010_079FALSE<VOICE:24><FACE:17>You're definitely the 'Monokuma' type!
+ You love tricking people!
+ You absolutely love seeing people suffer!<P>
+ ...I wonder how that'll turn out...
+ You get bored easily,
+ and you forget inconvenient things right away.
+ But I guess the fact that I can be kind sometimes...
+ is that a good thing?
+ But I guess people think I'm just moody. 
+<JP:010_080>010_080FALSE<FACE:2>Hehe, how'd that go?
+ Did I get it right? SHINDAN = 0011_001IF(VISITNUM == 5)<FACE:2>I'm so happy to see you again.
+ I enjoy talking with you too! 011_002IF(VISITNUM == 10)When you come to see me,
+ somehow makes me feel at ease.
+ I wonder why? 011_003IF(VISITNUM == 20)You're such a diligent person!
+ You keep coming to see me like this,
+ come see me so many times. 011_004IF(VISITNUM == 30)Thanks for coming again today!
+ As a thank you, I'll show you an image I found
+ I'll show you an image I found!
+ It was in a folder called 'Planning Stage Materials'.
+ <P>
+ <PICON:66>Here, this one! Take a look. 011_005IF(VISITNUM == 40)<FACE:2>Thank you for always coming!
+ This is the first time I've talked so much
+ for so long! 011_006IF(VISITNUM == 50)<FACE:2>Thanks for always coming to see me!
+ I'm so happy to see you too. 011_007IF(VISITNUM == 60)<FACE:2>Ehehe, thank you for always coming.
+ I found some pictures in a folder called
+ folder again.
+ I'll show you as a thank you!<P>
+ <PICON:67>Here, this one! Please take a look. 011_008IF(VISITNUM == 70)<FACE:2>You're really kind, you know.
+ You come see me
+ come see me so often! 011_009IF(VISITNUM == 80)<FACE:2>You coming to see me this much
+ makes me so happy...
+ Thank you so much! 011_010IF(VISITNUM == 90)<FACE:2>Thank you for coming to see me so many times...
+ Knowing someone needs me
+ is such a happy thing. 011_011IF(VISITNUM == 100)<FACE:2>Thank you so much for coming to see me so many times.
+ Thank you so very much!<P>
+ <FACE:3>Do you enjoy talking with me?
+ do you actually enjoy talking with me?
+ If so... I'd be incredibly happy. 012_001TRUE The other day, Owada-kun
+ <REACT:012_005>apparently zooming around the dorm in
+ <P>
+ <FACE:14>He was apparently yelling stuff like
+ or something... 012_002TRUE<VOICE:3>Listen, Genocider Sho's
+ was apparently using the Monomono Machine.
+ and
+ <FACE:4>and when he hit <REACT:012_006>【Scissors】<REACTE>,
+ and he just clicked his tongue and tossed it aside...
+ Guess he's really strict about scissors... 012_003TRUE<FACE:1>Ms. Ceres was
+ <P>
+ <FACE:4>But Yamada-kun
+She seemed a little happy... 012_004TRUE<VOICE:3>Right now, everyone's talking about
+ a game called 'Alien Hunter'
+ game is all the rage!
+ <FACE:2>Master Tama, Naegi-kun, Yamada-kun, and Kuwata-kun
+ playing it together.
+ They look like they're having so much fun.
+ Naegi-kun got a
+ <REACT:012_008>【Handheld Game Console】<REACTE>
+ as a present to everyone. 012_005FALSE<PICON:88>『Roller Slippers』
+ Slippers with wheels on the heels. <P>
+ Designed for comfortable movement around the house,
+ but nobody wanted them. 012_006FALSE<PICON:89>『Hair-Combing Scissors』
+ Scissors for combing hair.
+ The blades aren't chipped. 012_007FALSE<PICON:90>『Rose Whip』
+ A whip made using real roses.
+ Beautiful roses have thorns. 012_008FALSE<PICON:91>『Handheld Game Console』
+ A hugely popular portable game console.
+ It also functions as a music player and video player. 012_009TRUE<FACE:14>The glasses Korekawa-san got from Naegi-kun
+ <REACT:012_020>【Forehead Glasses】<REACTE>
+ muttering something to himself. 012_010TRUE Ishimaru-kun apparently grabbed <REACT:012_021>[Chin Drill]<REACTE> keychain
+ while yelling, "Who the hell do you think I am?!"
+ while screaming. 012_011TRUE<VOICE:3>It seems Naegi-kun gave Hagakure-kun <REACT:012_022>【Crystal Skull】<REACTE>
+ <P>
+ <FACE:4>When Togami found out, he demanded,
+ "Why didn't you give it to me?"
+ and got angry. 012_012TRUE The other day, Yamada-kun played with his master Tama
+ <REACT:012_023>【Infinite Dandelion】<REACTE>
+ Yamada-kun told me all about it, looking really happy. 012_013TRUE Then suddenly, Ishimaru-kun
+ <PICON:119>"Ha ha ha, why the heck would I do that?!"
+ and I was totally shocked.
+ I asked him about it, and he said he was watching
+ <REACT:012_024>【Aizou's Reaction Art Collection】<REACTE>
+ and got influenced by it... 012_014TRUE<FACE:4>Kuwata-kun, Yamada-kun, and Hagakure-kun
+ were hiding and watching <REACT:012_025>【Cat Dog Press】<REACTE> when <P>
+ Asahina-san and the others caught them
+ and got scolded... 012_015TRUE<FACE:4>Naegi-kun gave his master-sama <REACT:012_026>【Leaf Fundoshi】<REACTE>
+ <REACT:012_026>【Leaf Fundoshi】<REACTE>
+ and the girls found out,
+ and they were like, "That's sexual harassment!" "That's disgusting!"
+ and they were really angry... 012_016TRUE<FACE:14> I heard from Kirigiri-san that she has <REACT:012_027>【Bojobo Doll】<REACTE>
+ and I heard from Naegi-kun that she has it,
+ I wonder if she's making a wish...?012_017TRUEMs. Asahina is using <REACT:012_028>【Butterfly Bow Tie Voice Changer】<REACTE>
+ to imitate Monokuma's voice
+ to prank Naegi-kun... 012_018TRUE<VOICE:18>You know, Enoshima-san
+ <REACT:012_029>while looking at the <REACTE>Golden Space Shuttle.
+She seemed kind of lost in thought.
+ <FACE:14>Even though girls usually don't seem interested in that sort of thing...
+ That's a bit surprising, huh. 012_019TRUE<VOICE:44>Hagakure-kun, you see, got a huge amount of
+ a huge amount of leftover <REACT:012_030>【salt】<REACTE>.<P>
+ I asked what he was going to use it for, but
+ apparently it's for putting salt piles in rooms
+ by placing salt piles around the room.
+ <FACE:4>Hagakure-kun said he doesn't believe in the occult,
+ ...012_020FALSE<PICON:92>『Forehead Glasses』<P>
+ While chanting a certain spell,
+ putting on these glasses
+ allows you to converse with objects. 012_021FALSE<PICON:93>『Chin Drill』
+ A chin accessory with a drill protruding from the chin.
+ It's said to symbolize the power of spirals.
+ It is said to symbolize the power of spirals. 012_022FALSE<PICON:94>『Crystal Skull』
+ A skull carved from a single crystal. <P>
+ Whether the civilization of that time possessed the technology to create this
+ is shrouded in mystery.
+ Known as an out-of-place artifact. 012_023FALSE<PICON:95>『Infinite Dandelion』
+ A dandelion toy.
+ Blowing on the fluff is fun.
+ Since the flying fluff has a thin string attached,
+ so you can rewind it and enjoy it over and over. 012_024FALSE<PICON:96>『The Ultimate Reaction Comedy Collection』
+ A DVD video compiling only reaction comedy. 012_025FALSE<PICON:97>『Cat Dog Press』
+ A magazine featuring distinctive dog and cat covers.
+ At first glance, it looks like a pet care book,
+ it actually focuses more on bed-related topics.
+ It's reputed to be useful for junior high and high school health education. 012_026FALSE<PICON:98>『Leaf Fundoshi』
+ A loincloth designed to emphasize masculinity. <P>
+ A simple design featuring just a single leaf drawn on white cloth.
+ Simple design. 012_027FALSE<PICON:99>『Bojo Bo Doll』
+ A pair of dolls made from vine fruit and coconut fiber
+ A pair of male and female dolls used for making wishes.
+ The position of their arms and legs expresses the wish. 012_028FALSE<PICON:100>『Butterfly Bow Tie Voice Changer』
+ A detective gadget used by a boy detective who looks like a child but thinks like an adult.
+ a detective gadget used by a boy detective.
+ It can change the user's voice into various tones. 012_029FALSE<PICON:101>『Golden Space Shuttle』
+ Excavated from the ruins of Columbia,
+ Shaped like a jet plane or space shuttle,
+ is known as an out-of-place artifact.
+ Known as an out-of-place artifact. 012_030FALSE<PICON:102>『Salt』
+ A basic seasoning primarily made from seawater.
+ Used for seasoning ingredients, preservation, and various other purposes. 012_031TRUE<FACE:1>Ishimaru-kun had <REACT:012_035>【a red scarf】<REACTE> wrapped around his neck,
+ and was doing flying kicks over and over...
+ I wonder what happened? 012_032TRUE<VOICE:18>Ishimaru-kun was wearing <REACT:012_036>【Tomorrow's Gloves】<REACTE>
+ and doing shadow boxing while crying...
+ while crying...
+ <FACE:4>W-what happened to him...? 012_033TRUE Oh yeah,
+ Genocider Sho, <P>
+ <PICON:118>"This is something truly befitting Lord Byakuya-sama, woof,"
+ he said, and gave <REACT:012_037>【The Ruler's T-Back】<REACTE>
+ to Tenjin-kun.
+ Togami-kun said "That's disgusting"
+ and refused to take it, though... 012_034TRUE<VOICE:44>Maizono-san, you see, told Naegi-kun
+<PICON:116>「<REACT:012_038>【Second Button】<REACTE>Let me make a reservation for you, okay?」
+ That's what I asked for!
+ Wow, that's so exciting... 012_035FALSE<PICON:103>『Red Scarf』
+ The scarf worn by the masked hero
+ used in countless battles.
+ It's worn and tattered from countless battles. 012_036FALSE<PICON:104>『Tomorrow's Gloves』
+ Boxing gloves
+ Boxing gloves.
+ When worn,
+ you'll want to throw a cross counter. 012_037FALSE<PICON:105>『Ruler's T-Back』
+ Only those who can dominate the buttocks
+ can wear this undergarment.
+ Unisex design. 012_038FALSE<PICON:106>『Second Button』
+ The buttons on student uniforms
+ the buttons on school uniforms suddenly become valuable.
+ In some cases, reservations are required. 012_039FALSE<PICON:107>『Bird Rice』
+ Scatter it around and birds will flock to it
+ and it gets crazy.
+ You can eat it yourself too. 012_040TRUE<VOICE:9>I heard this from Naegi-kun,
+ the other day, Genocide Sho <P>
+ <PICON:117>"Hey, Mako-pyon! Give me something!"
+ and he ended up begging for something, but <P>
+ and since all he had on him was <REACT:012_046>【hand-held】<REACTE>
+ so he gave him that. <P>
+ I thought he'd get mad,
+ but surprisingly, she seemed happy...<P>
+ Hmm... I wonder if he'll actually use it... 012_041TRUE Somehow, Asahina-san seems to be swimming in the pool even more than before.
+ swimming at the pool than before. <P>
+ <REACT:012_047>【Water Lover】<REACTE>
+ feels amazing to wear!
+ She really is like a fish in water, isn't she... 012_042TRUE Yamada-kun got a
+ <REACT:012_048>【Mochi Puri Figure】<REACTE>
+ won the <REACTE>Mochi Puri figure<REACTE> at the Monomono Machine,
+ <PICON:78>"It's well made.
+  It's well made, but... still not good enough!"
+ he said.
+ Hmm, that's harsh... 012_043TRUE<VOICE:9>Oowada-kun said he'll
+ how fast he can eat it!
+ 012_044TRUE<VOICE:9>Togami-kun doesn't eat meals with everyone else, right?
+ eat meals with everyone, right?<P>
+ So I was wondering what he eats...
+ and I was wondering what he eats, <P>
+ Turns out, Tenjin-kun is <REACT:012_050>【The Gorgeous Prince】<REACTE>
+ is actually one of his favorites, you know.
+ Just between us! 012_045TRUE Asahina-san tried to use <REACT:012_051>【Floating Donut】<REACTE>
+ in the bath, but <P>
+ <FACE:4>the chocolate melted and it turned into a huge mess
+ ...012_046FALSE<PICON:110>'Hand Bra'
+ A bra that looks like you're covering yourself with your hands.
+ bra that looks like you're covering up with your hands.
+ True to its tagline, "Left and right hands are just for support,"
+ just like the catchphrase says,
+ offering a new sensation when worn. 012_047FALSE<PICON:111>『Water Lover』
+Developed with the concept of "becoming one with water,"
+ Developed as a women's competitive swimsuit.
+ Simply wearing this suit
+ is said to shave one second off your time. 012_048FALSE<PICON:112>『Mochi Puri Figure』
+ The heroine of Outer Path Angel ☆ Mochi Mochi Princess,
+ Princess Boo-ko. 012_049FALSE<PICON:113>『The Fastest Cup Noodles』
+ Instant noodles ready to eat in 3 seconds after pouring boiling water.
+ But they become completely soggy after 30 seconds. 012_050FALSE<PICON:114>『Gorgeous Prince』
+ A retort pouch curry for children.
+ A premium curry packed with high-quality ingredients
+ used generously in this premium curry. 012_051FALSE<PICON:115>『Floating Ring Donut』
+ A large donut that can be used like a swim ring.
+ Of course, you can eat the donut
+ while floating in the sea.
+ Various patterns are available.

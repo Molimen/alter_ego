@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="assets/alteregoIcon114x114.png">
+    <link rel="stylesheet" href="style.css">
+    <title>Alter Ego</title>
+</head>
+<body>
+    <div id="main-wraper">
+        <div style="position: absolute;">
+            <img id="alterego-face" src="assets/face/AlterEgoFace00.png">
+        </div>
+
+        <div id="menu-right">
+            <button onclick="alert('character!')" class="menu-button-right animated-scale">
+                <img src="assets/main/icon/character.png" class="menu-button-image">
+                <p class="menu-text">character</p>
+            </button>
+            <button onclick="alert('world_view!')" class="menu-button-right animated-scale">
+                <img src="assets/main/icon/world_view.png" class="menu-button-image">
+                <p class="menu-text">World View</p>
+            </button>
+            <button onclick="alert('diagnosis!')" class="menu-button-right animated-scale">
+                <img src="assets/main/icon/diagnosis.png" class="menu-button-image">
+                <p class="menu-text">Diagnosis</p>
+            </button>
+            <button onclick="alert('help!')" class="menu-button-right animated-scale">
+                <img src="assets/main/icon/help.png" class="menu-button-image">
+                <p class="menu-text">HELP</p>
+            </button>
+            <button onclick="alert('random conversation!')" class="menu-button-right menu-random-dialog animated-scale">
+                <img src="assets/main/icon/random_dialog.png" class="menu-button-image">
+            </button>
+        </div>
+
+        <div id="menu-left">
+            <button onclick="alert('calendar!')" class="menu-button-left animated-scale">
+                <img src="assets/main/icon/calendar.png" class="menu-button-image">
+                <p class="menu-text">Calendar</p>
+            </button>
+            <button onclick="clock_start()" class="menu-button-left animated-scale">
+                <img src="assets/main/icon/clock.png" class="menu-button-image">
+                <p class="menu-text" style="right: -24px;">Clock</p>
+            </button>
+        </div>
+
+        <div id="clock">
+            <div id="clock-number-big">
+                <img id="clock-hour-1" src="assets/number/big_number/8.png" class="clock-image-big clock-image-big-left-offset">
+                <img id="clock-hour-2" src="assets/number/big_number/8.png" class="clock-image-big clock-image-big-left-offset">
+                <img src="assets/number/big_number/colon.png" class="clock-image-big">
+                <img id="clock-minute-1" src="assets/number/big_number/8.png" class="clock-image-big clock-image-big-right-offset">
+                <img id="clock-minute-2" src="assets/number/big_number/8.png" class="clock-image-big clock-image-big-right-offset">
+            </div>
+
+            <div id="clock-number-small">
+                <img id="clock-year-1" src="assets/number/small_number/8.png" class="clock-number-small-1-offset">
+                <img id="clock-year-2" src="assets/number/small_number/8.png" class="clock-number-small-2-offset">
+                <img id="clock-year-3" src="assets/number/small_number/8.png" class="clock-number-small-3-offset">
+                <img id="clock-year-4" src="assets/number/small_number/8.png" class="clock-number-small-4-offset">
+                <img src="assets/number/small_number/slash.png" class="clock-number-small-5-offset">
+                <img id="clock-month-1" src="assets/number/small_number/8.png" class="clock-number-small-6-offset">
+                <img id="clock-month-2" src="assets/number/small_number/8.png" class="clock-number-small-7-offset">
+                <img src="assets/number/small_number/slash.png" class="clock-number-small-8-offset">
+                <img id="clock-day-1" src="assets/number/small_number/8.png" class="clock-number-small-9-offset">
+                <img id="clock-day-2" src="assets/number/small_number/8.png" class="clock-number-small-10-offset">
+            </div>
+
+            <button onclick="clock_back()" class="clock-button-back"></button>
+        </div>
+
+        <div id="scroll-artifact-wraper" class="click-pass">
+            <img src="assets/main/scroll_artifact.png" class="fall">
+        </div>
+
+        <img src="assets/main/noise_1.png" id="noise" class="click-pass">
+
+        <img src="assets/main/border.png" id="border-wraper" class="click-pass">
+
+        <!--Adjust the top and width to add space in corner-->
+        <div id="dialog-wraper">
+            <div id="dialog-box">
+                <img src="assets/dialog/dialog.png">
+            </div>
+            <div id="dialog-container">
+                <p id="dialog-text"></p>
+                <span id="dialog-indicator">
+                    <button onclick="nextDialog()" class="dialog-next">
+                        <img src="assets/dialog/dialog_next.png" class="dialog-next-image">
+                    </button>
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <button onclick="nextDialog()">Next</button>
+
+    <script src="index.js"></script>
+</body>
+</html>

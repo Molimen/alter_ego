@@ -1,0 +1,345 @@
+@font-face {
+  font-family: "NotoSansJP";
+  src: url("assets/fonts/NotoSansJP-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    font-family: 'NotoSansJP', sans-serif;
+    background-color: black;
+}
+
+.click-pass {
+    pointer-events: none;
+}
+
+.animated-scale {
+    transform: scale(0);
+    animation: scale 0.1s ease-out forwards;
+}
+
+#main-wraper {
+    display:flex;
+    justify-content:center;
+    position:relative;
+    bottom: 8px;
+}
+
+#alterego-face {
+    position: relative;
+}
+
+#scroll-artifact-wraper {
+    width:480px;
+    height:320px;
+    overflow:hidden;
+    position:relative;
+    flex-shrink:0;
+}
+
+#noise {
+    position: absolute;
+    opacity: 0.3;
+    width:480px;
+    height:320px;
+    display: none;
+}
+
+.fall {
+    position:absolute;
+    opacity: 0.5;
+    animation: movedown 20s linear infinite;
+}
+
+#border-wraper {
+    position: absolute;
+    z-index: 1;
+    width: 30rem;
+}
+
+#dialog-wraper {
+    position: absolute;
+    top: 220px;
+    width: 480px;
+}
+
+#dialog-container {
+    position: absolute;
+    display: flex;
+    width: 410px;
+    color: #1BD211;
+    font-family: meiryo;
+    left: 30px;
+    top: 10px;
+
+}
+
+#dialog-text {
+    position: absolute;
+    white-space: pre-line; /* IMPORTANT */
+    z-index: 1;
+    filter: blur(0.3px);
+    line-height: 1.15rem;
+    font-size: 1rem;
+}
+
+#dialog-box {
+    top: 12px;
+    position: absolute;
+    display: none;
+}
+
+#dialog-indicator {
+    position: absolute;
+    left: 395px;
+    display: none;
+    animation: blink 1.2s linear infinite;
+    z-index: 2;
+}
+
+.dialog-next {
+    border: none;
+    padding: 0;
+    background: none;
+}
+
+.dialog-next-image {
+    width: 30px;
+    height: 30px;
+}
+
+#menu-right {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+#menu-left {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-button-right {
+    position: relative;
+    border: none;
+    padding: 0;
+    background: none;
+    top:14px;
+    left:200px;
+}
+
+.menu-button-left {
+    position: relative;
+    border: none;
+    padding: 0;
+    background: none;
+    top:14px;
+    right:200px;
+}
+
+.menu-button-image {
+    width: 50px;
+    height: 50px;
+}
+
+.menu-random-dialog {
+    top: 52px;
+}
+
+.menu-text {
+    color: #1BD211;
+    position: absolute;
+    width: 100px;
+    bottom: -8px;
+    font-size: 12px;
+    right: -25px;
+    font-weight: 700;
+    -webkit-text-stroke: 0.4px black;
+    filter: blur(0.3px);
+}
+
+#clock {
+    position: absolute;
+    display: none;
+    z-index: 2;
+}
+
+#clock-hour-1 {
+    position: relative;
+}
+
+#clock-hour-2 {
+    position: relative;
+}
+
+#clock-minute-1 {
+    position: relative;
+}
+
+#clock-minute-2 {
+    position: relative;
+}
+
+#clock-year-1 {
+    position: relative;
+}
+
+#clock-year-2 {
+    position: relative;
+}
+
+#clock-year-3 {
+    position: relative;
+}
+
+#clock-year-4 {
+    position: relative;
+}
+
+#clock-month-1 {
+    position: relative;
+}
+
+#clock-month-2 {
+    position: relative;
+}
+
+#clock-day-1 {
+    position: relative;
+}
+
+#clock-day-2 {
+    position: relative;
+}
+
+#clock-number-big {
+    position: absolute;
+    display: flex;
+    top: 15px;
+    transform: translateY(0);
+    left: -156px;
+    animation: anim-clock-big-show 0.1s ease-out forwards;
+}
+
+.clock-image-big {
+    width: 60px;
+    height: 60px;
+}
+
+.clock-image-big-left-offset {
+    position: relative;
+    left:26px;
+}
+
+.clock-image-big-right-offset {
+    position: relative;
+    right: 19px;
+}
+
+#clock-number-small {
+    position: absolute;
+    display: flex;
+    top: 275px;
+    transform: translateY(0);
+    left: -117px;
+    overflow: hidden;
+    animation: anim-clock-small-unshow 0.1s ease-out forwards;
+}
+
+.clock-number-small-1-offset {
+    position: relative;
+    right: 0;
+}
+
+.clock-number-small-2-offset {
+    position: relative;
+    right: 5px;
+}
+
+.clock-number-small-3-offset {
+    position: relative;
+    right: 10px;
+}
+
+.clock-number-small-4-offset {
+    position: relative;
+    right: 15px;
+}
+
+.clock-number-small-5-offset {
+    position: relative;
+    right: 30px;
+}
+
+.clock-number-small-6-offset {
+    position: relative;
+    right: 34px;
+}
+
+.clock-number-small-7-offset {
+    position: relative;
+    right: 38px;
+}
+
+.clock-number-small-8-offset {
+    position: relative;
+    right: 53px;
+}
+
+.clock-number-small-9-offset {
+    position: relative;
+    right: 54px;
+}
+
+.clock-number-small-10-offset {
+    position: relative;
+    right: 59px;
+}
+
+.clock-button-back {
+    position: absolute;
+    border: none;
+    padding: 0;
+    background: none;
+    left: -240px;
+    width: 480px;
+    height: 320px;
+}
+
+@keyframes blink {
+    0% {top: 40px;}
+    38% {top: 49px;}
+    100% {top: 40px;}
+}
+
+@keyframes movedown {
+    from {top: -320px;}
+    to   {top: 0;}
+}
+
+@keyframes scale {
+  from { transform: scale(0); }
+  to   { transform: scale(1); }
+}
+
+@keyframes anim-clock-big-unshow {
+    from {transform: translateY(-80px);}
+    to {transform: translateY(0);}
+}
+
+@keyframes anim-clock-big-show {
+    from {transform: translateY(0);}
+    to {transform: translateY(-80px);}
+}
+
+@keyframes anim-clock-small-unshow {
+    from {transform: translateY(50px);}
+    to {transform: translateY(0);}
+}
+
+@keyframes anim-clock-small-show {
+    from {transform: translateY(0);}
+    to {transform: translateY(50px);}
+}
