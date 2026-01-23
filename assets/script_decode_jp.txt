@@ -1,0 +1,715 @@
+008_0xxFALSE == the dialog has been completed
+<DSTOP> == dialog stop
+
+=== World Encyclopedia ===
+
+-- School Introduction: Hope's Peak Academy (学園紹介・希望ヶ峰学園)
+
+みんなが転入してきたこの学校のことだね。
+入学するための試験とかはなくて、
+学園からスカウトされないとダメなんだぁ。<DSTOP>
+入学資格は「現役の高校生である」ことと、
+「各分野において超一流である」ことが
+必要なんだよぉ。<DSTOP>
+卒業生は名だたる人物ばかりで、
+入学すれば将来安泰だなんて
+言われてるんだよね。<DSTOP>
+
+This is the school everyone transferred into, right?
+There aren’t any entrance exams or anything—
+you have to be scouted by the academy to get in. <DSTOP>
+The requirements for admission are that you’re
+“currently a high school student” and that you’re
+“top-class in your respective field.” <DSTOP>
+All of the graduates are famous, well-known people,
+and they say that if you get in,
+your future is basically guaranteed. <DSTOP>
+
+
+-- School Introduction · School Store (学園紹介・購買部)
+
+和洋折衷、色んなものが揃ってるよ。<DSTOP>
+提灯がぶら下がってたり、
+甲冑とか壷とか絵画とかが並んでて、
+ちょっと変わった雰囲気だよねぇ。<DSTOP>
+モノクマメダルが集まったら、
+ここにあるモノモノマシーンで
+使うことが出来るよ。<DSTOP>
+
+It’s a mix of Japanese and Western styles, with all kinds of things here. <DSTOP>
+There are paper lanterns hanging up,
+and suits of armor, jars, paintings, and other items lined up—
+it gives the place a slightly unusual atmosphere. <DSTOP>
+Once you collect Monokuma Medals,
+you can use them in the MonoMono Machine here. <DSTOP>
+
+
+-- School Introduction: Monomono Machine (学園紹介・モノモノマシーン)
+
+購買部にあるガチャガチャだね。
+１回使うごとに、
+モノクマメダルが最低でも１枚必要だよ。 <DSTOP>
+レバーを回転すると、色んなものが手に入るんだ！<DSTOP>
+１度に何枚も使えば、
+景品がダブっちゃう確率が少なくなるんだって。<DSTOP>
+景品は全部で９２種類あって、
+中には珍しいものとかもあるから
+君もやってみたら？<DSTOP>
+
+It’s the capsule machine in the school store.
+Each time you use it,
+you need at least one Monokuma Medal. <DSTOP>
+When you turn the lever, you can get all kinds of items! <DSTOP>
+If you use multiple medals at once,
+the chance of getting duplicate prizes goes down, apparently. <DSTOP>
+There are 92 different prizes in total,
+including some rare ones,
+so why don’t you give it a try? <DSTOP>
+
+
+-- School Introduction・Library (学園紹介・図書室)
+
+色んな本が棚にびっしり並べてあるよ。
+あんまり手入れされてなくて、
+ちょっと埃っぽいけど……。<DSTOP>
+どちらかというと、
+専門的で難しめな本が多いみたい。<DSTOP>
+よく十神君がここで本を読んでるよ。
+特に書庫がお気に入りなんだって。<DSTOP>
+その十神君の近くには
+いつも腐川さんの姿があるけど、
+腐川さんは本が目的なのかな、それとも……？<DSTOP>
+
+There are all kinds of books packed tightly onto the shelves.
+They’re not very well maintained,
+so it’s a bit dusty, but… <DSTOP>
+If anything,
+it seems like there are a lot of specialized, more difficult books. <DSTOP>
+Togami is often here reading.
+Apparently, the archives are his favorite spot. <DSTOP>
+And wherever Togami is,
+you’ll usually find Fukawa nearby too—
+but is Fukawa here for the books, or for something else…? <DSTOP>
+
+
+-- School Introduction: Trash Room (学園紹介・トラッシュルーム)
+
+ゴミ捨て担当の人が、
+ココの焼却炉で、集めたゴミを捨てるんだよ。<DSTOP>
+当番制だからサボっちゃダメだからね！<DSTOP>
+いつもシャッターが降りてるから、
+鍵を持ってる当番の人じゃないと
+開けられないんだ。<DSTOP>
+こんなゴミ焼却炉ですら
+事件へと関係してしまうなんて……。<DSTOP>
+そうそう、地面に扉がついてるんだけど
+これも鍵がかかってて開かないんだよねぇ。<DSTOP>
+
+The person in charge of taking out the trash
+disposes of all the collected garbage in the incinerator here. <DSTOP>
+It’s done on a rotating duty schedule,
+so no slacking off, okay? <DSTOP>
+The shutter is always closed,
+so only the person on duty who has the key
+can open it. <DSTOP>
+To think that even a garbage incinerator like this
+would end up being connected to an incident… <DSTOP>
+Oh, right—there’s also a door built into the ground,
+but that one’s locked too, so it won’t open. <DSTOP>
+
+
+-- School Introduction: Laundry Room (学園紹介・ランドリー)
+
+コインランドリーみたいに
+洗濯機がいっぱい並んでるよ。<DSTOP>
+雑誌もあるし、自販機もあるから
+待ってる間に暇つぶしもできるね。<DSTOP>
+たまに持ち主不明の忘れ物が
+あるみたいだけど、<DSTOP>
+みんな洗濯物は忘れないで
+持ち帰らなきゃね！ <DSTOP>
+
+There are lots of washing machines lined up,
+just like a coin laundry. <DSTOP>
+There are magazines and even a vending machine,
+so you can kill time while you wait. <DSTOP>
+Apparently, there are sometimes forgotten items
+with no clear owner, but… <DSTOP>
+everyone needs to remember
+to take their laundry home with them! <DSTOP>
+
+
+-- School Introduction: Pool (学園紹介・プール)
+
+６コース分ある広いプールに、
+両側に客席まであるんだよ。
+凄いなぁ～。<DSTOP>
+大会とかがあったら、ここの客席は
+きっと全部埋まっちゃうんだろうねぇ。<DSTOP>
+でも、広くて目立つ場所の割には、
+事件では意外と関係性がなかったりするんだよね。<DSTOP>
+
+It’s a large pool with six lanes,
+and there are even spectator seats on both sides.
+Pretty impressive. <DSTOP>
+If there were a competition or something,
+the stands here would probably be completely full. <DSTOP>
+But despite being such a large, noticeable place,
+it surprisingly doesn’t end up having much to do
+with the incident. <DSTOP>
+
+
+-- School Tour: Recreation Room (学園紹介・娯楽室)
+
+ダーツ、ビリヤードに、
+色んな種類の雑誌もあるよ。<DSTOP>
+こんな施設まであるなんて、本当に豪華だよねぇ。<DSTOP>
+オセロとか将棋とかもあるから
+色んな人が気軽に遊べるね！<DSTOP>
+僕もビリヤードをやってみたいな～。<DSTOP>
+でも学園内にはセレスさんがいるから、
+なんだかチャレンジするのが
+怖い気もしているんだ。えへへ。<DSTOP>
+
+There are darts, billiards,
+and all kinds of magazines too. <DSTOP>
+To think they even have facilities like this—
+it’s really luxurious. <DSTOP>
+They’ve got Othello and shogi as well,
+so anyone can casually enjoy themselves. <DSTOP>
+I’d like to try playing billiards too. <DSTOP>
+But since Celeste is here at the academy,
+I kind of feel scared
+to challenge her. Hehe. <DSTOP>
+
+
+-- School Tour: Physics Lab (学園紹介・物理室)
+
+部屋の真ん中にある大きな装置が
+空気清浄機だよ。<DSTOP>
+これで学園全体の空気の循環を
+しているみたいだねぇ。<DSTOP>
+こんなに巨大な空気清浄機を
+作れたこともスゴイけど、<DSTOP>
+そんなに巨大な空気清浄機を
+使わなければならないほど
+空気が汚れちゃうのかな？<DSTOP>
+なんだか怖いね……。<DSTOP>
+
+The large device in the center of the room
+is an air purifier. <DSTOP>
+It seems to circulate the air
+throughout the entire academy. <DSTOP>
+It’s amazing that they were able to build
+such a gigantic air purifier, but… <DSTOP>
+does the air really get so polluted
+that they need something this huge? <DSTOP>
+That’s kind of scary… <DSTOP>
+
+
+-- School Tour: Changing Room (学園紹介・脱衣所)
+
+そうそう、学園のいたるところに
+監視カメラがあるけど、
+ココと大浴場には設置されてないんだ。<DSTOP>
+モノクマって意外に紳士的なのかなぁ？<DSTOP>
+でもたとえカメラがなかったとしても、
+ご主人タマにとっては
+大変な場所だったんだろうなぁ、色々気を遣って。<DSTOP>
+
+Oh right, there are surveillance cameras
+all over the academy,
+but there aren’t any installed here or in the large bath. <DSTOP>
+Is Monokuma surprisingly gentlemanly, maybe? <DSTOP>
+But even without cameras,
+this must have been a difficult place
+for Master Tama, having to be mindful of so many things. <DSTOP>
+
+
+-- School Tour: Health Room (学園紹介・保健室)
+
+そうそう、ココで
+レントゲン写真が見れるように
+なってるんだよねぇ。<DSTOP>
+超高校級のお医者さんとかがいたのかな？<DSTOP>
+色んな薬品もあるみたいだけど、
+本当はこんな場所を使わないで、<DSTOP>
+みんな健康に過ごせることが
+何よりなんだけどなぁ……。<DSTOP>
+
+Oh right,
+you can view X-ray images here. <DSTOP>
+I wonder if there was an Ultimate-level doctor or something? <DSTOP>
+It looks like there are all kinds of medicines too, but
+honestly, it’d be best if no one had to use a place like this, <DSTOP>
+and everyone could just stay healthy above all else… <DSTOP>
+
+
+-- School Tour: Large Bathhouse (学園紹介・大浴場)
+
+壁にはもちろん大きな山の絵が
+飾ってあるよ！
+富士山じゃないのがちょっと残念……。<DSTOP>
+あとは、ひろーいお風呂の他にも、
+奥にサウナがあるんだよ。<DSTOP>
+ご主人タマは上手く脱衣所を通り抜けて
+ここでお風呂に入れたのかなぁ？
+きっと大丈夫だったんだよね！<DSTOP>
+
+Of course, there’s a large painting of a mountain
+displayed on the wall!
+It’s a bit disappointing that it’s not Mount Fuji, though… <DSTOP>
+Besides the huge bath,
+there’s also a sauna further inside. <DSTOP>
+I wonder if Master Tama managed to get through the changing room
+and take a bath here properly?
+I’m sure everything turned out fine, right? <DSTOP>
+
+
+-- School Tour: Music Room (学園紹介・音楽室)
+
+一応、生徒用の机と椅子はあるけど、
+なんだか客席みたいに
+設置してあるんだよねぇ。<DSTOP>
+照明もとにかく豪華だし……。<DSTOP>
+ここで舞園さんが歌ってくれたら
+楽しいだろうなぁ……。<DSTOP>
+なんて言ったって
+『超高校級のアイドル』だもんね！<DSTOP>
+
+There are student desks and chairs, at least,
+but they’re set up more like audience seating. <DSTOP>
+And the lighting is incredibly lavish, too… <DSTOP>
+It’d be fun if Maizono sang here… <DSTOP>
+After all,
+she is the “Ultimate Idol”! <DSTOP>
+
+
+-- School Tour: Art Room (学園紹介・美術室)
+
+モノクマ像の他にも、
+ミロのヴィーナスとか仁王像とかが
+置いてあるね。<DSTOP>
+壁一面に絵が貼り付けてあったり、
+ちょっと異様な雰囲気だけど、<DSTOP>
+美術用の画材とか彫刻器具も
+バッチリ完備してあるよぉ。<DSTOP>
+『超高校級の芸術家』なんて人も
+この学園にいたのかな？<DSTOP>
+それにしても放っておいたら
+山田君専用の
+フィギュアアトリエになっちゃいそうだね。<DSTOP>
+
+Besides the Monokuma statues,
+there are things like the Venus de Milo and Nio statues here too. <DSTOP>
+The walls are completely covered with paintings,
+giving the place a somewhat unsettling atmosphere, but… <DSTOP>
+there’s also a full set of art supplies and sculpting tools,
+all properly stocked. <DSTOP>
+I wonder if there was someone here
+known as the “Ultimate Artist”? <DSTOP>
+That said, if we leave it alone,
+it might end up turning into
+Yamada’s personal figure atelier. <DSTOP>
+
+
+-- School Tour: Biology Lab (学園紹介・生物室)
+
+生物室って、いっつも鍵がかかってて
+入れないんだよねぇ。
+中に何があるんだろう？<DSTOP>
+やっぱり人体模型とか
+ホルマリン漬けのカエルさんとかが
+あったりしちゃうのかなぁ……？<DSTOP>
+うーん、カギがかかったままでも
+いい気がしてきた……。<DSTOP>
+
+The biology lab is always locked,
+so you can never go inside.
+I wonder what’s in there? <DSTOP>
+Maybe there are human anatomy models
+or frogs preserved in formalin
+or something like that…? <DSTOP>
+Hmm… I’m starting to think
+it might be better to just leave it locked… <DSTOP>
+
+
+-- School Tour: Martial Arts Dojo (学園紹介・武道場)
+
+弓道で使う的があったけど……。
+希望ヶ峰学園に弓道部があったのかなぁ？<DSTOP>いっぱい飾ってある賞状も、
+もしかしたら弓道部のものかもしれないね。<DSTOP>
+『超高校級の弓使い』がいたとしたら、
+大神さんとどっちが強いのかな？
+なんてことをちょっと考えちゃったよ。<DSTOP>
+
+There were targets used for kyudo, but…
+did Hope’s Peak Academy have a kyudo club, I wonder? <DSTOP>
+All the certificates displayed here
+might belong to the kyudo club too. <DSTOP>
+If there really was an “Ultimate Archer,”
+I couldn’t help wondering
+who would be stronger—them or Ogami. <DSTOP>
+
+
+-- School Tour: Botanical Garden (学園紹介・植物庭園)
+
+スプリンクラーで毎朝水を撒くから
+植物のお世話は特に必要ないみたい。<DSTOP>
+学園の中なのに、
+なんだかジャングルのような
+雰囲気もある気がする……。<DSTOP>
+
+The sprinklers water everything every morning,
+so it seems like the plants don’t need much care. <DSTOP>
+Even though it’s inside the academy,
+it somehow has a jungle-like
+atmosphere to it… <DSTOP>
+
+
+-- School Tour: Kitchen (学園紹介・厨房)
+
+お鍋とかフライパンとか
+調理器具がいっぱいあるねぇ。<DSTOP>
+朝日奈さんのお腹を満足させられているのも
+ここがあるおかげなんだけど、<DSTOP>
+いっぱい刃物があると
+何だか不安になっちゃうね……。<DSTOP>
+
+There are tons of cooking utensils here,
+like pots and frying pans. <DSTOP>
+This place is probably the reason
+Asahina’s stomach gets kept satisfied, but… <DSTOP>
+having so many blades around
+kind of makes me feel uneasy… <DSTOP>
+
+
+-- School Tour: Cafeteria (学園紹介・食堂)
+
+基本的に毎日みんなでここに集まって、
+どうやってこの絶望的な学園生活から
+抜け出すかを考えたり、<DSTOP>
+お茶で気持ちを落ち着けたりしてるんだ。<DSTOP>
+憩いの場ってやつだね！<DSTOP>
+だから、この学園の中では
+大切な場所だと思うよぉ。<DSTOP>
+
+Basically, everyone gathers here every day
+to think about how we can escape
+this hopeless academy life, <DSTOP>
+or to calm ourselves down with some tea. <DSTOP>
+It’s what you’d call a place to relax! <DSTOP>
+That’s why I think
+it’s an important place within this academy. <DSTOP>
+
+
+-- Glossary: Free Time (用語紹介・自由時間)
+
+事件が起きていない間の、
+平和な時間のことだよ。<DSTOP>
+この時間の中で僕たちは
+絆を深め合ったりするんだ。<DSTOP>
+たとえその後に哀しい事件が
+待ち構えているとしても……。<DSTOP>
+
+It’s the peaceful time
+when no incidents are happening. <DSTOP>
+During this time,
+we deepen our bonds with one another. <DSTOP>
+Even if a tragic incident
+is waiting for us afterward… <DSTOP>
+
+
+-- Glossary: Punishment (用語紹介・オシオキ)
+
+『オシオキ』だなんて
+言い方を変えてはいるけど、<DSTOP>
+学級裁判の投票結果によって、
+クロ、もしくはクロ以外の全員に<DSTOP>
+モノクマから課せられる
+とっても残酷な処刑のことだよ。<DSTOP>
+これがあるせいで、
+学級裁判はいつも命懸けの裁判になるんだ……。<DSTOP>
+
+They call it an “execution” using a nicer-sounding term, but… <DSTOP>
+depending on the outcome of the class trial vote,
+either the blackened, or everyone except the blackened, <DSTOP>
+will be subjected to an extremely cruel punishment
+carried out by Monokuma. <DSTOP>
+Because of this,
+class trials always become trials fought with our lives on the line… <DSTOP>
+
+
+-- Glossary: Kuro (用語紹介・クロ)
+
+学園を卒業したいがために、
+仲間を手にかけてしまった人のことだよ。<DSTOP>
+だけど、クロの誰もが進んで
+手を汚したわけではないんだ。<DSTOP>
+すべて、モノクマの掲示する
+『動機』によって
+動かされてしまっただけなんだよ。<DSTOP>
+言ってしまえば
+クロも被害者なんだよね……モノクマの……。<DSTOP>
+
+It refers to someone who killed their friends
+because they wanted to graduate from the academy. <DSTOP>
+But not every blackened chose
+to dirty their hands willingly. <DSTOP>
+They were all driven to it
+by the “motives” presented by Monokuma. <DSTOP>
+In a way,
+the blackened are victims too…
+victims of Monokuma… <DSTOP>
+
+
+-- Glossary: Heretical Angel ☆ Mochi Mochi Princess (用語紹介・外道天使☆もちもちプリンセス)
+
+山田君が大ファンな、
+今流行りのアニメなんだって。<DSTOP>
+主人公はちょっとぽっちゃりな、
+プリンセスぶー子で、<DSTOP>
+アニメ化が決定していて、大人気らしいよ。
+山田君にとにかく薦められているんだよね。<DSTOP>
+でも今はそれどころじゃないと思うけど……。<DSTOP>
+
+It’s a currently popular anime
+that Yamada is a huge fan of. <DSTOP>
+The main character is a slightly chubby girl
+called Princess Piggles, <DSTOP>
+and it’s getting an anime adaptation and is apparently very popular.
+Yamada keeps recommending it to me nonstop. <DSTOP>
+But I don’t think this is really the time for that right now… <DSTOP>
+
+
+-- Glossary: School Rules (用語紹介・校則)
+
+『学園長』のモノクマが決めた校則で、
+普通の学校の校則では考えられない内容が
+定められているよ。<DSTOP>
+電子生徒手帳で確認出来るけど、
+随時モノクマによって追加されるんだ。<DSTOP>
+これを破るとオシオキされてしまうみたいだから、
+みんな気をつけなきゃね。<DSTOP>
+
+These are the school rules decided by Monokuma, the “headmaster,”
+and they include rules you’d never see at a normal school. <DSTOP>
+You can check them on the electronic student handbook,
+and Monokuma adds to them whenever he feels like it. <DSTOP>
+It seems that if you break them, you’ll be punished,
+so everyone has to be careful. <DSTOP>
+
+
+-- Glossary: Chimidoro Fever (用語紹介・チミドロフィーバー)
+
+『ジェノサイダー翔』によって殺害された
+被害者の現場に残された血文字だよ。<DSTOP>
+この血文字は被害者自身の血で書かれたもので、
+『ジェノサイダー翔』によって
+殺害されたことを証明するものでもあるんだ……。<DSTOP>
+怖いよ……怖すぎるよ……。<DSTOP>
+
+It’s a message written in blood
+left at the scene where the victim was killed by “Genocider Sho.” <DSTOP>
+The message was written using the victim’s own blood,
+and it also serves as proof
+that they were murdered by “Genocider Sho”… <DSTOP>
+It’s scary… it’s way too scary… <DSTOP>
+
+
+-- Glossary: Graduation (用語紹介・卒業)
+
+殺人を犯した『クロ』が、
+学級裁判での投票でシロを勝ち取れた場合のみ、<DSTOP>
+そのクロは学校から脱出することができる
+という制度だよ。<DSTOP>
+自分以外の人すべてを殺してまで脱出なんて、
+普通は考えられないけど、
+それをモノクマは扇動してくるんだ……。<DSTOP>
+
+If the “blackened” who committed the murder
+manages to be judged innocent through the class trial vote, <DSTOP>
+that blackened is allowed to escape from the school. <DSTOP>
+Escaping even if it means killing everyone else
+is something no normal person would consider,
+but Monokuma deliberately incites that kind of thinking… <DSTOP>
+
+
+-- Glossary: Electronic Student Handbook (用語紹介・電子生徒手帳)
+
+モノクマから渡された電子ツールだよ。
+起動すると持ち主の本名が表示されるんだ。<DSTOP>
+カードキーとしての役割も持っていて、<DSTOP>
+「ちょっとやそっとのことでは
+　壊れることがなく、<DSTOP>
+　ハッキング・改造も不可能な、
+　とても頑丈なツール」
+ってモノクマは言っていたけど……。<DSTOP>
+不可能って言われると挑戦したくなっちゃうよね、
+『ハッキング』。<DSTOP>
+
+It’s an electronic tool given to us by Monokuma.
+When you turn it on, it displays the owner’s real name. <DSTOP>
+It also functions as a key card, <DSTOP>
+and Monokuma said it’s
+“a very sturdy tool that won’t break easily,
+can’t be hacked or modified,” <DSTOP>
+but… when someone says something is impossible,
+it kind of makes you want to try it, doesn’t it—
+“hacking,” I mean. <DSTOP>
+
+
+-- Glossary: Fenrir (用語紹介・フェンリル)
+
+中東の傭兵集団のことで、
+よくある軍事会社とは違って<DSTOP>
+直接的な戦力として
+各地でその猛威を振るっていた恐ろしい組織だよ。<DSTOP>
+けど、あるときに突然その活動を
+停止してしまったから、<DSTOP>
+内部自滅や、口封じのための皆殺し……
+なんてことが噂されていたみたい。<DSTOP>
+みんなみたいな高校生には
+無縁な組織だと思うけど……。<DSTOP>
+
+It’s a mercenary group from the Middle East,
+unlike typical military contractors, <DSTOP>
+it was a terrifying organization that acted as a direct combat force
+and wreaked havoc in various regions. <DSTOP>
+But at some point, it suddenly ceased all activity, <DSTOP>
+so rumors spread about internal collapse
+or a complete massacre to silence everyone involved… <DSTOP>
+It’s probably an organization
+that has nothing to do with high school students like us, though… <DSTOP>
+
+
+-- Glossary: Night Time (用語紹介・夜時間)
+
+夜１０時から朝７時までの時間帯で
+食堂とかの一部の施設への立ち入りが
+禁止される時間帯のことだよ。<DSTOP>
+モノクマに言わせると、
+「早寝早起きしろ！」
+ってことみたいだけど……。<DSTOP>
+妙に規則正しいルールだよねぇ……。<DSTOP>
+
+It’s the time period from 10:00 p.m. to 7:00 a.m.
+when entering certain facilities, like the dining hall,
+is prohibited. <DSTOP>
+According to Monokuma,
+it’s basically his way of saying,
+“Go to bed early and wake up early!” <DSTOP>
+It’s a strangely strict, almost orderly rule… <DSTOP>
+
+
+-- Glossary: The Greatest and Most Despair-Inducing Event in Human History (用語紹介・人類史上最大最悪の絶望的事件)
+
+１年前に発生したらしい事件で、
+詳細は一切わからないんだ。<DSTOP>
+僕は今ちょうど
+その情報を集めているんだよね。<DSTOP>
+学園内には、その痕跡らしいものが
+色んな所に残っていて、<DSTOP>
+どれだけ凄惨な事件だったのか、
+想像するだけで怖くなっちゃうよ……。<DSTOP>
+
+It’s an incident that supposedly occurred a year ago,
+but no details are known at all. <DSTOP>
+I’m actually in the middle of gathering information about it right now. <DSTOP>
+There seem to be traces of it left
+all over the academy, <DSTOP>
+and just imagining how horrific it must have been
+is enough to make me scared… <DSTOP>
+
+
+-- Glossary: Class Trial (用語紹介・学級裁判)
+
+殺人が発生した後の
+事件の調査が終了したら、
+学級裁判が開催されるんだ。<DSTOP>
+お互いの意見とか推理をぶつけ合い、
+犯行内容とクロを暴き出すことが目的なんだよ。<DSTOP>
+裁判の最後には「だれがクロか」の投票を
+行うことになるんだ……。<DSTOP>
+
+After a murder occurs
+and the investigation of the incident is finished,
+a class trial is held. <DSTOP>
+Everyone clashes their opinions and deductions,
+with the goal of uncovering the truth of the crime
+and exposing the blackened. <DSTOP>
+At the end of the trial,
+there’s a vote on “who the blackened is”… <DSTOP>
+
+
+-- Glossary: The Monokuma Files (用語紹介・ザ・モノクマファイル)
+
+モノクマが監視カメラでの映像を元に作成した、
+検死報告書だよ。<DSTOP>
+つまり、モノクマは常に犯行を目撃しているんだ。<DSTOP>
+自分では手を下さず、
+僕らにコロシアイをさせようとする。
+なんて残酷なんだろうね……。<DSTOP>
+
+It’s an autopsy report created by Monokuma
+based on footage from the surveillance cameras. <DSTOP>
+In other words, Monokuma is always witnessing the crime. <DSTOP>
+He never gets his own hands dirty,
+and instead tries to make us kill each other.
+How cruel can that be… <DSTOP>
+
+
+-- Glossary: Classroom (用語紹介・教室)
+
+本来なら学園の生徒達が学び場として
+使っていた所なんだけど、<DSTOP>
+今はこの絶望的な学園生活の
+一ステージでしかないんだ。<DSTOP>
+各教室の黒板には落書きがあるけど、
+これは誰が書いたものなのかなぁ？<DSTOP>
+
+Originally, this was a place the academy’s students used as a space to learn, but <DSTOP>
+now it’s nothing more than one stage
+of this hopeless academy life. <DSTOP>
+There’s graffiti on the blackboards in each classroom—
+I wonder who wrote it? <DSTOP>
+
+
+-- Glossary: Super High School Level (用語紹介・超高校級)
+
+同世代の高校生と比べて、
+大きく突出している才能を持っている生徒を
+総称する言葉だよ。<DSTOP>
+希望学園に集められた生徒は
+全てこの『超高校級』で、<DSTOP>
+超高校級であることが
+学園入学の最低にして最大の条件になるんだ。<DSTOP>
+
+It’s a general term for students
+who possess talents that stand out far above those of other high schoolers their age. <DSTOP>
+All the students gathered at Hope’s Peak Academy
+are these so-called “Ultimates,” <DSTOP>
+and being an Ultimate
+is both the minimum and the greatest requirement
+for enrolling in the academy. <DSTOP>
+
+
+-- Glossary: Kurei Jiwai Dai A Monjou (用語紹介・暮威慈畏大亜紋上)
+
+大和田君が総長を務める、
+関東を制圧する巨大暴走族の名前だよ。<DSTOP>
+僕自身はそういう不良の世界とは
+無縁なんだけど、<DSTOP>
+大和田君の男らしさには
+憧れちゃうんだよねぇ、えへへ。<DSTOP>
+
+It’s the name of a massive biker gang
+that controls the Kanto region,
+with Owada serving as its leader. <DSTOP>
+I personally have nothing to do
+with that kind of delinquent world, but… <DSTOP>
+I can’t help admiring
+Owada’s manliness. Hehe. <DSTOP>
+
+
+=== END ===
