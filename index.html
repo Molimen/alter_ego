@@ -15,7 +15,7 @@
         </div>
 
         <div id="menu-right">
-            <button onclick="alert('character!')" class="menu-button-right animated-scale">
+            <button onclick="character_start()" class="menu-button-right animated-scale">
                 <img src="assets/main/icon/character.png" class="menu-button-image">
                 <p class="menu-text">character</p>
             </button>
@@ -92,119 +92,69 @@
             </div>
 
             <div id="encyclopedia-text-container">
-                <button onclick="encyclopedia_dialog(1)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Introduction: Hope's Peak Academy</p>
-                </button>
-                <button onclick="encyclopedia_dialog(2)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Introduction · School Store</p>
-                </button>
-                <button onclick="encyclopedia_dialog(3)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Introduction: Monomono Machine</p>
-                </button>
-                <button onclick="encyclopedia_dialog(4)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Introduction・Library</p>
-                </button>
-                <button onclick="encyclopedia_dialog(5)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Introduction: Trash Room</p>
-                </button>
-                <button onclick="encyclopedia_dialog(6)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Introduction: Laundry Room</p>
-                </button>
-                <button onclick="encyclopedia_dialog(7)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Introduction: Pool</p>
-                </button>
-                <button onclick="encyclopedia_dialog(8)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Recreation Room</p>
-                </button>
-                <button onclick="encyclopedia_dialog(9)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Physics Lab</p>
-                </button>
-                <button onclick="encyclopedia_dialog(10)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Changing Room</p>
-                </button>
-                <button onclick="encyclopedia_dialog(11)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Health Room</p>
-                </button>
-                <button onclick="encyclopedia_dialog(12)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Large Bathhouse</p>
-                </button>
-                <button onclick="encyclopedia_dialog(13)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Music Room</p>
-                </button>
-                <button onclick="encyclopedia_dialog(14)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Art Room</p>
-                </button>
-                <button onclick="encyclopedia_dialog(15)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Biology Lab</p>
-                </button>
-                <button onclick="encyclopedia_dialog(16)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Martial Arts Dojo</p>
-                </button>
-                <button onclick="encyclopedia_dialog(17)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Botanical Garden</p>
-                </button>
-                <button onclick="encyclopedia_dialog(18)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Kitchen</p>
-                </button>
-                <button onclick="encyclopedia_dialog(19)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">School Tour: Cafeteria</p>
-                </button>
-                <button onclick="encyclopedia_dialog(20)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Free Time</p>
-                </button>
-                <button onclick="encyclopedia_dialog(21)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Punishment</p>
-                </button>
-                <button onclick="encyclopedia_dialog(22)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Kuro</p>
-                </button>
-                <button onclick="encyclopedia_dialog(23)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Heretical Angel ☆ Mochi Mochi Princess</p>
-                </button>
-                <button onclick="encyclopedia_dialog(24)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: School Rules</p>
-                </button>
-                <button onclick="encyclopedia_dialog(25)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Chimidoro Fever</p>
-                </button>
-                <button onclick="encyclopedia_dialog(26)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Graduation</p>
-                </button>
-                <button onclick="encyclopedia_dialog(27)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Electronic Student Handbook</p>
-                </button>
-                <button onclick="encyclopedia_dialog(28)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Fenrir</p>
-                </button>
-                <button onclick="encyclopedia_dialog(29)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Night Time</p>
-                </button>
-                <button onclick="encyclopedia_dialog(30)" class="encyclopedia-button-text" style="height: 30px;">
-                    <p class="encyclopedia-text">Glossary: The Greatest and Most Despair-Inducing Event in Human History</p>
-                </button>
-                <button onclick="encyclopedia_dialog(31)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Class Trial</p>
-                </button>
-                <button onclick="encyclopedia_dialog(32)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: The Monokuma Files</p>
-                </button>
-                <button onclick="encyclopedia_dialog(33)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Classroom</p>
-                </button>
-                <button onclick="encyclopedia_dialog(34)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Super High School Level</p>
-                </button>
-                <button onclick="encyclopedia_dialog(35)" class="encyclopedia-button-text">
-                    <p class="encyclopedia-text">Glossary: Kurei Jiwai Dai A Monjou</p>
-                </button>
+                <button onclick="encyclopedia_dialog(1)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Introduction: Hope's Peak Academy</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-1"></button>
+                <button onclick="encyclopedia_dialog(2)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Introduction · School Store</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-2"></button>
+                <button onclick="encyclopedia_dialog(3)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Introduction: Monomono Machine</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-3"></button>
+                <button onclick="encyclopedia_dialog(4)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Introduction・Library</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-4"></button>
+                <button onclick="encyclopedia_dialog(5)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Introduction: Trash Room</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-5"></button>
+                <button onclick="encyclopedia_dialog(6)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Introduction: Laundry Room</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-6"></button>
+                <button onclick="encyclopedia_dialog(7)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Introduction: Pool</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-7"></button>
+                <button onclick="encyclopedia_dialog(8)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Recreation Room</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-8"></button>
+                <button onclick="encyclopedia_dialog(9)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Physics Lab</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-9"></button>
+                <button onclick="encyclopedia_dialog(10)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Changing Room</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-10"></button>
+                <button onclick="encyclopedia_dialog(11)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Health Room</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-11"></button>
+                <button onclick="encyclopedia_dialog(12)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Large Bathhouse</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-12"></button>
+                <button onclick="encyclopedia_dialog(13)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Music Room</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-13"></button>
+                <button onclick="encyclopedia_dialog(14)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Art Room</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-14"></button>
+                <button onclick="encyclopedia_dialog(15)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Biology Lab</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-15"></button>
+                <button onclick="encyclopedia_dialog(16)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Martial Arts Dojo</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-16"></button>
+                <button onclick="encyclopedia_dialog(17)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Botanical Garden</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-17"></button>
+                <button onclick="encyclopedia_dialog(18)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Kitchen</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-18"></button>
+                <button onclick="encyclopedia_dialog(19)" class="encyclopedia-button-text"><p class="encyclopedia-text">School Tour: Cafeteria</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-19"></button>
+                <button onclick="encyclopedia_dialog(20)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Free Time</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-20"></button>
+                <button onclick="encyclopedia_dialog(21)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Punishment</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-21"></button>
+                <button onclick="encyclopedia_dialog(22)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Kuro</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-22"></button>
+                <button onclick="encyclopedia_dialog(23)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Heretical Angel ☆ Mochi Mochi Princess</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-23"></button>
+                <button onclick="encyclopedia_dialog(24)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: School Rules</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-24"></button>
+                <button onclick="encyclopedia_dialog(25)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Chimidoro Fever</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-25"></button>
+                <button onclick="encyclopedia_dialog(26)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Graduation</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-26"></button>
+                <button onclick="encyclopedia_dialog(27)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Electronic Student Handbook</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-27"></button>
+                <button onclick="encyclopedia_dialog(28)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Fenrir</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-28"></button>
+                <button onclick="encyclopedia_dialog(29)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Night Time</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-29"></button>
+                <button onclick="encyclopedia_dialog(30)" class="encyclopedia-button-text" style="height: 30px;"><p class="encyclopedia-text">Glossary: The Greatest and Most Despair-Inducing Event in Human History</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-30"></button>
+                <button onclick="encyclopedia_dialog(31)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Class Trial</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-31"></button>
+                <button onclick="encyclopedia_dialog(32)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: The Monokuma Files</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-32"></button>
+                <button onclick="encyclopedia_dialog(33)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Classroom</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-33"></button>
+                <button onclick="encyclopedia_dialog(34)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Super High School Level</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-34"></button>
+                <button onclick="encyclopedia_dialog(35)" class="encyclopedia-button-text"><p class="encyclopedia-text">Glossary: Kurei Jiwai Dai A Monjou</p><img src="assets/encyclopedia/encyclopedia_hover_thing.png" id="encyclopedia-text-35"></button>
             </div>
 
-            <button onclick="encyclopedia_back()" id="encyclopedia-button-back"></button>
+            <button onclick="encyclopedia_back()" id="encyclopedia-button-back" class="button-back"></button>
+        </div>
+
+        <div id="character">
+            <img src="assets/character/character_encyclopedia.png" id="character-top-encyclopedia-image">
+
+            <div id="character-encyclopedia-container">
+                <button onclick="character_encyclopedia(1)" id="character-button-encyclopedia-1" class="character-button-encyclopedia"><img src="assets/character/character_icon/character_1.png" id="character-button-encyclopedia-image-1"></button>
+                <button onclick="character_encyclopedia(2)" id="character-button-encyclopedia-2" class="character-button-encyclopedia"><img src="assets/character/character_icon/character_2.png" id="character-button-encyclopedia-image-2"></button>
+                <button onclick="character_encyclopedia(3)" id="character-button-encyclopedia-3" class="character-button-encyclopedia"><img src="assets/character/character_icon/character_3.png" id="character-button-encyclopedia-image-3"></button>
+                <button onclick="character_encyclopedia(4)" id="character-button-encyclopedia-4" class="character-button-encyclopedia"><img src="assets/character/character_icon/character_4.png" id="character-button-encyclopedia-image-4"></button>
+                <button onclick="character_encyclopedia(5)" id="character-button-encyclopedia-5" class="character-button-encyclopedia"><img src="assets/character/character_icon/character_5.png" id="character-button-encyclopedia-image-5"></button>
+                <button onclick="character_encyclopedia(6)" id="character-button-encyclopedia-6" class="character-button-encyclopedia"><img src="assets/character/character_icon/character_6.png" id="character-button-encyclopedia-image-6"></button>
+            </div>
+
+            <div id="character-image-full-container"><img src="" id="character-image-full"></div>
+            
+
+            <button onclick="character_change(false)" id="character-char-button-next"></button>
+            <button onclick="character_change(true)" id="character-char-button-back"></button>
+            
+            <button onclick="character_back()" id="character-button-back" class="button-back"></button>
         </div>
 
         <img src="assets/main/noise_1.png" id="noise" class="click-pass">
 
-        <!--Adjust the top and width to add space in corner-->
         <div id="dialog-wraper">
             <div id="dialog-box">
                 <img src="assets/dialog/dialog.png">

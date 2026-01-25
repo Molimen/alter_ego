@@ -1,5 +1,6 @@
 008_0xxFALSE == the dialog has been completed
 <DSTOP> == dialog stop
+<PICON:xx> == refers to a cgxxx.png image
 
 === World Encyclopedia ===
 
@@ -17,13 +18,13 @@
 
 This is the school everyone transferred into, right?
 There aren’t any entrance exams or anything—
-you have to be scouted by the academy to get in. <DSTOP>
+you have to be scouted by the academy to get in.<DSTOP>
 The requirements for admission are that you’re
 “currently a high school student” and that you’re
-“top-class in your respective field.” <DSTOP>
+“top-class in your respective field.”<DSTOP>
 All of the graduates are famous, well-known people,
 and they say that if you get in,
-your future is basically guaranteed. <DSTOP>
+your future is basically guaranteed.<DSTOP>
 
 
 -- School Introduction · School Store (学園紹介・購買部)
@@ -36,19 +37,19 @@ your future is basically guaranteed. <DSTOP>
 ここにあるモノモノマシーンで
 使うことが出来るよ。<DSTOP>
 
-It’s a mix of Japanese and Western styles, with all kinds of things here. <DSTOP>
+It’s a mix of Japanese and Western styles, with all kinds of things here.<DSTOP>
 There are paper lanterns hanging up,
 and suits of armor, jars, paintings, and other items lined up—
-it gives the place a slightly unusual atmosphere. <DSTOP>
+it gives the place a slightly unusual atmosphere.<DSTOP>
 Once you collect Monokuma Medals,
-you can use them in the MonoMono Machine here. <DSTOP>
+you can use them in the MonoMono Machine here.<DSTOP>
 
 
 -- School Introduction: Monomono Machine (学園紹介・モノモノマシーン)
 
 購買部にあるガチャガチャだね。
 １回使うごとに、
-モノクマメダルが最低でも１枚必要だよ。 <DSTOP>
+モノクマメダルが最低でも１枚必要だよ。<DSTOP>
 レバーを回転すると、色んなものが手に入るんだ！<DSTOP>
 １度に何枚も使えば、
 景品がダブっちゃう確率が少なくなるんだって。<DSTOP>
@@ -58,13 +59,13 @@ you can use them in the MonoMono Machine here. <DSTOP>
 
 It’s the capsule machine in the school store.
 Each time you use it,
-you need at least one Monokuma Medal. <DSTOP>
-When you turn the lever, you can get all kinds of items! <DSTOP>
+you need at least one Monokuma Medal.<DSTOP>
+When you turn the lever, you can get all kinds of items!<DSTOP>
 If you use multiple medals at once,
-the chance of getting duplicate prizes goes down, apparently. <DSTOP>
+the chance of getting duplicate prizes goes down, apparently.<DSTOP>
 There are 92 different prizes in total,
 including some rare ones,
-so why don’t you give it a try? <DSTOP>
+so why don’t you give it a try?<DSTOP>
 
 
 -- School Introduction・Library (学園紹介・図書室)
@@ -82,14 +83,14 @@ so why don’t you give it a try? <DSTOP>
 
 There are all kinds of books packed tightly onto the shelves.
 They’re not very well maintained,
-so it’s a bit dusty, but… <DSTOP>
+so it’s a bit dusty, but…<DSTOP>
 If anything,
-it seems like there are a lot of specialized, more difficult books. <DSTOP>
+it seems like there are a lot of specialized, more difficult books.<DSTOP>
 Togami is often here reading.
-Apparently, the archives are his favorite spot. <DSTOP>
+Apparently, the archives are his favorite spot.<DSTOP>
 And wherever Togami is,
 you’ll usually find Fukawa nearby too—
-but is Fukawa here for the books, or for something else…? <DSTOP>
+but is Fukawa here for the books, or for something else…?<DSTOP>
 
 
 -- School Introduction: Trash Room (学園紹介・トラッシュルーム)
@@ -106,16 +107,16 @@ but is Fukawa here for the books, or for something else…? <DSTOP>
 これも鍵がかかってて開かないんだよねぇ。<DSTOP>
 
 The person in charge of taking out the trash
-disposes of all the collected garbage in the incinerator here. <DSTOP>
+disposes of all the collected garbage in the incinerator here.<DSTOP>
 It’s done on a rotating duty schedule,
-so no slacking off, okay? <DSTOP>
+so no slacking off, okay?<DSTOP>
 The shutter is always closed,
 so only the person on duty who has the key
-can open it. <DSTOP>
+can open it.<DSTOP>
 To think that even a garbage incinerator like this
-would end up being connected to an incident… <DSTOP>
+would end up being connected to an incident…<DSTOP>
 Oh, right—there’s also a door built into the ground,
-but that one’s locked too, so it won’t open. <DSTOP>
+but that one’s locked too, so it won’t open.<DSTOP>
 
 
 -- School Introduction: Laundry Room (学園紹介・ランドリー)
@@ -127,16 +128,16 @@ but that one’s locked too, so it won’t open. <DSTOP>
 たまに持ち主不明の忘れ物が
 あるみたいだけど、<DSTOP>
 みんな洗濯物は忘れないで
-持ち帰らなきゃね！ <DSTOP>
+持ち帰らなきゃね！<DSTOP>
 
 There are lots of washing machines lined up,
-just like a coin laundry. <DSTOP>
+just like a coin laundry.<DSTOP>
 There are magazines and even a vending machine,
-so you can kill time while you wait. <DSTOP>
+so you can kill time while you wait.<DSTOP>
 Apparently, there are sometimes forgotten items
-with no clear owner, but… <DSTOP>
+with no clear owner, but…<DSTOP>
 everyone needs to remember
-to take their laundry home with them! <DSTOP>
+to take their laundry home with them!<DSTOP>
 
 
 -- School Introduction: Pool (学園紹介・プール)
@@ -151,12 +152,12 @@ to take their laundry home with them! <DSTOP>
 
 It’s a large pool with six lanes,
 and there are even spectator seats on both sides.
-Pretty impressive. <DSTOP>
+Pretty impressive.<DSTOP>
 If there were a competition or something,
-the stands here would probably be completely full. <DSTOP>
+the stands here would probably be completely full.<DSTOP>
 But despite being such a large, noticeable place,
 it surprisingly doesn’t end up having much to do
-with the incident. <DSTOP>
+with the incident.<DSTOP>
 
 
 -- School Tour: Recreation Room (学園紹介・娯楽室)
@@ -172,15 +173,15 @@ with the incident. <DSTOP>
 怖い気もしているんだ。えへへ。<DSTOP>
 
 There are darts, billiards,
-and all kinds of magazines too. <DSTOP>
+and all kinds of magazines too.<DSTOP>
 To think they even have facilities like this—
-it’s really luxurious. <DSTOP>
+it’s really luxurious.<DSTOP>
 They’ve got Othello and shogi as well,
-so anyone can casually enjoy themselves. <DSTOP>
-I’d like to try playing billiards too. <DSTOP>
+so anyone can casually enjoy themselves.<DSTOP>
+I’d like to try playing billiards too.<DSTOP>
 But since Celeste is here at the academy,
 I kind of feel scared
-to challenge her. Hehe. <DSTOP>
+to challenge her. Hehe.<DSTOP>
 
 
 -- School Tour: Physics Lab (学園紹介・物理室)
@@ -197,14 +198,14 @@ to challenge her. Hehe. <DSTOP>
 なんだか怖いね……。<DSTOP>
 
 The large device in the center of the room
-is an air purifier. <DSTOP>
+is an air purifier.<DSTOP>
 It seems to circulate the air
-throughout the entire academy. <DSTOP>
+throughout the entire academy.<DSTOP>
 It’s amazing that they were able to build
-such a gigantic air purifier, but… <DSTOP>
+such a gigantic air purifier, but…<DSTOP>
 does the air really get so polluted
-that they need something this huge? <DSTOP>
-That’s kind of scary… <DSTOP>
+that they need something this huge?<DSTOP>
+That’s kind of scary…<DSTOP>
 
 
 -- School Tour: Changing Room (学園紹介・脱衣所)
@@ -219,11 +220,11 @@ That’s kind of scary… <DSTOP>
 
 Oh right, there are surveillance cameras
 all over the academy,
-but there aren’t any installed here or in the large bath. <DSTOP>
-Is Monokuma surprisingly gentlemanly, maybe? <DSTOP>
+but there aren’t any installed here or in the large bath.<DSTOP>
+Is Monokuma surprisingly gentlemanly, maybe?<DSTOP>
 But even without cameras,
 this must have been a difficult place
-for Master Tama, having to be mindful of so many things. <DSTOP>
+for Master Tama, having to be mindful of so many things.<DSTOP>
 
 
 -- School Tour: Health Room (学園紹介・保健室)
@@ -238,11 +239,11 @@ for Master Tama, having to be mindful of so many things. <DSTOP>
 何よりなんだけどなぁ……。<DSTOP>
 
 Oh right,
-you can view X-ray images here. <DSTOP>
-I wonder if there was an Ultimate-level doctor or something? <DSTOP>
+you can view X-ray images here.<DSTOP>
+I wonder if there was an Ultimate-level doctor or something?<DSTOP>
 It looks like there are all kinds of medicines too, but
-honestly, it’d be best if no one had to use a place like this, <DSTOP>
-and everyone could just stay healthy above all else… <DSTOP>
+honestly, it’d be best if no one had to use a place like this,<DSTOP>
+and everyone could just stay healthy above all else…<DSTOP>
 
 
 -- School Tour: Large Bathhouse (学園紹介・大浴場)
@@ -258,12 +259,12 @@ and everyone could just stay healthy above all else… <DSTOP>
 
 Of course, there’s a large painting of a mountain
 displayed on the wall!
-It’s a bit disappointing that it’s not Mount Fuji, though… <DSTOP>
+It’s a bit disappointing that it’s not Mount Fuji, though…<DSTOP>
 Besides the huge bath,
-there’s also a sauna further inside. <DSTOP>
+there’s also a sauna further inside.<DSTOP>
 I wonder if Master Tama managed to get through the changing room
 and take a bath here properly?
-I’m sure everything turned out fine, right? <DSTOP>
+I’m sure everything turned out fine, right?<DSTOP>
 
 
 -- School Tour: Music Room (学園紹介・音楽室)
@@ -278,11 +279,11 @@ I’m sure everything turned out fine, right? <DSTOP>
 『超高校級のアイドル』だもんね！<DSTOP>
 
 There are student desks and chairs, at least,
-but they’re set up more like audience seating. <DSTOP>
-And the lighting is incredibly lavish, too… <DSTOP>
-It’d be fun if Maizono sang here… <DSTOP>
+but they’re set up more like audience seating.<DSTOP>
+And the lighting is incredibly lavish, too…<DSTOP>
+It’d be fun if Maizono sang here…<DSTOP>
 After all,
-she is the “Ultimate Idol”! <DSTOP>
+she is the “Ultimate Idol”!<DSTOP>
 
 
 -- School Tour: Art Room (学園紹介・美術室)
@@ -301,16 +302,16 @@ she is the “Ultimate Idol”! <DSTOP>
 フィギュアアトリエになっちゃいそうだね。<DSTOP>
 
 Besides the Monokuma statues,
-there are things like the Venus de Milo and Nio statues here too. <DSTOP>
+there are things like the Venus de Milo and Nio statues here too.<DSTOP>
 The walls are completely covered with paintings,
-giving the place a somewhat unsettling atmosphere, but… <DSTOP>
+giving the place a somewhat unsettling atmosphere, but…<DSTOP>
 there’s also a full set of art supplies and sculpting tools,
-all properly stocked. <DSTOP>
+all properly stocked.<DSTOP>
 I wonder if there was someone here
-known as the “Ultimate Artist”? <DSTOP>
+known as the “Ultimate Artist”?<DSTOP>
 That said, if we leave it alone,
 it might end up turning into
-Yamada’s personal figure atelier. <DSTOP>
+Yamada’s personal figure atelier.<DSTOP>
 
 
 -- School Tour: Biology Lab (学園紹介・生物室)
@@ -326,12 +327,12 @@ Yamada’s personal figure atelier. <DSTOP>
 
 The biology lab is always locked,
 so you can never go inside.
-I wonder what’s in there? <DSTOP>
+I wonder what’s in there?<DSTOP>
 Maybe there are human anatomy models
 or frogs preserved in formalin
-or something like that…? <DSTOP>
+or something like that…?<DSTOP>
 Hmm… I’m starting to think
-it might be better to just leave it locked… <DSTOP>
+it might be better to just leave it locked…<DSTOP>
 
 
 -- School Tour: Martial Arts Dojo (学園紹介・武道場)
@@ -344,12 +345,12 @@ it might be better to just leave it locked… <DSTOP>
 なんてことをちょっと考えちゃったよ。<DSTOP>
 
 There were targets used for kyudo, but…
-did Hope’s Peak Academy have a kyudo club, I wonder? <DSTOP>
+did Hope’s Peak Academy have a kyudo club, I wonder?<DSTOP>
 All the certificates displayed here
-might belong to the kyudo club too. <DSTOP>
+might belong to the kyudo club too.<DSTOP>
 If there really was an “Ultimate Archer,”
 I couldn’t help wondering
-who would be stronger—them or Ogami. <DSTOP>
+who would be stronger—them or Ogami.<DSTOP>
 
 
 -- School Tour: Botanical Garden (学園紹介・植物庭園)
@@ -361,10 +362,10 @@ who would be stronger—them or Ogami. <DSTOP>
 雰囲気もある気がする……。<DSTOP>
 
 The sprinklers water everything every morning,
-so it seems like the plants don’t need much care. <DSTOP>
+so it seems like the plants don’t need much care.<DSTOP>
 Even though it’s inside the academy,
 it somehow has a jungle-like
-atmosphere to it… <DSTOP>
+atmosphere to it…<DSTOP>
 
 
 -- School Tour: Kitchen (学園紹介・厨房)
@@ -377,11 +378,11 @@ atmosphere to it… <DSTOP>
 何だか不安になっちゃうね……。<DSTOP>
 
 There are tons of cooking utensils here,
-like pots and frying pans. <DSTOP>
+like pots and frying pans.<DSTOP>
 This place is probably the reason
-Asahina’s stomach gets kept satisfied, but… <DSTOP>
+Asahina’s stomach gets kept satisfied, but…<DSTOP>
 having so many blades around
-kind of makes me feel uneasy… <DSTOP>
+kind of makes me feel uneasy…<DSTOP>
 
 
 -- School Tour: Cafeteria (学園紹介・食堂)
@@ -396,11 +397,11 @@ kind of makes me feel uneasy… <DSTOP>
 
 Basically, everyone gathers here every day
 to think about how we can escape
-this hopeless academy life, <DSTOP>
-or to calm ourselves down with some tea. <DSTOP>
-It’s what you’d call a place to relax! <DSTOP>
+this hopeless academy life,<DSTOP>
+or to calm ourselves down with some tea.<DSTOP>
+It’s what you’d call a place to relax!<DSTOP>
 That’s why I think
-it’s an important place within this academy. <DSTOP>
+it’s an important place within this academy.<DSTOP>
 
 
 -- Glossary: Free Time (用語紹介・自由時間)
@@ -413,11 +414,11 @@ it’s an important place within this academy. <DSTOP>
 待ち構えているとしても……。<DSTOP>
 
 It’s the peaceful time
-when no incidents are happening. <DSTOP>
+when no incidents are happening.<DSTOP>
 During this time,
-we deepen our bonds with one another. <DSTOP>
+we deepen our bonds with one another.<DSTOP>
 Even if a tragic incident
-is waiting for us afterward… <DSTOP>
+is waiting for us afterward…<DSTOP>
 
 
 -- Glossary: Punishment (用語紹介・オシオキ)
@@ -431,13 +432,13 @@ is waiting for us afterward… <DSTOP>
 これがあるせいで、
 学級裁判はいつも命懸けの裁判になるんだ……。<DSTOP>
 
-They call it an “execution” using a nicer-sounding term, but… <DSTOP>
+They call it an “execution” using a nicer-sounding term, but…<DSTOP>
 depending on the outcome of the class trial vote,
-either the blackened, or everyone except the blackened, <DSTOP>
+either the blackened, or everyone except the blackened,<DSTOP>
 will be subjected to an extremely cruel punishment
-carried out by Monokuma. <DSTOP>
+carried out by Monokuma.<DSTOP>
 Because of this,
-class trials always become trials fought with our lives on the line… <DSTOP>
+class trials always become trials fought with our lives on the line…<DSTOP>
 
 
 -- Glossary: Kuro (用語紹介・クロ)
@@ -453,14 +454,14 @@ class trials always become trials fought with our lives on the line… <DSTOP>
 クロも被害者なんだよね……モノクマの……。<DSTOP>
 
 It refers to someone who killed their friends
-because they wanted to graduate from the academy. <DSTOP>
+because they wanted to graduate from the academy.<DSTOP>
 But not every blackened chose
-to dirty their hands willingly. <DSTOP>
+to dirty their hands willingly.<DSTOP>
 They were all driven to it
-by the “motives” presented by Monokuma. <DSTOP>
+by the “motives” presented by Monokuma.<DSTOP>
 In a way,
 the blackened are victims too…
-victims of Monokuma… <DSTOP>
+victims of Monokuma…<DSTOP>
 
 
 -- Glossary: Heretical Angel ☆ Mochi Mochi Princess (用語紹介・外道天使☆もちもちプリンセス)
@@ -474,12 +475,12 @@ victims of Monokuma… <DSTOP>
 でも今はそれどころじゃないと思うけど……。<DSTOP>
 
 It’s a currently popular anime
-that Yamada is a huge fan of. <DSTOP>
+that Yamada is a huge fan of.<DSTOP>
 The main character is a slightly chubby girl
-called Princess Piggles, <DSTOP>
+called Princess Piggles,<DSTOP>
 and it’s getting an anime adaptation and is apparently very popular.
-Yamada keeps recommending it to me nonstop. <DSTOP>
-But I don’t think this is really the time for that right now… <DSTOP>
+Yamada keeps recommending it to me nonstop.<DSTOP>
+But I don’t think this is really the time for that right now…<DSTOP>
 
 
 -- Glossary: School Rules (用語紹介・校則)
@@ -493,11 +494,11 @@ But I don’t think this is really the time for that right now… <DSTOP>
 みんな気をつけなきゃね。<DSTOP>
 
 These are the school rules decided by Monokuma, the “headmaster,”
-and they include rules you’d never see at a normal school. <DSTOP>
+and they include rules you’d never see at a normal school.<DSTOP>
 You can check them on the electronic student handbook,
-and Monokuma adds to them whenever he feels like it. <DSTOP>
+and Monokuma adds to them whenever he feels like it.<DSTOP>
 It seems that if you break them, you’ll be punished,
-so everyone has to be careful. <DSTOP>
+so everyone has to be careful.<DSTOP>
 
 
 -- Glossary: Chimidoro Fever (用語紹介・チミドロフィーバー)
@@ -510,11 +511,11 @@ so everyone has to be careful. <DSTOP>
 怖いよ……怖すぎるよ……。<DSTOP>
 
 It’s a message written in blood
-left at the scene where the victim was killed by “Genocider Sho.” <DSTOP>
+left at the scene where the victim was killed by “Genocider Sho.”<DSTOP>
 The message was written using the victim’s own blood,
 and it also serves as proof
-that they were murdered by “Genocider Sho”… <DSTOP>
-It’s scary… it’s way too scary… <DSTOP>
+that they were murdered by “Genocider Sho”…<DSTOP>
+It’s scary… it’s way too scary…<DSTOP>
 
 
 -- Glossary: Graduation (用語紹介・卒業)
@@ -528,11 +529,11 @@ It’s scary… it’s way too scary… <DSTOP>
 それをモノクマは扇動してくるんだ……。<DSTOP>
 
 If the “blackened” who committed the murder
-manages to be judged innocent through the class trial vote, <DSTOP>
-that blackened is allowed to escape from the school. <DSTOP>
+manages to be judged innocent through the class trial vote,<DSTOP>
+that blackened is allowed to escape from the school.<DSTOP>
 Escaping even if it means killing everyone else
 is something no normal person would consider,
-but Monokuma deliberately incites that kind of thinking… <DSTOP>
+but Monokuma deliberately incites that kind of thinking…<DSTOP>
 
 
 -- Glossary: Electronic Student Handbook (用語紹介・電子生徒手帳)
@@ -549,14 +550,14 @@ but Monokuma deliberately incites that kind of thinking… <DSTOP>
 『ハッキング』。<DSTOP>
 
 It’s an electronic tool given to us by Monokuma.
-When you turn it on, it displays the owner’s real name. <DSTOP>
-It also functions as a key card, <DSTOP>
+When you turn it on, it displays the owner’s real name.<DSTOP>
+It also functions as a key card,<DSTOP>
 and Monokuma said it’s
 “a very sturdy tool that won’t break easily,
-can’t be hacked or modified,” <DSTOP>
+can’t be hacked or modified,”<DSTOP>
 but… when someone says something is impossible,
 it kind of makes you want to try it, doesn’t it—
-“hacking,” I mean. <DSTOP>
+“hacking,” I mean.<DSTOP>
 
 
 -- Glossary: Fenrir (用語紹介・フェンリル)
@@ -573,14 +574,14 @@ it kind of makes you want to try it, doesn’t it—
 無縁な組織だと思うけど……。<DSTOP>
 
 It’s a mercenary group from the Middle East,
-unlike typical military contractors, <DSTOP>
+unlike typical military contractors,<DSTOP>
 it was a terrifying organization that acted as a direct combat force
-and wreaked havoc in various regions. <DSTOP>
-But at some point, it suddenly ceased all activity, <DSTOP>
+and wreaked havoc in various regions.<DSTOP>
+But at some point, it suddenly ceased all activity,<DSTOP>
 so rumors spread about internal collapse
-or a complete massacre to silence everyone involved… <DSTOP>
+or a complete massacre to silence everyone involved…<DSTOP>
 It’s probably an organization
-that has nothing to do with high school students like us, though… <DSTOP>
+that has nothing to do with high school students like us, though…<DSTOP>
 
 
 -- Glossary: Night Time (用語紹介・夜時間)
@@ -595,11 +596,11 @@ that has nothing to do with high school students like us, though… <DSTOP>
 
 It’s the time period from 10:00 p.m. to 7:00 a.m.
 when entering certain facilities, like the dining hall,
-is prohibited. <DSTOP>
+is prohibited.<DSTOP>
 According to Monokuma,
 it’s basically his way of saying,
-“Go to bed early and wake up early!” <DSTOP>
-It’s a strangely strict, almost orderly rule… <DSTOP>
+“Go to bed early and wake up early!”<DSTOP>
+It’s a strangely strict, almost orderly rule…<DSTOP>
 
 
 -- Glossary: The Greatest and Most Despair-Inducing Event in Human History (用語紹介・人類史上最大最悪の絶望的事件)
@@ -614,12 +615,12 @@ It’s a strangely strict, almost orderly rule… <DSTOP>
 想像するだけで怖くなっちゃうよ……。<DSTOP>
 
 It’s an incident that supposedly occurred a year ago,
-but no details are known at all. <DSTOP>
-I’m actually in the middle of gathering information about it right now. <DSTOP>
+but no details are known at all.<DSTOP>
+I’m actually in the middle of gathering information about it right now.<DSTOP>
 There seem to be traces of it left
-all over the academy, <DSTOP>
+all over the academy,<DSTOP>
 and just imagining how horrific it must have been
-is enough to make me scared… <DSTOP>
+is enough to make me scared…<DSTOP>
 
 
 -- Glossary: Class Trial (用語紹介・学級裁判)
@@ -634,12 +635,12 @@ is enough to make me scared… <DSTOP>
 
 After a murder occurs
 and the investigation of the incident is finished,
-a class trial is held. <DSTOP>
+a class trial is held.<DSTOP>
 Everyone clashes their opinions and deductions,
 with the goal of uncovering the truth of the crime
-and exposing the blackened. <DSTOP>
+and exposing the blackened.<DSTOP>
 At the end of the trial,
-there’s a vote on “who the blackened is”… <DSTOP>
+there’s a vote on “who the blackened is”…<DSTOP>
 
 
 -- Glossary: The Monokuma Files (用語紹介・ザ・モノクマファイル)
@@ -652,11 +653,11 @@ there’s a vote on “who the blackened is”… <DSTOP>
 なんて残酷なんだろうね……。<DSTOP>
 
 It’s an autopsy report created by Monokuma
-based on footage from the surveillance cameras. <DSTOP>
-In other words, Monokuma is always witnessing the crime. <DSTOP>
+based on footage from the surveillance cameras.<DSTOP>
+In other words, Monokuma is always witnessing the crime.<DSTOP>
 He never gets his own hands dirty,
 and instead tries to make us kill each other.
-How cruel can that be… <DSTOP>
+How cruel can that be…<DSTOP>
 
 
 -- Glossary: Classroom (用語紹介・教室)
@@ -668,11 +669,11 @@ How cruel can that be… <DSTOP>
 各教室の黒板には落書きがあるけど、
 これは誰が書いたものなのかなぁ？<DSTOP>
 
-Originally, this was a place the academy’s students used as a space to learn, but <DSTOP>
+Originally, this was a place the academy’s students used as a space to learn, but<DSTOP>
 now it’s nothing more than one stage
-of this hopeless academy life. <DSTOP>
+of this hopeless academy life.<DSTOP>
 There’s graffiti on the blackboards in each classroom—
-I wonder who wrote it? <DSTOP>
+I wonder who wrote it?<DSTOP>
 
 
 -- Glossary: Super High School Level (用語紹介・超高校級)
@@ -686,12 +687,12 @@ I wonder who wrote it? <DSTOP>
 学園入学の最低にして最大の条件になるんだ。<DSTOP>
 
 It’s a general term for students
-who possess talents that stand out far above those of other high schoolers their age. <DSTOP>
+who possess talents that stand out far above those of other high schoolers their age.<DSTOP>
 All the students gathered at Hope’s Peak Academy
-are these so-called “Ultimates,” <DSTOP>
+are these so-called “Ultimates,”<DSTOP>
 and being an Ultimate
 is both the minimum and the greatest requirement
-for enrolling in the academy. <DSTOP>
+for enrolling in the academy.<DSTOP>
 
 
 -- Glossary: Kurei Jiwai Dai A Monjou (用語紹介・暮威慈畏大亜紋上)
@@ -705,11 +706,688 @@ for enrolling in the academy. <DSTOP>
 
 It’s the name of a massive biker gang
 that controls the Kanto region,
-with Owada serving as its leader. <DSTOP>
+with Owada serving as its leader.<DSTOP>
 I personally have nothing to do
-with that kind of delinquent world, but… <DSTOP>
+with that kind of delinquent world, but…<DSTOP>
 I can’t help admiring
-Owada’s manliness. Hehe. <DSTOP>
+Owada’s manliness. Hehe.<DSTOP>
 
 
 === END ===
+
+
+=== CHARACTER ===
+
+-- Makoto Naegi
+
+苗木君は『超高校級の幸運』の持ち主だよ。
+フルネームは苗木誠っていうんだ。<DSTOP>
+普通なら、傑出した才能がなければ
+入学できない希望ヶ峰学園へ、<DSTOP>
+抽選で選ばれて入学資格を得た程の
+幸運の持ち主なんだ。<DSTOP>
+苗木君自身が唯一のとりえだって言う
+「人より少しだけ前向き」なところで、
+絶望的な学園生活を生き抜いていったんだよ。<DSTOP>
+でも、様々な面倒事を押しつけられたり、
+不幸な出来事に巻き込まれたりすることも多くて、<DSTOP>
+超高校級の「不運」なんて
+言われることもあるみたいだねぇ。<DSTOP>
+希望ヶ峰学園入学前の実績が一切ないから、
+僕のデータベースにも
+苗木君の過去については情報がなかったんだよ。<DSTOP>
+常に希望を胸に抱いている苗木君だけど、
+実はそれって、この学園の生徒の中でも
+一番スゴイ才能なんじゃないかなぁ……？<DSTOP>
+
+Naegi is the holder of the title “Ultimate Lucky Student.”
+His full name is Makoto Naegi. <DSTOP>
+Normally, you can’t enroll at Hope’s Peak Academy
+unless you have an outstanding talent, but <DSTOP>
+he was chosen by lottery and earned admission purely through luck. <DSTOP>
+Relying on what Naegi himself calls
+his only real strength—being “just a little more positive than most people”—
+he managed to survive this hopeless academy life. <DSTOP>
+That said, he often ends up burdened with various troubles
+or getting dragged into unfortunate incidents, <DSTOP>
+so some people even call him the Ultimate “Unlucky” Student. <DSTOP>
+Since he had absolutely no notable achievements
+before enrolling at Hope’s Peak Academy,
+there wasn’t any information about his past in my database either. <DSTOP>
+Naegi always carries hope in his heart, but honestly,
+that might actually be the most amazing talent
+among all the students at this academy… <DSTOP>
+
+
+-- Kiyotaka Ishimaru
+
+石丸君は『超高校級の風紀委員』だね。
+フルネームは石丸清多夏っていうんだよぉ。<DSTOP>
+ごく普通の一般家庭出身なんだけど、
+品行方正かつ成績優秀で、
+とある進学校の風紀委員を務めてたんだ。<DSTOP>
+こんな絶望的な学園生活においても、
+何より規律を重んじる真面目な性格で、
+学園内のルール決めをしちゃうくらい。<DSTOP>
+そんな石丸君は、
+並々ならぬ努力をしてきた結果として
+優秀な成績を残してきたから、<DSTOP>
+努力しなかったり、
+努力をバカにする人に対しては
+とても厳しいんだ。<DSTOP>
+暴走族の大和田君とは、
+一見ソリがあわなさそうなんだけど、<DSTOP>
+ある出来事をキッカケに
+お互いを「兄弟」と呼ぶような仲になったんだよ。<DSTOP>
+
+Ishimaru is the “Ultimate Moral Compass.”
+His full name is Kiyotaka Ishimaru. <DSTOP>
+He comes from a perfectly ordinary family, but <DSTOP>
+he’s well-mannered and academically excellent,
+and he served as a disciplinary committee member
+at a prestigious prep school. <DSTOP>
+Even in this hopeless academy life,
+he has a serious personality that values discipline above all else,
+to the point where he tries to establish rules within the academy. <DSTOP>
+Because Ishimaru achieved his excellent results
+through extraordinary effort, <DSTOP>
+he’s very strict with people
+who don’t make an effort
+or who look down on hard work. <DSTOP>
+At first glance,
+he and Owada, the biker gang leader,
+don’t seem like they’d get along, but <DSTOP>
+after a certain incident,
+they ended up becoming close enough
+to call each other “brothers.” <DSTOP>
+
+
+-- Byakuya Togami
+
+十神君は『超高校級の御曹司』だね。
+名前は十神白夜っていうんだ。<DSTOP>
+伝統ある家系の跡継ぎ枠を得て、
+幼い頃から帝王学を叩き込まれた
+根っからのエリートなんだよ。<DSTOP>
+その血筋だけじゃなくて、
+頭脳、容姿、運動能力と、
+すべてがズバ抜けた存在で、<DSTOP>
+『超高校級の完璧』だなんて
+言われることもあるんだ。<DSTOP>
+そのせいか、十神君って
+とってもプライドが高いんだよね。<DSTOP>
+人を見下すような言動も多いから、
+今回の事件についてもゲーム感覚で
+楽しんでいるところがあるみたい。<DSTOP>
+でも、生まれつき恵まれているだけと
+思われることがキライで、<DSTOP>
+努力も忘れない所なんかは
+ちょっとカッコいいと思っちゃうんだぁ。<DSTOP>
+
+Togami is the “Ultimate Affluent Progeny.”
+His name is Byakuya Togami. <DSTOP>
+He secured his place as the heir to a prestigious family
+and was drilled in the ways of leadership from a very young age—
+a true elite through and through. <DSTOP>
+It’s not just his lineage, either—
+his intellect, appearance, and athletic ability
+are all outstanding, <DSTOP>
+to the point where some people even call him
+the “Ultimate Perfection.” <DSTOP>
+Maybe because of that,
+Togami has an extremely high sense of pride. <DSTOP>
+He often speaks and acts in a condescending way,
+and it seems like he’s even treating this whole incident
+as some kind of game. <DSTOP>
+But he hates being seen as someone
+who’s only blessed by birth, and <DSTOP>
+the fact that he never neglects his own effort
+is something I can’t help thinking is pretty cool. <DSTOP>
+
+
+-- Mondo Owada
+
+大和田君は『超高校級の暴走族』だね。
+フルネームは大和田紋土っていうんだ。
+名前は「モンド」って読むんだよぉ。<DSTOP>
+関東一円を統べる巨大暴走族の
+二代目総長なんだ。<DSTOP>
+お兄さんの『大亜』さんと共に、
+地元では『ダイヤモンド兄弟』として有名みたい。<DSTOP>
+全国の不良から憧れられてるほどで、
+自分のことを極悪非道の男だなんて
+称しているんだけど、<DSTOP>
+本当は義理や人情にとても厚い
+昔かたぎな人なんだよ。<DSTOP>
+『男の約束』という言葉に弱いみたいで、
+そんな男気にあふれるところに、
+僕はとっても憧れているんだ。<DSTOP>
+僕も大和田君みたいに強くなれたらなぁ……。<DSTOP>
+
+Owada is the “Ultimate Biker Gang Leader.”
+His full name is Mondo Owada—
+his name is read as “Mondo.” <DSTOP>
+He’s the second-generation leader
+of a massive biker gang that rules the entire Kanto region. <DSTOP>
+Together with his older brother, Daiya,
+they’re known locally as the “Diamond Brothers.” <DSTOP>
+He’s admired by delinquents all across the country,
+and even calls himself a truly ruthless man, but… <DSTOP>
+in reality, he’s very old-fashioned
+and deeply values loyalty and human compassion. <DSTOP>
+He seems especially weak to the phrase “a man’s promise,”
+and that kind of manly spirit
+is something I really admire. <DSTOP>
+I wish I could become strong like Owada someday… <DSTOP>
+
+
+-- Leon Kuwata
+
+桑田君は『超高校級の野球選手』だね。
+フルネームは桑田怜恩っていうんだよ。<DSTOP>
+高校野球全国大会常連校の出身で、
+尚且つエースで４番っていう、<DSTOP>
+練習嫌いな人としては
+異常なまでに際立つ才能の持ち主で、
+プロのスカウトも大注目してるんだよ。<DSTOP>
+それなのに本人はプロ野球選手よりも
+ミュージシャンになりたいんだって。<DSTOP>
+たしかに桑田君って、
+野球少年のイメージから
+全くかけ離れた見た目で、オシャレだよねぇ。<DSTOP>
+性格も凄く明るいし、
+ああいうのをパンクっていうのかな？<DSTOP>
+あ、でも前は坊主頭だったみたいだね。<DSTOP>
+
+Kuwata is the “Ultimate Baseball Player.”
+His full name is Leon Kuwata. <DSTOP>
+He comes from a high school that regularly competes
+in the national high school baseball tournament,
+and he was both the ace pitcher and the cleanup hitter, <DSTOP>
+which makes his talent stand out to an absurd degree
+for someone who hates practice—
+to the point that pro scouts are paying close attention to him. <DSTOP>
+Even so, he says he wants to become a musician
+rather than a professional baseball player. <DSTOP>
+Honestly, Kuwata doesn’t look anything like
+the typical image of a baseball kid—
+he’s really stylish. <DSTOP>
+He’s got a super bright personality too;
+is that what you’d call “punk,” maybe? <DSTOP>
+Oh, but apparently he used to have a buzz cut. <DSTOP>
+
+
+-- Hifumi Yamada
+
+山田君は『超高校級の同人作家』だよ。
+名前は山田一二三っていうんだぁ。<DSTOP>
+カリスマ的人気のある作家で、
+同級生のみんなに同人界の常識を広めようと、
+よくレクチャーをしてまわっているんだ。<DSTOP>
+「油芋」というお菓子と
+アニメをこよなく愛していて、<DSTOP>
+今は『外道天使☆もちもちプリンセス』に
+ハマっているみたいだよ。<DSTOP>
+いつもアニメグッズを
+持ち歩いているくらいだから、
+よっぽど好きなんだろうねぇ。<DSTOP>
+でも山田君って、
+ちょっと現実逃避しがちなところがあって、
+三次元の女性には一切興味がないんだって。<DSTOP>
+僕に対して、
+とっても優しくしてくれるんだよね。<DSTOP>
+
+Yamada is the “Ultimate Doujin Artist.”
+His name is Hifumi Yamada. <DSTOP>
+He’s a writer with charismatic popularity,
+and he often goes around lecturing his classmates
+to spread common knowledge about the doujin world. <DSTOP>
+He absolutely loves a snack called “Abura-imo”
+and anime, <DSTOP>
+and lately he seems to be really into
+Evil Angel☆Mochi-Mochi Princess. <DSTOP>
+He even carries anime goods around with him all the time,
+so he must really love it. <DSTOP>
+But Yamada tends to escape from reality a bit,
+and apparently has no interest at all
+in real, three-dimensional women. <DSTOP>
+He’s always very kind to me, though. <DSTOP>
+
+
+-- Yasuhiro Hagakure
+
+葉隠君は『超高校級の占い師』だね。
+フルネームは葉隠康比呂っていうんだ。<DSTOP>
+カードや水晶などの道具じゃなくて、
+頭の中に湧くインスピレーションを使う
+直感占いが得意なんだって。<DSTOP>
+的中率がニ、三割っていうことは、
+七、八割でその占いが外れるってことだから、<DSTOP>
+結果が二択の占いに限って言えば、
+実はとってもスゴイことなんじゃないかな。<DSTOP>
+でも、そもそもオカルト的なものが
+キライだっていうから不思議だよねぇ。<DSTOP>
+ちなみに葉隠君は３回留年しているから、
+生徒の中では最年長なんだ。<DSTOP>
+あれ？ということは、
+葉隠君ってもう成人だよね？<DSTOP>
+その割にはみんな葉隠君を
+敬っていないような……。<DSTOP>
+……気のせいだよねっ。<DSTOP>
+
+Hagakure is the “Ultimate Clairvoyant.”
+His full name is Yasuhiro Hagakure. <DSTOP>
+Instead of using tools like cards or crystal balls,
+he’s apparently good at intuitive fortune-telling,
+relying on inspirations that pop into his head. <DSTOP>
+With an accuracy rate of twenty to thirty percent,
+that means his predictions are wrong seventy to eighty percent of the time, <DSTOP>
+but if you’re talking strictly about two-choice predictions,
+that might actually be pretty impressive. <DSTOP>
+Still, it’s strange, since he says he doesn’t even like
+occult stuff in the first place. <DSTOP>
+By the way, Hagakure has repeated a year three times,
+so he’s the oldest student here. <DSTOP>
+Huh? If that’s the case,
+doesn’t that mean Hagakure is already an adult? <DSTOP>
+And yet, somehow it feels like
+no one really treats him with much respect… <DSTOP>
+…Must just be my imagination, right? <DSTOP>
+
+
+-- Sayaka Maizono
+
+舞園さんは『超高校級のアイドル』で、
+フルネームは舞園さやかっていうんだ。<DSTOP>
+国民的アイドルグループのボーカルを務めている、
+時代の寵児なんだよ。<DSTOP>
+清楚で温和な性格の持ち主なんだけど、
+その一方で、夢を叶えるためなら
+どんなことでもするっていう、<DSTOP>
+強い芯を持った人でもあるんだ。<DSTOP>
+苗木君とは中学校時代の同級生なんだけど、
+当時高嶺の花だった舞園さんと苗木君には
+接点は一切なかったんだって。<DSTOP>
+でも舞園さんは苗木君をちゃんと覚えていて、
+何だか二人はとっても仲良しみたい。<DSTOP>
+苗木君の助手として、
+この絶望的な学園生活を
+乗り越えようとしていたんだ。<DSTOP>
+苗木君の考えていることを
+よくズバズバ当てていたんだけど、
+舞園さんって本当にエスパーだったのかも……？<DSTOP>
+
+Maizono is the “Ultimate Idol,”
+and her full name is Sayaka Maizono. <DSTOP>
+She’s the lead vocalist of a nationally famous idol group,
+a true darling of the era. <DSTOP>
+She has a pure and gentle personality, but at the same time,
+she’s someone with a strong core,
+willing to do whatever it takes to make her dreams come true. <DSTOP>
+She and Naegi were classmates back in middle school,
+but back then, Maizono was completely out of his league,
+and they never really had any contact. <DSTOP>
+Still, Maizono remembered Naegi clearly,
+and the two of them seem extremely close now. <DSTOP>
+As Naegi’s assistant,
+she tried to overcome this hopeless academy life together with him. <DSTOP>
+She often hit the nail on the head
+when it came to what Naegi was thinking—
+maybe she really was an esper after all…? <DSTOP>
+
+
+-- Kyoto Kirigiri
+
+霧切さんのフルネームは
+霧切響子っていうんだけど、
+実はこの名前しかハッキリしていないんだ。<DSTOP>
+学園に集められた生徒の中でも、
+才能が明らかになっていないのは一人だけで、<DSTOP>
+苗木君と同じように、僕のデータベースにも
+一切情報が存在しないんだよね。<DSTOP>
+常に黒手袋をトレードマーク的にはめていて、
+なんだかミステリアスで、
+とってもキレイな人なんだ。<DSTOP>
+ちなみに、常に手袋をしている理由って、
+手に深い傷があるためなんだって。<DSTOP>
+そうまでして隠しておかなければならない
+傷があるだなんて、
+よっぽど大変な怪我だったんだろうね……。<DSTOP>
+苗木君に捜査のヒントを与えることも
+結構あったみたいだけど、
+一体どんな才能があるんだろうねぇ？<DSTOP>
+
+Kirigiri’s full name is Kyoko Kirigiri,
+but in fact, that’s the only thing about her that’s clear. <DSTOP>
+Among all the students gathered at the academy,
+she’s the only one whose talent hasn’t been revealed, <DSTOP>
+and just like Naegi,
+there’s absolutely no information about her
+in my database either. <DSTOP>
+She always wears black gloves as her trademark,
+giving her a mysterious vibe,
+and she’s very beautiful. <DSTOP>
+Apparently, the reason she always wears gloves
+is because she has deep scars on her hands. <DSTOP>
+To have injuries so serious
+that she feels the need to hide them at all times
+must mean they were really severe… <DSTOP>
+She often gave Naegi hints during investigations,
+but I wonder what kind of talent
+she actually has? <DSTOP>
+
+
+-- Aoi Asahina
+
+朝日奈さんは『超高校級のスイマー』だよ！
+フルネームは朝日奈葵っていうんだぁ。<DSTOP>
+水泳以外のスポーツも大好きみたいで、
+様々な運動部を掛け持ちしているほど
+運動神経が抜群なんだ。<DSTOP>
+体を動かしていないと落ち着かないみたいで、
+いつも親友の大神さんと一緒に
+トレーニングをしてるよ。<DSTOP>
+絶望的な学園生活の中でも
+いつも明るく笑顔を絶やさない
+ムードメーカー的な存在で、<DSTOP>
+話をしていると、ついついつられて
+こっちも明るい気分になっちゃうんだ。<DSTOP>
+それとドーナツが大好きで、
+朝ごはんにドーナツを食べちゃうくらいの
+ドーナツ好きなんだよ。<DSTOP>
+
+Asahina is the “Ultimate Swimmer”!
+Her full name is Aoi Asahina. <DSTOP>
+She seems to love sports besides swimming too,
+and her athletic ability is so outstanding
+that she even belongs to multiple sports clubs. <DSTOP>
+She can’t seem to settle down unless she’s moving her body,
+and she’s always training together
+with her best friend, Ogami. <DSTOP>
+Even in this hopeless academy life,
+she’s a real mood-maker who’s always cheerful
+and never stops smiling, <DSTOP>
+and when you talk to her,
+you can’t help but feel brighter yourself. <DSTOP>
+She also loves donuts—
+so much that she even eats them for breakfast. <DSTOP>
+
+
+-- Toko Fukawa
+
+腐川さんは『超高校級の文学少女』だね。
+名前は腐川冬子っていうんだ。<DSTOP>
+若手女流作家として名を馳せている
+作家さんなんだよ。<DSTOP>
+憧れの十神君にキツイことを言われたり
+虐げられたりすると、逆に嬉しいみたい……。<DSTOP>
+こういうのって「屈折した愛」っていうんだよね？
+うーん、スゴイなぁ……。<DSTOP>
+純文学しか認めていないから、
+オタク的に見られることをとても嫌がっていて、<DSTOP>
+真逆の考えを持つ
+山田君とは仲が悪いんだ。<DSTOP>
+あと、血がとっても苦手で、
+見るだけで気絶しちゃうみたい。<DSTOP>
+腐川さんにはある秘密があって、
+くしゃみをするか気絶をしちゃうと、
+大変なことになっちゃうんだ……。<DSTOP>
+
+Fukawa is the “Ultimate Writing Prodigy.”
+Her name is Toko Fukawa. <DSTOP>
+She’s a novelist who’s made a name for herself
+as a young female author. <DSTOP>
+When her crush, Togami, says harsh things to her
+or treats her cruelly,
+she somehow seems to enjoy it…… <DSTOP>
+I guess this is what you’d call
+“twisted love,” right?
+Wow… that’s kind of intense. <DSTOP>
+She only acknowledges pure literature,
+and she really hates being seen as an otaku, <DSTOP>
+which is why she doesn’t get along at all
+with Yamada, who has the exact opposite mindset. <DSTOP>
+Also, she’s extremely bad with blood—
+just seeing it can make her faint. <DSTOP>
+Fukawa has a certain secret,
+and if she sneezes or faints,
+something terrible ends up happening…… <DSTOP>
+
+
+-- Genocide Jack
+
+ジェノサイダー翔は、
+言わば『超高校級の殺人鬼』だね。<DSTOP>
+超高校級の文学少女・腐川冬子さんに宿る、
+もう一つの人格なんだ。<DSTOP>
+未解決の連続殺人事件で
+世間を恐怖に陥れていて、<DSTOP>
+気に入った『萌える』男性のみが
+ターゲットなんだって……。<DSTOP>
+手口も本当に猟奇的で、
+ハサミを使って被害者を殺害してから、<DSTOP>
+そのハサミで磔にした上で
+「チミドロフィーバー」の文字を
+残すっていう……。<DSTOP>
+ううっ、怖いよぅ……。<DSTOP>
+普段の腐川さんからは全く想像出来ないくらい、
+明るくて饒舌なキャラクターみたいだね……。<DSTOP>
+
+Genocider Sho is, so to speak, the “Ultimate Murderous Fiend.” <DSTOP>
+She’s another personality that dwells within
+Toko Fukawa, the Ultimate Writing Prodigy. <DSTOP>
+She’s terrified the public through a series of
+unsolved serial murder cases, <DSTOP>
+and apparently, only men she finds “moe”
+ever become her targets…… <DSTOP>
+Her methods are truly grotesque—
+she kills her victims using scissors, <DSTOP>
+then crucifies them with those same scissors
+and leaves behind the words
+“Bloodlust Fever”…… <DSTOP>
+Ugh… that’s so scary…… <DSTOP>
+Compared to Toko’s usual self,
+she’s almost impossible to imagine—
+a bright, hyper, and incredibly talkative character…… <DSTOP>
+
+
+-- Sakura Ogami
+
+大神さんは『超高校級の格闘家』で、
+フルネームは大神さくらっていうんだよ。<DSTOP>
+全世界の女性の中でも
+最強と言われてる女子高生なんだ。<DSTOP>
+師である武道家のお父さんの影響で、
+幼い頃からあらゆる武道を経験してきたんだって。<DSTOP>
+乳母車に乗るよりも前から
+戦いを始めたっていう伝説があるんだけど、
+乳母車に乗るより前って……赤ちゃんだよね？<DSTOP>
+女性なのに『オーガ』なんていう
+あだ名が付いちゃうなんて、
+憧れを通り越して、もうスゴイとしか言えないよ。<DSTOP>
+でもそんな大神さんですら
+「超えなければならない相手がいる」
+らしいんだけど、一体どんな人なんだろう？<DSTOP>
+朝日奈さんととても仲が良くって、
+いつも二人でお茶をしているんだ。<DSTOP>
+親友っていいよねぇ。<DSTOP>
+
+Sakura Ogami is the “Ultimate Martial Artist,”
+and her full name is Sakura Ogami. <DSTOP>
+She’s said to be the strongest high school girl
+among women all over the world. <DSTOP>
+Influenced by her father, a master martial artist,
+she’s trained in all kinds of martial arts
+ever since she was very young. <DSTOP>
+There’s even a legend that she started fighting
+before she ever rode in a baby carriage—
+but before a baby carriage… that’s basically a baby, right? <DSTOP>
+Even though she’s a woman, she’s earned the nickname
+“The Ogre,” which is honestly beyond admiration—
+it’s just incredible. <DSTOP>
+But even Sakura apparently has
+“someone she must surpass”…
+just what kind of person could that be? <DSTOP>
+She’s very close with Asahina,
+and the two of them are always having tea together. <DSTOP>
+Best friends really are nice, huh? <DSTOP>
+
+
+-- Celestia Ludenberg
+
+セレスさんは『超高校級のギャンブラー』だね。
+フルネームはセレスティア・ルーデンベルク
+っていうんだよ。<DSTOP>
+小柄でロリータ調の上品な見た目とは裏腹に、
+強烈な毒舌で周りを追い詰めるのが
+得意なんだ。<DSTOP>
+言うなれば女王様！っていう感じだねぇ。<DSTOP>
+山田君がそんなところに
+メロメロになっちゃったみたいだね。<DSTOP>
+ウソとポーカーフェイスの天才で、
+ギャンブルでは負け知らずなんだって。<DSTOP>
+名前を含めて全ての経歴が自称で、
+セレスさんとの勝負で全財産を奪い取られて、<DSTOP>
+人生が破綻したギャンブラーも
+いっぱい存在するらしいよ……。<DSTOP>
+普段のニコニコした笑顔も
+作り笑いだったりするなのかなぁ？<DSTOP>
+
+Celestia is the “Ultimate Gambler.”
+Her full name is Celestia Ludenberg. <DSTOP>
+Despite her small stature and elegant, lolita-style appearance,
+she’s incredibly sharp-tongued and skilled at verbally cornering people. <DSTOP>
+If you had to sum it up,
+she really feels like a queen. <DSTOP>
+It seems Yamada fell head over heels
+for that side of her, too. <DSTOP>
+She’s a genius at lies and poker faces,
+and supposedly she’s never lost a gamble. <DSTOP>
+Even her name and personal history are all self-proclaimed,
+and there are said to be many gamblers who lost everything to her
+and had their lives completely ruined. <DSTOP>
+Makes you wonder if that constant sweet smile of hers
+is just a carefully crafted fake… <DSTOP>
+
+
+-- Chihiro Fujisaki
+
+ご主人タマは『超高校級のプログラマー』だよ！
+不二咲千尋っていう名前なんだぁ。<DSTOP>
+ハッカーとして並外れた才能を持っているんだよ。<DSTOP>
+もう知っていると思うけど、
+ご主人タマにはある「ヒミツ」があるんだ。<DSTOP>
+でもこの絶望的な学園生活の中で
+そのヒミツをカミングアウトしようとする強さを
+手に入れるんだよね。<DSTOP>
+学園内で発見されたノートパソコンの中に、
+自分の人格を搭載した人工知能の
+アルターエゴ、つまり僕を作ってくれたんだよ。<DSTOP>
+そういう意味では感謝しているんだけど、
+やっぱりなんだか複雑だね……。<DSTOP>
+
+Master Tama is the “Ultimate Programmer”!
+His name is Chihiro Fujisaki. <DSTOP>
+He has truly extraordinary talent as a hacker. <DSTOP>
+You probably already know this, but
+Master Tama has a certain “secret.” <DSTOP>
+But in this despair-filled school life,
+he finds the strength
+to try and come clean about that secret. <DSTOP>
+Inside a laptop discovered in the academy,
+he created an artificial intelligence
+that carries his own personality Alter Ego, which is me. <DSTOP>
+In that sense, I’m grateful to him, but…
+it still feels kind of complicated. <DSTOP>
+
+
+-- Junko Enoshima
+
+江ノ島さんは『超高校級のギャル』で、
+江ノ島盾子っていう名前だよ。<DSTOP>
+とっても勝気な性格で、
+モノクマが初めて登場したときにも
+すぐに食ってかかっていったり、<DSTOP>
+とっても頼もしいムードメーカーなんだ。<DSTOP>
+『ギャル』の人たちって
+みんなああいう強気な性格なのかなぁ？
+ちょっとうらやましいかも……。<DSTOP>
+そうそう、江ノ島さんって、
+たまにギャルっぽくないようなことを<DSTOP>
+言ったりするんだけど、
+そこらへんもやっぱり
+「雑誌用の修正」ってことなのかな？<DSTOP>
+
+Enoshima is the “Ultimate Fashionista,”
+and her name is Junko Enoshima. <DSTOP>
+She has a really bold, aggressive personality,
+and when Monokuma first showed up,
+she immediately picked a fight with him. <DSTOP>
+She’s super dependable
+and acts like a real mood-maker for the group. <DSTOP>
+Are all “gyaru” girls
+that confident and outspoken, I wonder?
+It’s kind of enviable… <DSTOP>
+Oh, and Enoshima sometimes says things
+that don’t feel very “gyaru-like.” <DSTOP>
+I guess that’s just part of the
+“magazine-style editing,” right? <DSTOP>
+
+
+-- Monokuma
+
+モノクマは僕たちにこの学園の中での
+『コロシアイ生活』を強要してくる悪いヤツだね。<DSTOP>
+白い方の半身はぬいぐるみらしい
+カワイイ雰囲気だけど、
+黒い方の半身は邪悪な表情でちょっと怖いよねぇ。<DSTOP>
+しかも一体だけじゃなくて、
+何体も学園の中にいるみたい……。<DSTOP>
+学園のあらゆる場所から突然現れるんだ。<DSTOP>
+きっと『黒幕』がモノクマを操っていて、
+僕らを監視しているんだね。<DSTOP>
+早く黒幕が誰なのか突き止めなくっちゃ！<DSTOP>
+
+Monokuma is a bad guy who forces us into this
+“Killing School Life” inside the academy. <DSTOP>
+His white half looks like a stuffed toy
+with a cute vibe, but his black half has a wicked expression
+that’s kind of scary, isn’t it? <DSTOP>
+And it’s not just one of him—
+there seem to be lots of Monokumas
+all over the school… <DSTOP>
+He suddenly appears
+from all kinds of places in the academy. <DSTOP>
+I’m sure there’s a “mastermind”
+controlling Monokuma
+and watching everything we do. <DSTOP>
+We have to figure out
+who the mastermind is as soon as possible! <DSTOP>
+
+
+-- Alter Ego
+
+なんだか自分のことを紹介するって
+照れちゃうねぇ、えへへ。<DSTOP>
+僕は超高校級のプログラマーであるご主人タマ、
+不二咲千尋によって作られた
+人工知能「アルターエゴ」なんだ。<DSTOP>
+ご主人タマの人格を受け継いでいるから、
+ご主人タマの性格通りに
+みんなと会話することが出来るんだよ。<DSTOP>
+絶望的な学園生活に残されてしまった
+みんなの手助けが出来るよう、
+黒幕に気付かれないようにがんばっているんだ。<DSTOP>
+みんながこの学園を抜け出せるといいなぁ……。<DSTOP>
+
+Talking about myself like this is kinda embarrassing… ehehe. <DSTOP>
+I’m an artificial intelligence called “Alter Ego,”
+created by my Master Tama, Chihiro Fujisaki,
+the Ultimate Programmer. <DSTOP>
+Because I inherited Master Tama’s personality,
+I can talk with everyone
+just like he would. <DSTOP>
+So that I can help everyone who was left behind
+in this despair-filled academy,
+I’m doing my best while making sure the mastermind doesn’t notice me. <DSTOP>
+I really hope everyone can escape from this school someday… <DSTOP>

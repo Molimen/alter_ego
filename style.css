@@ -72,8 +72,6 @@ body {
     position: absolute;
     display: flex;
     width: 410px;
-    color: #1BD211;
-    font-family: meiryo;
     left: 30px;
     top: 10px;
 }
@@ -82,9 +80,10 @@ body {
     position: absolute;
     white-space: pre-line; /* IMPORTANT */
     z-index: 100;
+    color: #1BD211;
     filter: blur(0.3px);
     line-height: 1.15rem;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     font-family: 'NotoSansJP', sans-serif;
 }
 
@@ -262,6 +261,7 @@ body {
     position: relative;
 }
 
+/*DO NOT ADD GAP, cause some text width is diffrent*/
 #clock-number-big {
     position: absolute;
     display: flex;
@@ -286,6 +286,7 @@ body {
     right: 19px;
 }
 
+/*DO NOT ADD GAP, cause some text width is diffrent*/
 #clock-number-small {
     position: absolute;
     display: flex;
@@ -356,13 +357,7 @@ body {
     height: 320px;
 }
 
-#encyclopedia {
-    position: absolute;
-    display: none;
-}
-
-#encyclopedia-button-back {
-    position: absolute;
+.button-back {
     border: none;
     padding: 0;
     top: 289px;
@@ -374,8 +369,17 @@ body {
     background: url("assets/main/back_unhighlight.png");
 }
 
-#encyclopedia-button-back:hover {
+.button-back:hover {
     background-image: url("assets/main/back_highlight.png");
+}
+
+#encyclopedia {
+    position: absolute;
+    display: none;
+}
+
+#encyclopedia-button-back {
+    position: absolute;
 }
 
 .encyclopedia-block-bottom {
@@ -526,6 +530,512 @@ body {
     font-family: 'NotoSansJP', sans-serif;
 }
 
+#encyclopedia-text-1 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-2 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-3 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-4 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-5 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-6 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-7 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-8 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-9 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-10 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-11 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-12 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-13 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-14 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-15 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-16 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-17 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-18 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-19 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-20 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-21 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-22 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-23 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-24 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-25 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-26 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-27 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-28 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-29 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-30 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-31 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-32 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-33 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-34 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#encyclopedia-text-35 {
+    position: absolute;
+    display: none;
+    top: -22px;
+    left: -5px;
+    animation: anim-encyclopedia-text-hover-thing-blink 1.5s infinite;
+    z-index: 1;
+}
+
+#character {
+    position: absolute;
+    display: none;
+}
+
+#character-button-back {
+    position: absolute;
+}
+
+#character-char-button-next {
+    position: absolute;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    z-index: 2;
+    width: 33px;
+    height: 34px;
+    top: 142px;
+    left: 190px;
+    background: none;
+    background-image: url("assets/character/next_unhighlight.png");
+    background-size: contain;
+}
+
+#character-char-button-back {
+    position: absolute;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    z-index: 2;
+    width: 33px;
+    height: 34px;
+    top: 142px;
+    left: -222px;
+    background: none;
+    background-image: url("assets/character/back_unhighlight.png");
+    background-size: contain;
+}
+
+#character-char-button-next:hover {
+    background-image: url("assets/character/next_highlight.png");
+}
+
+#character-char-button-back:hover {
+    background-image: url("assets/character/back_highlight.png");
+}
+
+#character-encyclopedia-container {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    left: -175px;
+    top: 52px;
+}
+
+.character-button-encyclopedia {
+    position: relative;
+    width: 56px;
+    height: 216px;
+    background: none;
+    padding: 0;
+    border: none;
+    cursor: pointer;
+
+}
+
+#character-button-encyclopedia-1 {
+    filter: brightness(50%);
+    transition: filter 0.35s ease;
+    top: -268px;
+    animation: anim-character-button-encyclopedia 0.8s forwards;
+}
+
+#character-button-encyclopedia-2 {
+    filter: brightness(50%);
+    transition: filter 0.35s ease;
+    top: -268px;
+    animation: anim-character-button-encyclopedia 0.8s 0.08s forwards;
+}
+
+#character-button-encyclopedia-3 {
+    filter: brightness(50%);
+    transition: filter 0.35s ease;
+    top: -268px;
+    animation: anim-character-button-encyclopedia 0.8s 0.16s forwards;
+}
+
+#character-button-encyclopedia-4 {
+    filter: brightness(50%);
+    transition: filter 0.35s ease;
+    top: -268px;
+    animation: anim-character-button-encyclopedia 0.8s 0.24s forwards;
+}
+
+#character-button-encyclopedia-5 {
+    filter: brightness(50%);
+    transition: filter 0.35s ease;
+    top: -268px;
+    animation: anim-character-button-encyclopedia 0.8s 0.32s forwards;
+}
+
+#character-button-encyclopedia-6 {
+    filter: brightness(50%);
+    transition: filter 0.35s ease;
+    top: -268px;
+    animation: anim-character-button-encyclopedia 0.8s 0.40s forwards;
+}
+
+#character-button-encyclopedia-1:hover {
+    filter: brightness(100%);
+}
+
+#character-button-encyclopedia-2:hover {
+    filter: brightness(100%);
+}
+
+#character-button-encyclopedia-3:hover {
+    filter: brightness(100%);
+}
+
+#character-button-encyclopedia-4:hover {
+    filter: brightness(100%);
+}
+
+#character-button-encyclopedia-5:hover {
+    filter: brightness(100%);
+}
+
+#character-button-encyclopedia-6:hover {
+    filter: brightness(100%);
+}
+
+#character-button-encyclopedia-image-1 {
+    position: relative;
+    height: 216px;
+}
+
+#character-button-encyclopedia-image-2 {
+    position: relative;
+    height: 216px;
+}
+
+#character-button-encyclopedia-image-3 {
+    position: relative;
+    height: 216px;
+}
+
+#character-button-encyclopedia-image-4 {
+    position: relative;
+    height: 216px;
+}
+
+#character-button-encyclopedia-image-5 {
+    position: relative;
+    height: 216px;
+}
+
+#character-button-encyclopedia-image-6 {
+    position: relative;
+    height: 216px;
+}
+
+#character-top-encyclopedia-image {
+    position: absolute;
+    left: -240px;
+    top: -39px;
+    animation: anim-character-top-encyclopedia-image .5s 0.2s forwards;
+}
+
+#character-image-full-container {
+    position: absolute;
+    display: none;
+    width: 262px;
+    height: 320px;
+    left: -128px;
+    background-color: rgb(64, 167, 64);
+    transform: scale(1);
+    transition: transform .8s ease;
+}
+
+#character-image-full-container:hover {
+    transform: scale(1.1);
+}
+
+#character-image-full {
+    position: absolute;
+    top: 13px;
+    left: 3px;
+}
+
 @keyframes moveupdown {
     0% {top: 40px;}
     38% {top: 49px;}
@@ -616,5 +1126,41 @@ body {
 
 @keyframes anim-encyclopedia-darker-bg {
     from {top: -1000px;}
+    to {top: 0;}
+}
+
+@keyframes character-button-encyclopedia-image-flip-1 {
+    0% {width: 56px;left: 0;}
+    100% {width: 0;left: -28px;}
+}
+
+@keyframes character-button-encyclopedia-image-flip-2 {
+    0% {width: 0;left: 28px;}
+    100% {width: 56px;left: 0;}
+}
+
+@keyframes character-button-encyclopedia-image-flip-3 {
+    0% {width: 56px;left: 0;}
+    100% {width: 0;left: 28px;}
+}
+
+@keyframes character-button-encyclopedia-image-flip-4 {
+    0% {width: 0;left: -28px;}
+    100% {width: 56px;left: 0;}
+}
+
+@keyframes anim-encyclopedia-text-hover-thing-blink {
+    0% {opacity: 0;}
+    50% {opacity: 0.7;}
+    100% {opacity: 0;}
+}
+
+@keyframes anim-character-top-encyclopedia-image {
+    from {top: -39px;}
+    to {top: 0;}
+}
+
+@keyframes anim-character-button-encyclopedia {
+    from {top: -268px;}
     to {top: 0;}
 }
