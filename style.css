@@ -1020,10 +1020,23 @@ body {
     display: none;
     width: 262px;
     height: 320px;
-    left: -128px;
+    left: 256px;
     background-color: rgb(64, 167, 64);
     transform: scale(1);
     transition: transform .8s ease;
+    animation: anim-character-image-full-container-show .8s forwards;
+}
+
+@keyframes anim-character-image-full-container-show {
+    0% {left: 256px;}
+    50% {left: -148px;}
+    100% {left: -128px;}
+}
+
+@keyframes anim-character-image-full-container-unshow {
+    0% {left: -128px;}
+    50% {left: -108px;}
+    100% {left: -512px;}
 }
 
 #character-image-full-container:hover {
