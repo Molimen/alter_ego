@@ -21,8 +21,8 @@ body {
 #main-wraper {
     display:flex;
     justify-content:center;
-    position:relative;
-    bottom: 8px;
+    position:absolute;
+    top: 0;
     width: 480px;
     overflow: hidden;
 }
